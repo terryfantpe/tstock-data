@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "version_name": "v8",
+  "version": 9,
+  "version_name": "v9",
   "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip",
   "min_app_version": 1
 }
