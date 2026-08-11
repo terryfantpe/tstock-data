@@ -1,7 +1,7 @@
 {
-    "version": 112,
-    "version_name": "v112",
-    "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip",
+    "version": 113,
+    "version_name": "v113",
+    "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=113",
     "min_app_version": 1,
     "bundle_hash": "397c37305934774c96c3ab976ce244af0d990e84a656927e4fd4125aec6d7ba6"
 }
