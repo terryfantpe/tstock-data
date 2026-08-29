@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-24 08:24:05",
+  "generated_at": "2026-08-29 10:22:12",
   "db_source": "TSTOCK.db",
   "latest_date": "2026-08-20",
   "pages_url": "https://terryfantpe.github.io/tstock-data",
@@ -126,8 +126,8 @@
         {
           "market": "OTC",
           "task": "price",
-          "status": "OK",
-          "count": 872
+          "status": "FAIL",
+          "count": 0
         },
         {
           "market": "TSE",
