@@ -1,58 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19 05:20:45",
+  "generated_at": "2026-09-19 05:20:52",
   "db_source": "TSTOCK.db",
-  "latest_date": "2026-09-18",
+  "latest_date": "2026-09-17",
   "pages_url": "https://terryfantpe.github.io/tstock-data",
   "files": [
-    {
-      "date": "2026-09-18",
-      "file": "market_2026-09-18.json",
-      "size": 818699,
-      "stats": {
-        "price_count": 1957,
-        "inst_count": 1883,
-        "margin_count": 1868
-      },
-      "task_log": [
-        {
-          "market": "OTC",
-          "task": "inst",
-          "status": "OK",
-          "count": 799
-        },
-        {
-          "market": "OTC",
-          "task": "margin",
-          "status": "OK",
-          "count": 802
-        },
-        {
-          "market": "OTC",
-          "task": "price",
-          "status": "OK",
-          "count": 868
-        },
-        {
-          "market": "TSE",
-          "task": "inst",
-          "status": "OK",
-          "count": 1084
-        },
-        {
-          "market": "TSE",
-          "task": "margin",
-          "status": "OK",
-          "count": 1066
-        },
-        {
-          "market": "TSE",
-          "task": "price",
-          "status": "OK",
-          "count": 1089
-        }
-      ]
-    },
     {
       "date": "2026-09-17",
       "file": "market_2026-09-17.json",
@@ -98,6 +50,54 @@
           "task": "price",
           "status": "OK",
           "count": 1089
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "file": "market_2026-09-16.json",
+      "size": 813337,
+      "stats": {
+        "price_count": 1957,
+        "inst_count": 1840,
+        "margin_count": 1868
+      },
+      "task_log": [
+        {
+          "market": "OTC",
+          "task": "inst",
+          "status": "OK",
+          "count": 765
+        },
+        {
+          "market": "OTC",
+          "task": "margin",
+          "status": "OK",
+          "count": 802
+        },
+        {
+          "market": "OTC",
+          "task": "price",
+          "status": "OK",
+          "count": 874
+        },
+        {
+          "market": "TSE",
+          "task": "inst",
+          "status": "OK",
+          "count": 1075
+        },
+        {
+          "market": "TSE",
+          "task": "margin",
+          "status": "OK",
+          "count": 1066
+        },
+        {
+          "market": "TSE",
+          "task": "price",
+          "status": "OK",
+          "count": 1083
         }
       ]
     },
