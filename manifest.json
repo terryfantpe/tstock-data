@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08 21:43:28",
+  "generated_at": "2026-10-08 21:43:49",
   "db_source": "TSTOCK.db",
   "latest_date": "2026-10-08",
   "pages_url": "https://terryfantpe.github.io/tstock-data",
@@ -8,7 +8,7 @@
     {
       "date": "2026-10-08",
       "file": "market_2026-10-08.json",
-      "size": 880743,
+      "size": 855254,
       "stats": {
         "price_count": 1958,
         "inst_count": 1846,
@@ -74,6 +74,78 @@
           "task": "price",
           "status": "OK",
           "count": 1091
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "file": "market_2026-10-07.json",
+      "size": 883563,
+      "stats": {
+        "price_count": 1962,
+        "inst_count": 1865,
+        "margin_count": 2234
+      },
+      "task_log": [
+        {
+          "market": "OTC",
+          "task": "day_trade",
+          "status": "OK",
+          "count": 841
+        },
+        {
+          "market": "OTC",
+          "task": "inst",
+          "status": "OK",
+          "count": 782
+        },
+        {
+          "market": "OTC",
+          "task": "lending",
+          "status": "OK",
+          "count": 932
+        },
+        {
+          "market": "OTC",
+          "task": "margin",
+          "status": "OK",
+          "count": 802
+        },
+        {
+          "market": "OTC",
+          "task": "price",
+          "status": "OK",
+          "count": 873
+        },
+        {
+          "market": "TSE",
+          "task": "day_trade",
+          "status": "OK",
+          "count": 1225
+        },
+        {
+          "market": "TSE",
+          "task": "inst",
+          "status": "OK",
+          "count": 1083
+        },
+        {
+          "market": "TSE",
+          "task": "lending",
+          "status": "OK",
+          "count": 1302
+        },
+        {
+          "market": "TSE",
+          "task": "margin",
+          "status": "OK",
+          "count": 1067
+        },
+        {
+          "market": "TSE",
+          "task": "price",
+          "status": "OK",
+          "count": 1089
         }
       ]
     }
