@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19 22:42:13",
+  "generated_at": "2026-10-19 22:42:24",
   "db_source": "TSTOCK.db",
   "latest_date": "2026-10-19",
   "pages_url": "https://terryfantpe.github.io/tstock-data",
@@ -8,13 +8,19 @@
     {
       "date": "2026-10-19",
       "file": "market_2026-10-19.json",
-      "size": 1099929,
+      "size": 1100070,
       "stats": {
         "price_count": 1960,
         "inst_count": 1855,
         "margin_count": 2237
       },
       "task_log": [
+        {
+          "market": "OTC",
+          "task": "day_trade",
+          "status": "OK",
+          "count": 841
+        },
         {
           "market": "OTC",
           "task": "inst",
@@ -38,6 +44,12 @@
           "task": "price",
           "status": "OK",
           "count": 870
+        },
+        {
+          "market": "TSE",
+          "task": "day_trade",
+          "status": "OK",
+          "count": 1235
         },
         {
           "market": "TSE",
