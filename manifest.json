@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22 23:56:14",
+  "generated_at": "2026-10-27 01:04:59",
   "db_source": "TSTOCK.db",
   "latest_date": "2026-10-22",
   "pages_url": "https://terryfantpe.github.io/tstock-data",
@@ -80,7 +80,7 @@
     {
       "date": "2026-10-21",
       "file": "market_2026-10-21.json",
-      "size": 1101799,
+      "size": 1101907,
       "stats": {
         "price_count": 1964,
         "inst_count": 1869,
@@ -152,7 +152,7 @@
     {
       "date": "2026-10-20",
       "file": "market_2026-10-20.json",
-      "size": 1100276,
+      "size": 1100384,
       "stats": {
         "price_count": 1962,
         "inst_count": 1848,
@@ -224,7 +224,7 @@
     {
       "date": "2026-10-19",
       "file": "market_2026-10-19.json",
-      "size": 1100178,
+      "size": 1100286,
       "stats": {
         "price_count": 1960,
         "inst_count": 1855,
@@ -296,7 +296,7 @@
     {
       "date": "2026-10-16",
       "file": "market_2026-10-16.json",
-      "size": 1098166,
+      "size": 1098382,
       "stats": {
         "price_count": 1954,
         "inst_count": 1847,
@@ -368,7 +368,7 @@
     {
       "date": "2026-10-15",
       "file": "market_2026-10-15.json",
-      "size": 1102032,
+      "size": 1102248,
       "stats": {
         "price_count": 1963,
         "inst_count": 1863,
@@ -440,7 +440,7 @@
     {
       "date": "2026-10-14",
       "file": "market_2026-10-14.json",
-      "size": 1100431,
+      "size": 1100761,
       "stats": {
         "price_count": 1960,
         "inst_count": 1866,
@@ -506,366 +506,6 @@
           "task": "price",
           "status": "OK",
           "count": 1092
-        }
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "file": "market_2026-10-13.json",
-      "size": 1101288,
-      "stats": {
-        "price_count": 1961,
-        "inst_count": 1861,
-        "margin_count": 2235
-      },
-      "task_log": [
-        {
-          "market": "OTC",
-          "task": "day_trade",
-          "status": "OK",
-          "count": 840
-        },
-        {
-          "market": "OTC",
-          "task": "inst",
-          "status": "OK",
-          "count": 773
-        },
-        {
-          "market": "OTC",
-          "task": "lending",
-          "status": "OK",
-          "count": 932
-        },
-        {
-          "market": "OTC",
-          "task": "margin",
-          "status": "OK",
-          "count": 802
-        },
-        {
-          "market": "OTC",
-          "task": "price",
-          "status": "OK",
-          "count": 713
-        },
-        {
-          "market": "TSE",
-          "task": "day_trade",
-          "status": "OK",
-          "count": 1225
-        },
-        {
-          "market": "TSE",
-          "task": "inst",
-          "status": "OK",
-          "count": 1088
-        },
-        {
-          "market": "TSE",
-          "task": "lending",
-          "status": "OK",
-          "count": 1303
-        },
-        {
-          "market": "TSE",
-          "task": "margin",
-          "status": "OK",
-          "count": 1067
-        },
-        {
-          "market": "TSE",
-          "task": "price",
-          "status": "OK",
-          "count": 1093
-        }
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "file": "market_2026-10-12.json",
-      "size": 1101764,
-      "stats": {
-        "price_count": 1960,
-        "inst_count": 1872,
-        "margin_count": 2235
-      },
-      "task_log": [
-        {
-          "market": "OTC",
-          "task": "day_trade",
-          "status": "OK",
-          "count": 840
-        },
-        {
-          "market": "OTC",
-          "task": "inst",
-          "status": "OK",
-          "count": 787
-        },
-        {
-          "market": "OTC",
-          "task": "lending",
-          "status": "OK",
-          "count": 932
-        },
-        {
-          "market": "OTC",
-          "task": "margin",
-          "status": "OK",
-          "count": 802
-        },
-        {
-          "market": "OTC",
-          "task": "price",
-          "status": "OK",
-          "count": 868
-        },
-        {
-          "market": "TSE",
-          "task": "day_trade",
-          "status": "OK",
-          "count": 1221
-        },
-        {
-          "market": "TSE",
-          "task": "inst",
-          "status": "OK",
-          "count": 1085
-        },
-        {
-          "market": "TSE",
-          "task": "lending",
-          "status": "OK",
-          "count": 1303
-        },
-        {
-          "market": "TSE",
-          "task": "margin",
-          "status": "OK",
-          "count": 1067
-        },
-        {
-          "market": "TSE",
-          "task": "price",
-          "status": "OK",
-          "count": 1092
-        }
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "file": "market_2026-10-08.json",
-      "size": 1097894,
-      "stats": {
-        "price_count": 1958,
-        "inst_count": 1846,
-        "margin_count": 2234
-      },
-      "task_log": [
-        {
-          "market": "OTC",
-          "task": "day_trade",
-          "status": "OK",
-          "count": 840
-        },
-        {
-          "market": "OTC",
-          "task": "inst",
-          "status": "OK",
-          "count": 770
-        },
-        {
-          "market": "OTC",
-          "task": "lending",
-          "status": "OK",
-          "count": 932
-        },
-        {
-          "market": "OTC",
-          "task": "margin",
-          "status": "OK",
-          "count": 802
-        },
-        {
-          "market": "OTC",
-          "task": "price",
-          "status": "OK",
-          "count": 867
-        },
-        {
-          "market": "TSE",
-          "task": "day_trade",
-          "status": "OK",
-          "count": 1220
-        },
-        {
-          "market": "TSE",
-          "task": "inst",
-          "status": "OK",
-          "count": 1076
-        },
-        {
-          "market": "TSE",
-          "task": "lending",
-          "status": "OK",
-          "count": 1302
-        },
-        {
-          "market": "TSE",
-          "task": "margin",
-          "status": "OK",
-          "count": 1067
-        },
-        {
-          "market": "TSE",
-          "task": "price",
-          "status": "OK",
-          "count": 1091
-        }
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "file": "market_2026-10-07.json",
-      "size": 1100714,
-      "stats": {
-        "price_count": 1962,
-        "inst_count": 1865,
-        "margin_count": 2234
-      },
-      "task_log": [
-        {
-          "market": "OTC",
-          "task": "day_trade",
-          "status": "OK",
-          "count": 841
-        },
-        {
-          "market": "OTC",
-          "task": "inst",
-          "status": "OK",
-          "count": 782
-        },
-        {
-          "market": "OTC",
-          "task": "lending",
-          "status": "OK",
-          "count": 932
-        },
-        {
-          "market": "OTC",
-          "task": "margin",
-          "status": "OK",
-          "count": 802
-        },
-        {
-          "market": "OTC",
-          "task": "price",
-          "status": "OK",
-          "count": 873
-        },
-        {
-          "market": "TSE",
-          "task": "day_trade",
-          "status": "OK",
-          "count": 1225
-        },
-        {
-          "market": "TSE",
-          "task": "inst",
-          "status": "OK",
-          "count": 1083
-        },
-        {
-          "market": "TSE",
-          "task": "lending",
-          "status": "OK",
-          "count": 1302
-        },
-        {
-          "market": "TSE",
-          "task": "margin",
-          "status": "OK",
-          "count": 1067
-        },
-        {
-          "market": "TSE",
-          "task": "price",
-          "status": "OK",
-          "count": 1089
-        }
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "file": "market_2026-10-06.json",
-      "size": 1100577,
-      "stats": {
-        "price_count": 1960,
-        "inst_count": 1869,
-        "margin_count": 2233
-      },
-      "task_log": [
-        {
-          "market": "OTC",
-          "task": "day_trade",
-          "status": "OK",
-          "count": 841
-        },
-        {
-          "market": "OTC",
-          "task": "inst",
-          "status": "OK",
-          "count": 783
-        },
-        {
-          "market": "OTC",
-          "task": "lending",
-          "status": "OK",
-          "count": 931
-        },
-        {
-          "market": "OTC",
-          "task": "margin",
-          "status": "OK",
-          "count": 802
-        },
-        {
-          "market": "OTC",
-          "task": "price",
-          "status": "OK",
-          "count": 865
-        },
-        {
-          "market": "TSE",
-          "task": "day_trade",
-          "status": "OK",
-          "count": 1227
-        },
-        {
-          "market": "TSE",
-          "task": "inst",
-          "status": "OK",
-          "count": 1086
-        },
-        {
-          "market": "TSE",
-          "task": "lending",
-          "status": "OK",
-          "count": 1302
-        },
-        {
-          "market": "TSE",
-          "task": "margin",
-          "status": "OK",
-          "count": 1067
-        },
-        {
-          "market": "TSE",
-          "task": "price",
-          "status": "OK",
-          "count": 1095
         }
       ]
     }
