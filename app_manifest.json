@@ -3,7 +3,7 @@
     "version_name": "v336",
     "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=336",
     "min_app_version": 1,
-    "bundle_hash": "08c7f5b3f6d29c34e701a9b180f355b08487bca68509b61a3972762f3daa7bfa",
+    "bundle_hash": "294da6d5e83e0f14bc97492fda68d9af4960a2c324e84292e384e3e6f47251ca",
     "ai_db_url": "https://github.com/terryfantpe/tstock-data/releases/download/db-20261027-1103/TSTOCK_AI.DB",
     "ai_db_mtime": "2026-10-27 11:03:17",
     "ai_db_size": 57053184,
