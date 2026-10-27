@@ -1,11 +1,11 @@
 {
-    "version": 337,
-    "version_name": "v337",
-    "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=337",
-    "min_app_version": 1,
-    "bundle_hash": "120b0e7911bb941e0dcdf121db59a92f6e15dc15607c0a839d1b2ced7e35533e",
-    "ai_db_url": "https://github.com/terryfantpe/tstock-data/releases/download/db-20261027-1103/TSTOCK_AI.DB",
-    "ai_db_mtime": "2026-10-27 11:03:17",
-    "ai_db_size": 57053184,
-    "ai_db_tag": "db-20261027-1103"
+  "version": 337,
+  "version_name": "v337",
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=337",
+  "min_app_version": 1,
+  "bundle_hash": "120b0e7911bb941e0dcdf121db59a92f6e15dc15607c0a839d1b2ced7e35533e",
+  "ai_db_url": "https://github.com/terryfantpe/tstock-data/releases/download/db-20261028-0110/TSTOCK_AI.DB",
+  "ai_db_mtime": "2026-10-28 01:10:58",
+  "ai_db_size": 89812992,
+  "ai_db_tag": "db-20261028-0110"
 }
