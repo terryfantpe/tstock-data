@@ -1,10 +1,85 @@
 {
   "version": 2,
-  "generated_at": "2026-10-27 21:01:26",
+  "generated_at": "2026-10-28 21:11:00",
   "db_source": "TSTOCK.db",
-  "latest_date": "2026-10-27",
+  "latest_date": "2026-10-28",
   "pages_url": "https://terryfantpe.github.io/tstock-data",
   "files": [
+    {
+      "date": "2026-10-28",
+      "file": "market_2026-10-28.json",
+      "size": 1314532,
+      "stats": {
+        "price_count": 1968,
+        "inst_count": 1875,
+        "margin_count": 2211,
+        "lending_count": 2064,
+        "lending_diff_count": 2211,
+        "day_trade_count": 1592
+      },
+      "task_log": [
+        {
+          "market": "OTC",
+          "task": "day_trade",
+          "status": "OK",
+          "count": 709
+        },
+        {
+          "market": "OTC",
+          "task": "inst",
+          "status": "OK",
+          "count": 785
+        },
+        {
+          "market": "OTC",
+          "task": "lending",
+          "status": "OK",
+          "count": 829
+        },
+        {
+          "market": "OTC",
+          "task": "margin",
+          "status": "OK",
+          "count": 802
+        },
+        {
+          "market": "OTC",
+          "task": "price",
+          "status": "OK",
+          "count": 872
+        },
+        {
+          "market": "TSE",
+          "task": "day_trade",
+          "status": "OK",
+          "count": 1161
+        },
+        {
+          "market": "TSE",
+          "task": "inst",
+          "status": "OK",
+          "count": 1090
+        },
+        {
+          "market": "TSE",
+          "task": "lending",
+          "status": "OK",
+          "count": 1235
+        },
+        {
+          "market": "TSE",
+          "task": "margin",
+          "status": "OK",
+          "count": 1069
+        },
+        {
+          "market": "TSE",
+          "task": "price",
+          "status": "OK",
+          "count": 1096
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "file": "market_2026-10-27.json",
