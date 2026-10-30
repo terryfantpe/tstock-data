@@ -1,13 +1,13 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 2,
-  "version_name": "v2",
-  "display_version": "v1.2.2",
+  "version": 3,
+  "version_name": "v3",
+  "display_version": "v1.2.3",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=2",
-  "bundle_hash": "2d8a7e863827942beb933eff326b03844007692e4618502421417aac157a2dc4",
-  "bundle_size": 211711,
-  "delta_media_count": 0,
-  "changelog": "P2R 架構雲端熱更新 (OTA) 系統 + Combat 4.0 六大專家流派作戰核心",
-  "published_at": "2026-10-30 13:21:05"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=3",
+  "bundle_hash": "2cb3b7fc1836a992db7534b39b12c2bd25c94e85b18dd4fee457f7ed6cc0b2b2",
+  "bundle_size": 20970033,
+  "delta_media_count": 41,
+  "changelog": "重構廢土左右對決戰鬥視野與雙向打鬥特效 + 全面修正 R/SR 卡戰鬥去背圖",
+  "published_at": "2026-10-31 02:23:15"
 }
