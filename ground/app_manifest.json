@@ -1,13 +1,13 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 3,
-  "version_name": "v3",
-  "display_version": "v1.2.3",
+  "version": 4,
+  "version_name": "v4",
+  "display_version": "v1.2.4",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=3",
-  "bundle_hash": "2cb3b7fc1836a992db7534b39b12c2bd25c94e85b18dd4fee457f7ed6cc0b2b2",
-  "bundle_size": 20970033,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=4",
+  "bundle_hash": "4e3b8b7ed9887c112bdfa0d227e4ec4ecdd06a7270bbf5e4d42d71e1b26e2317",
+  "bundle_size": 20998917,
   "delta_media_count": 41,
-  "changelog": "重構廢土左右對決戰鬥視野與雙向打鬥特效 + 全面修正 R/SR 卡戰鬥去背圖",
-  "published_at": "2026-10-31 02:23:15"
+  "changelog": "實裝戰術軍師 AI 5.0 (四大作戰指令/夾心合卡預判/神經鎖定/手動軍師推薦) + 全新賽博地底剖面避難所總覽",
+  "published_at": "2026-10-31 14:09:55"
 }
