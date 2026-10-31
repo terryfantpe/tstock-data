@@ -1,13 +1,13 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 4,
-  "version_name": "v4",
-  "display_version": "v1.2.4",
+  "version": 5,
+  "version_name": "v5",
+  "display_version": "v1.2.5",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=4",
-  "bundle_hash": "4e3b8b7ed9887c112bdfa0d227e4ec4ecdd06a7270bbf5e4d42d71e1b26e2317",
-  "bundle_size": 20998917,
-  "delta_media_count": 41,
-  "changelog": "實裝戰術軍師 AI 5.0 (四大作戰指令/夾心合卡預判/神經鎖定/手動軍師推薦) + 全新賽博地底剖面避難所總覽",
-  "published_at": "2026-10-31 14:09:55"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=5",
+  "bundle_hash": "9d76c839f635a7ea581892b643303bb9ca5fd15e92b286dba1ff17f7e364f802",
+  "bundle_size": 21326065,
+  "delta_media_count": 42,
+  "changelog": "全新14座避難所戰略星圖與主動脈衝掃描 + 廢土裝甲遠征車隊與小型遭遇戰系統",
+  "published_at": "2026-11-01 06:40:13"
 }
