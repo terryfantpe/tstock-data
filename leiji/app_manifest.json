@@ -5,9 +5,9 @@
   "display_version": "v1.1.11",
   "min_apk_version": 2,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=11",
-  "bundle_hash": "7a5cdf901f5b87864e78c6a6d1800205430d4604e7d0f530533346b524e5063a",
-  "bundle_size": 86339,
-  "delta_media_count": 0,
+  "bundle_hash": "2e5083fbdf9a48d8c149c5273966b1403bc62f47183ea25f14b8b59a4d70d873",
+  "bundle_size": 2042876,
+  "delta_media_count": 5,
   "changelog": "v1.1.11 — 新增「🧭 新哲學 (200篇)」、「🪷 思維小集 (200篇)」與「🎙️ 純中文朗讀」模式 · 259冊標題全量校準 Audit 與雙行無截斷選書介面",
-  "published_at": "2026-11-01 22:44:42"
+  "published_at": "2026-11-01 22:45:42"
 }
