@@ -1,13 +1,13 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 5,
-  "version_name": "v5",
-  "display_version": "v1.2.5",
+  "version": 6,
+  "version_name": "v6",
+  "display_version": "v1.2.6",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=5",
-  "bundle_hash": "9d76c839f635a7ea581892b643303bb9ca5fd15e92b286dba1ff17f7e364f802",
-  "bundle_size": 21326065,
-  "delta_media_count": 42,
-  "changelog": "全新14座避難所戰略星圖與主動脈衝掃描 + 廢土裝甲遠征車隊與小型遭遇戰系統",
-  "published_at": "2026-11-01 06:40:13"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=6",
+  "bundle_hash": "21d491967fd68170e0003f09858896771ba4a775de343df9953308ef6108c95b",
+  "bundle_size": 33248030,
+  "delta_media_count": 82,
+  "changelog": "新增10位絕美少女明星SSR英雄(周子瑜/葉舒華/張員瑛/Karina等) + 全新巨幅高亮寫真卡牌與升級鑑賞介面",
+  "published_at": "2026-11-01 08:22:27"
 }
