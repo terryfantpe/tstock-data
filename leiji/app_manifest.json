@@ -5,9 +5,9 @@
   "display_version": "v1.1.7",
   "min_apk_version": 2,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=7",
-  "bundle_hash": "4e5335866d2a51424d9242da71ff42ae127473c407919ff0f31ad5e5ba94960c",
-  "bundle_size": 83520,
-  "delta_media_count": 0,
+  "bundle_hash": "424dbfd315c0ae65b700dbaebeea1e90712e490fb20637f3737a696224e4396d",
+  "bundle_size": 1476161,
+  "delta_media_count": 3,
   "changelog": "v1.1.7 — 新增頂級思維 (@dingjisiwei) 20部雙語有聲書與文字檔 · Doo.WorkEnglish 326篇職場英文 · 6大無背景音深色學習情境 · 去框全寬極簡排版 · GROUND同級OTA",
-  "published_at": "2026-11-01 14:15:44"
+  "published_at": "2026-11-01 14:15:47"
 }
