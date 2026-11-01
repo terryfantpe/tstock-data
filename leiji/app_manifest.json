@@ -1,0 +1,13 @@
+{
+  "app_id": "com.terry.xiaobear.audiobook",
+  "version": 2,
+  "version_name": "v2",
+  "display_version": "v1.1.2",
+  "min_apk_version": 2,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=2",
+  "bundle_hash": "6ded39327718c50cd6079283b513e6b051594f566a9fc9ad7b5301df749fa742",
+  "bundle_size": 68597,
+  "delta_media_count": 0,
+  "changelog": "導入 GROUND P2R-Style 雲端差分熱更新 (OTA) 系統 + Swarm 15 大旗艦有聲書功能",
+  "published_at": "2026-11-01 08:20:32"
+}
