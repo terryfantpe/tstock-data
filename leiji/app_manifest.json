@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 11,
-  "version_name": "v11",
-  "display_version": "v1.1.11",
+  "version": 12,
+  "version_name": "v12",
+  "display_version": "v1.1.12",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=11",
-  "bundle_hash": "2e5083fbdf9a48d8c149c5273966b1403bc62f47183ea25f14b8b59a4d70d873",
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=12",
+  "bundle_hash": "19ee08f090193decb02266fba32a3c4acb61768adfc8396e871243dcbf866201",
   "bundle_size": 2042876,
   "delta_media_count": 5,
   "changelog": "v1.1.11 — 新增「🧭 新哲學 (200篇)」、「🪷 思維小集 (200篇)」與「🎙️ 純中文朗讀」模式 · 259冊標題全量校準 Audit 與雙行無截斷選書介面",
-  "published_at": "2026-11-01 22:45:42"
+  "published_at": "2026-11-01 22:46:02"
 }
