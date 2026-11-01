@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.ziwei",
-  "version": 10,
-  "version_name": "v10",
-  "display_version": "v0.1.10",
-  "min_apk_version": 10,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=10",
-  "bundle_hash": "1cf92097a98e01ebdaf56b376eb0d72c381e78de1256c1e532cf9406d4403627",
-  "bundle_size": 633835,
+  "version": 11,
+  "version_name": "v11",
+  "display_version": "v0.1.11",
+  "min_apk_version": 11,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=11",
+  "bundle_hash": "bdcc5daba48ba1cc3f0530484b832933f287ecc0bd35b0e9c00aac26bc368745",
+  "bundle_size": 638168,
   "delta_media_count": 0,
-  "changelog": "v0.1.10 — 導入與 LEARN 專案同級 P2R-OTA 雲端差分線上熱更新中心 (Android + Windows 雙端熱更 / SHA-256 校驗 / 一鍵回滾出廠核心) + 雙城翻頁時鐘透明小工具",
-  "published_at": "2026-11-01 21:25:17"
+  "changelog": "v0.1.11 — 實作款式 1(極光無框流體)/3(東方宣紙金線御曆)/5(星盤脈輪光譜脊線) 三款可選整合小工具 + 每5秒自動輪播紫微/八字/星＋脈說明以縮減高度 + TPE/MTV 與中文地理位置(台北/山景城)切換",
+  "published_at": "2026-11-01 23:32:30"
 }
