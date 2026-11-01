@@ -1,13 +1,13 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 9,
-  "version_name": "v9",
-  "display_version": "v1.2.9",
+  "version": 10,
+  "version_name": "v10",
+  "display_version": "v1.2.10",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=9",
-  "bundle_hash": "7aaee0e5f3dcdb218580b7d742e02cf493c233977c6268d3dcfcbe6a35892132",
-  "bundle_size": 33333454,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=10",
+  "bundle_hash": "c6229057496f3aaece45c1be650840a6d1593fc4f516d50d9b314b8added888b",
+  "bundle_size": 33331615,
   "delta_media_count": 82,
-  "changelog": "v9 好玩好上手大升級：出陣點將台(一鍵羈絆)＋一指直擊＆悔棋＋軍師錦囊＋12生活職業戰場覺醒＋本陣3大城防機關＋陣前勸降捉將＋MVP巨幅寫真＋聚義廳7步懸賞令＋108星碑真全局加成",
-  "published_at": "2026-11-01 21:59:25"
+  "changelog": "v10 生存夥伴零重疊排版＋英雄檔案直顯華麗卡面＆底部高清寫真(點圖直開滿版、移除戰鬥立繪與多餘按鈕)＋鑲嵌式夥伴徽章＋昕媛與頂級人氣女神專屬稱號",
+  "published_at": "2026-11-01 22:40:39"
 }
