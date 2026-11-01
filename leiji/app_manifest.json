@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 7,
-  "version_name": "v7",
-  "display_version": "v1.1.7",
+  "version": 8,
+  "version_name": "v8",
+  "display_version": "v1.1.8",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=7",
-  "bundle_hash": "04aaab318ca81c2ddaeb6f4512edf04d4e9507c0e777c8f2fcb973b2731bafbf",
-  "bundle_size": 1476161,
-  "delta_media_count": 3,
-  "changelog": "v1.1.7 — 新增頂級思維 (@dingjisiwei) 20部雙語有聲書與文字檔 · Doo.WorkEnglish 326篇職場英文 · 6大無背景音深色學習情境 · 去框全寬極簡排版 · GROUND同級OTA",
-  "published_at": "2026-11-01 14:16:50"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=8",
+  "bundle_hash": "4add63c03de1cecac9941c1a37f301d90525b36d35051049164ee01bbd117b2b",
+  "bundle_size": 83732,
+  "delta_media_count": 0,
+  "changelog": "v1.1.8 — 頂級思維 (@dingjisiwei) 100部雙語有聲書與文字檔全集 · 情境與閱讀設定全面整合至右下角設定彈出面板 · Doo.WorkEnglish 326篇職場英文",
+  "published_at": "2026-11-01 15:12:55"
 }
