@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 9,
-  "version_name": "v9",
-  "display_version": "v1.1.9",
+  "version": 10,
+  "version_name": "v10",
+  "display_version": "v1.1.10",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=9",
-  "bundle_hash": "cebcda5321bc5c58399a91c87bd3b51659285836d8e5dedb5216adbe1f781380",
-  "bundle_size": 1564856,
-  "delta_media_count": 3,
-  "changelog": "v1.1.9 — 頂級思維 (@dingjisiwei) 擴充至 200 部雙語有聲書與文字檔全集 (2,765句) · 情境與閱讀設定整合至右下角設定面板 · 職場英文 326 篇",
-  "published_at": "2026-11-01 20:21:18"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=10",
+  "bundle_hash": "a7d624e3f8e591b1e1a0ed64b2b9aed637b8ddcc1d6c85736b9da3ecc989bce0",
+  "bundle_size": 83775,
+  "delta_media_count": 0,
+  "changelog": "v1.1.10 — Instagram @dingjisiwei88 (精英頂級思維) 100篇完整雙語文章有聲書與569篇影片描述全集 · 右下角統一設定面板 · 職場英文 326 篇",
+  "published_at": "2026-11-01 21:16:35"
 }
