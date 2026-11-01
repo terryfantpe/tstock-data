@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 5,
-  "version_name": "v5",
-  "display_version": "v1.1.5",
-  "min_apk_version": 5,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=5",
-  "bundle_hash": "1130f722fff9e5ef7e2a4cf8940f887f217f336b8279708d977dc6f58fee4207",
-  "bundle_size": 71471,
+  "version": 6,
+  "version_name": "v6",
+  "display_version": "v1.1.6",
+  "min_apk_version": 6,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=6",
+  "bundle_hash": "ba149e2dca0ea4aa54464eed80886a1a0336daacfddb9e584f757cbdfb3995bf",
+  "bundle_size": 80492,
   "delta_media_count": 0,
-  "changelog": "v1.1.5 — 極簡單行播放列、按暫停才展開進度軌、快速換書鍵與全庫 259 篇源圖中英句子對齊重組優化",
-  "published_at": "2026-11-01 13:02:57"
+  "changelog": "v1.1.6 — 新增 Doo.WorkEnglish 職場商務英文實戰專頁 (326篇/4320句) · 6大深色經典學習情境 · 嵌入式極簡選書 · 7大旗艦中文聲優 · GROUND同級P2R-OTA雲端熱更新",
+  "published_at": "2026-11-01 13:39:19"
 }
