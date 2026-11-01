@@ -1,13 +1,13 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 11,
-  "version_name": "v11",
-  "display_version": "v1.2.11",
+  "version": 12,
+  "version_name": "v12",
+  "display_version": "v1.2.12",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=11",
-  "bundle_hash": "6315234ce4c4e821c7b56fa8da546de0d7c65ddb368403b47263ad4c7e093a57",
-  "bundle_size": 36041848,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=12",
+  "bundle_hash": "ab225b84608aafd480bf80daed088ccd5ba477f7a3210836214c2a779ffde09c",
+  "bundle_size": 36041651,
   "delta_media_count": 90,
-  "changelog": "v11 新增絕世男神【金城武·時空鬼武】與【車銀優·星穹貴公子】SSR＋六大主題角色稱號與篩選(女神/男神/科技男/體壇傳奇/武神硬漢/傳奇食神)＋品磊雙重尊榮稱號(男神+科技創世神)＋主題65%特選UP池自由切換",
-  "published_at": "2026-11-01 23:33:36"
+  "changelog": "v12 卡牌頁極簡美學與流暢度大優化：改為單卡低頻輪流微光(消除卡頓)＋無遮擋完整卡面＋右上角數字星數(移除無用消耗1與男神女神貼標)＋底部僅留名稱/Lv/職業定位/總戰力",
+  "published_at": "2026-11-02 00:48:40"
 }
