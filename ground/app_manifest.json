@@ -1,13 +1,13 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 6,
-  "version_name": "v6",
-  "display_version": "v1.2.6",
+  "version": 7,
+  "version_name": "v7",
+  "display_version": "v1.2.7",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=6",
-  "bundle_hash": "21d491967fd68170e0003f09858896771ba4a775de343df9953308ef6108c95b",
-  "bundle_size": 33248030,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=7",
+  "bundle_hash": "b2ebc23d3e6a5a7ec5f794aac1ce24192e7ccf98e0f18644d51925619e467297",
+  "bundle_size": 33300315,
   "delta_media_count": 82,
-  "changelog": "新增10位絕美少女明星SSR英雄(周子瑜/葉舒華/張員瑛/Karina等) + 全新巨幅高亮寫真卡牌與升級鑑賞介面",
-  "published_at": "2026-11-01 08:22:27"
+  "changelog": "新增《天導108星》雙軌制要塞戰棋合戰模式(火計/妖術/一齊攻擊/女神羈絆Cut-In/一騎討單挑/聚義廳108星宿石碑/軍師委任AI)",
+  "published_at": "2026-11-01 12:39:38"
 }
