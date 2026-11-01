@@ -1,0 +1,13 @@
+{
+  "app_id": "com.terry.ziwei",
+  "version": 10,
+  "version_name": "v10",
+  "display_version": "v0.1.10",
+  "min_apk_version": 10,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=10",
+  "bundle_hash": "1cf92097a98e01ebdaf56b376eb0d72c381e78de1256c1e532cf9406d4403627",
+  "bundle_size": 633835,
+  "delta_media_count": 0,
+  "changelog": "v0.1.10 — 導入與 LEARN 專案同級 P2R-OTA 雲端差分線上熱更新中心 (Android + Windows 雙端熱更 / SHA-256 校驗 / 一鍵回滾出廠核心) + 雙城翻頁時鐘透明小工具",
+  "published_at": "2026-11-01 21:25:17"
+}
