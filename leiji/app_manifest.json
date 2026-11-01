@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 10,
-  "version_name": "v10",
-  "display_version": "v1.1.10",
+  "version": 11,
+  "version_name": "v11",
+  "display_version": "v1.1.11",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=10",
-  "bundle_hash": "815483247f8a3919236abf676f70fafa9951c669f348c731158c0ca2b7c9121b",
-  "bundle_size": 1623586,
-  "delta_media_count": 3,
-  "changelog": "v1.1.10 — Instagram @dingjisiwei88 (精英頂級思維) 100篇完整雙語文章有聲書與569篇影片描述全集 · 右下角統一設定面板 · 職場英文 326 篇",
-  "published_at": "2026-11-01 21:17:00"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=11",
+  "bundle_hash": "7a5cdf901f5b87864e78c6a6d1800205430d4604e7d0f530533346b524e5063a",
+  "bundle_size": 86339,
+  "delta_media_count": 0,
+  "changelog": "v1.1.11 — 新增「🧭 新哲學 (200篇)」、「🪷 思維小集 (200篇)」與「🎙️ 純中文朗讀」模式 · 259冊標題全量校準 Audit 與雙行無截斷選書介面",
+  "published_at": "2026-11-01 22:44:42"
 }
