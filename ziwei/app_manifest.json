@@ -1,16 +1,16 @@
 {
   "app_id": "com.terry.ziwei",
-  "version": 17,
-  "version_name": "v17",
-  "display_version": "v0.1.17",
-  "min_apk_version": 17,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=17",
-  "bundle_hash": "40df2b279d1bee12b967c04d50c0c744907f3377a9d1bd7b418aafd56bdbc7cf",
-  "bundle_size": 661878,
+  "version": 18,
+  "version_name": "v18",
+  "display_version": "v0.1.18",
+  "min_apk_version": 18,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=18",
+  "bundle_hash": "603859c1ee2cf11e1a25a527adec94962a5e1e6a9b0c70478ba66bc09e9eab44",
+  "bundle_size": 665192,
   "delta_media_count": 0,
   "changelog": "v0.1.15 — 導入 Tier 3 In-App APK 雲端自升級、時鐘下方獨立放大版天氣橫幅與系統天氣跳轉、支援 13 城市時區切換、首頁恢復純淨原版畫面與新增整月日柱日曆 Tab",
-  "published_at": "2026-11-02 18:38:19",
-  "apk_url": "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=17",
-  "apk_hash": "8b09760ff799b0e8313ac1c2f96e732fabf0f1c3fda8bae8b64396be244da510",
-  "apk_size": 19027017
+  "published_at": "2026-11-02 19:29:09",
+  "apk_url": "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=18",
+  "apk_hash": "8fc5d00a9b8bdae1c03b835d7f59a3c988626d7c86d522fa94b556a3ab2afde1",
+  "apk_size": 19038057
 }
