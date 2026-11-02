@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.ziwei",
-  "version": 13,
-  "version_name": "v13",
-  "display_version": "v0.1.13",
-  "min_apk_version": 13,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=13",
-  "bundle_hash": "5f2917ef2693ae74de5c45537762664c7765545218e2105fdaa3174d6c436776",
-  "bundle_size": 642249,
+  "version": 14,
+  "version_name": "v14",
+  "display_version": "v0.1.14",
+  "min_apk_version": 14,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=14",
+  "bundle_hash": "ea1d8e1bd8d431146cbd998b7b4434133873bf7d31626fcf40113152d8224b50",
+  "bundle_size": 648496,
   "delta_media_count": 0,
-  "changelog": "v0.1.13 — 上方雙城時鐘支援左右獨立調整字體顏色、翻頁牌背景顏色與背景透明度 (0%~100%)",
-  "published_at": "2026-11-02 11:06:32"
+  "changelog": "v0.1.14 — 點時鐘開啟系統鬧鐘、點運勢進入算命首頁、新增 TPE 單時鐘讀秒模式 (HH:MM:SS) 與即時天氣整合",
+  "published_at": "2026-11-02 13:20:37"
 }
