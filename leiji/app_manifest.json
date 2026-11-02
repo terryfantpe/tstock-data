@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 13,
-  "version_name": "v13",
-  "display_version": "v1.1.13",
+  "version": 14,
+  "version_name": "v14",
+  "display_version": "v1.1.14",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=13",
-  "bundle_hash": "5443650f907e0560dd0263a345019535c397410215c33e75ca132018ce8dad8c",
-  "bundle_size": 2478834,
-  "delta_media_count": 5,
-  "changelog": "v1.1.13 — 頂部導覽列三顆按鈕與雙向設定抽屜同步 · 導覽列橫向滑動修復 · 全集擴充至 1,470 篇 (藏書閣 348 / 職場英文 326 / 頂級思維 287 / 思維小集 200 / 新哲學 309) 與全量斷句中英對齊法醫校準",
-  "published_at": "2026-11-02 01:10:27"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=14",
+  "bundle_hash": "ce7fafcd37b4aea2b7e2c73efd14a410cadc370f1cdb0223fbdd3af56f0cd170",
+  "bundle_size": 2763191,
+  "delta_media_count": 6,
+  "changelog": "v1.1.14 — 新增「🔮 玄學世界 (250篇，YouTube @悅悅心視界 全集)」雙語有聲書專區 · 六大雙語書庫合計 1,720 冊 (27,150 句雙語)",
+  "published_at": "2026-11-02 11:09:09"
 }
