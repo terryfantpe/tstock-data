@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.ziwei",
-  "version": 12,
-  "version_name": "v12",
-  "display_version": "v0.1.12",
-  "min_apk_version": 12,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=12",
-  "bundle_hash": "9e82a8982ee8d331f845444a380be9a94eccae1cf30a121753188cdd32c3ab58",
-  "bundle_size": 638502,
+  "version": 13,
+  "version_name": "v13",
+  "display_version": "v0.1.13",
+  "min_apk_version": 13,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=13",
+  "bundle_hash": "975647e9b45e8b7fbcab339fc0a2a20e1b9ed204741adf4a9db8724a76a1205e",
+  "bundle_size": 642249,
   "delta_media_count": 0,
-  "changelog": "v0.1.12 — 小工具全字體+2放大 + 雙城時鐘X軸放大3倍與Y軸等比放大 + 經典復古機械翻頁鐘黃銅鉸鏈與古典金線設計",
-  "published_at": "2026-11-02 00:40:05"
+  "changelog": "v0.1.13 — 上方雙城時鐘支援左右獨立調整字體顏色、翻頁牌背景顏色與背景透明度 (0%~100%)",
+  "published_at": "2026-11-02 11:03:06"
 }
