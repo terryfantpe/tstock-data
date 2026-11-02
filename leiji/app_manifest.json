@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 17,
-  "version_name": "v17",
-  "display_version": "v1.1.17",
+  "version": 18,
+  "version_name": "v18",
+  "display_version": "v1.1.18",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=17",
-  "bundle_hash": "8366e5fe3d0b4076f7e749048be086cde6c86142e01be8b0e653e7a3a430b3a5",
-  "bundle_size": 2777925,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=18",
+  "bundle_hash": "908001ca43d2e42fa617a5b778466023e5c4e706c98ff38281831fba1b6b0d6a",
+  "bundle_size": 2783539,
   "delta_media_count": 6,
-  "changelog": "v1.1.17 — 極簡化「🏞️ 禪意風景」畫面：移除中文導讀狀態列與風景詩句標語，全屏純粹僅留一句中英雙語",
-  "published_at": "2026-11-02 13:15:44"
+  "changelog": "v1.1.18 — 新增全格式電子書與字幕匯入引擎 (.epub/.pdf/.mobi/.docx/.fb2/.srt/.vtt/.lrc/.html/.rtf/.json/.csv/.txt) + 禪意風景下方控制列新增「✕ 退出禪景」按鈕",
+  "published_at": "2026-11-02 13:22:23"
 }
