@@ -1,13 +1,13 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 12,
-  "version_name": "v12",
-  "display_version": "v1.2.12",
+  "version": 13,
+  "version_name": "v13",
+  "display_version": "v1.2.13",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=12",
-  "bundle_hash": "ab225b84608aafd480bf80daed088ccd5ba477f7a3210836214c2a779ffde09c",
-  "bundle_size": 36041651,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=13",
+  "bundle_hash": "f5212eb9bca9b7b4c626e7ddceb1708464f9f6345e3a322431fb9a6d09f96146",
+  "bundle_size": 36045048,
   "delta_media_count": 90,
-  "changelog": "v12 卡牌頁極簡美學與流暢度大優化：改為單卡低頻輪流微光(消除卡頓)＋無遮擋完整卡面＋右上角數字星數(移除無用消耗1與男神女神貼標)＋底部僅留名稱/Lv/職業定位/總戰力",
-  "published_at": "2026-11-02 00:48:40"
+  "changelog": "v13: 迎回鎮館神龜度咕(智能開啟龜)雙龜鎮守・實裝有人工作時設施與設備自動升級系統與即時進度條",
+  "published_at": "2026-11-03 01:33:02"
 }
