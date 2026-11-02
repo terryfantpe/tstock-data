@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 16,
-  "version_name": "v16",
-  "display_version": "v1.1.16",
+  "version": 17,
+  "version_name": "v17",
+  "display_version": "v1.1.17",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=16",
-  "bundle_hash": "f0369a160a4a0fd5c82944b5f8c50bb5ced42c6dad564774a6d8427b1dfa4960",
-  "bundle_size": 2778034,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=17",
+  "bundle_hash": "8366e5fe3d0b4076f7e749048be086cde6c86142e01be8b0e653e7a3a430b3a5",
+  "bundle_size": 2777925,
   "delta_media_count": 6,
-  "changelog": "v1.1.16 — 升級「🏞️ 禪意風景」100% 透明無底色文字嵌景引擎（離屏 64x64 Canvas 底圖亮度與冷暖互補色即時反差演算 ＋ 智慧留白尋位 / 光學差值鏤空 / 電影雙層光暈四大嵌景技法）",
-  "published_at": "2026-11-02 12:48:07"
+  "changelog": "v1.1.17 — 極簡化「🏞️ 禪意風景」畫面：移除中文導讀狀態列與風景詩句標語，全屏純粹僅留一句中英雙語",
+  "published_at": "2026-11-02 13:15:44"
 }
