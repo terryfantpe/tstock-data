@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 14,
-  "version_name": "v14",
-  "display_version": "v1.1.14",
+  "version": 15,
+  "version_name": "v15",
+  "display_version": "v1.1.15",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=14",
-  "bundle_hash": "ce7fafcd37b4aea2b7e2c73efd14a410cadc370f1cdb0223fbdd3af56f0cd170",
-  "bundle_size": 2763191,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=15",
+  "bundle_hash": "e99d5b38a4155d28794ff8c1f0886bd87548075abddd2ce7aa8cd175c5c0ab77",
+  "bundle_size": 2775495,
   "delta_media_count": 6,
-  "changelog": "v1.1.14 — 新增「🔮 玄學世界 (250篇，YouTube @悅悅心視界 全集)」雙語有聲書專區 · 六大雙語書庫合計 1,720 冊 (27,150 句雙語)",
-  "published_at": "2026-11-02 11:09:09"
+  "changelog": "v1.1.15 — 新增「🏞️ 禪意風景」全螢幕單句雙語沉浸模式（嚴選 36 幅雲海山嵐、京都古剎、靜謐湖光高畫質風景，支援 App 雲端下載與永久離線 Cache，僅留一句中英雙語同步逐字高亮）",
+  "published_at": "2026-11-02 12:27:11"
 }
