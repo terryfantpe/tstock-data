@@ -1,16 +1,16 @@
 {
   "app_id": "com.terry.ziwei",
-  "version": 21,
-  "version_name": "v21",
-  "display_version": "v0.1.21",
-  "min_apk_version": 21,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=21",
-  "bundle_hash": "8829a3f8e03a3790ab55d7da4f8d6a62e76f010f0ac00ddd4e6fd17c1bc64afe",
-  "bundle_size": 700962,
+  "version": 22,
+  "version_name": "v22",
+  "display_version": "v0.1.22",
+  "min_apk_version": 22,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=22",
+  "bundle_hash": "f60e7097f2dce141873b472ca78e7a67c219398589dbec0a60f51dc21a7a2f94",
+  "bundle_size": 716347,
   "delta_media_count": 0,
   "changelog": "v0.1.21 (#21): Default 6-Slot 2-Line App Dock (TStock AI, Remote Desktop, Google drive, Audiobook, Hongguo, ground game)",
-  "published_at": "2026-11-02 22:45:43",
-  "apk_url": "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=21",
-  "apk_hash": "8afc87e1054e036b66891117c9021e818c5fb7c476b0c773d9132674e37142a6",
-  "apk_size": 19149014
+  "published_at": "2026-11-03 00:14:16",
+  "apk_url": "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=22",
+  "apk_hash": "897cdc634ad33a06093299172c6bdaff0af2ab5a72037cb464e30ca3538a3993",
+  "apk_size": 19194994
 }
