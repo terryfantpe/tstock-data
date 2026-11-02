@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 15,
-  "version_name": "v15",
-  "display_version": "v1.1.15",
+  "version": 16,
+  "version_name": "v16",
+  "display_version": "v1.1.16",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=15",
-  "bundle_hash": "e99d5b38a4155d28794ff8c1f0886bd87548075abddd2ce7aa8cd175c5c0ab77",
-  "bundle_size": 2775495,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=16",
+  "bundle_hash": "f0369a160a4a0fd5c82944b5f8c50bb5ced42c6dad564774a6d8427b1dfa4960",
+  "bundle_size": 2778034,
   "delta_media_count": 6,
-  "changelog": "v1.1.15 — 新增「🏞️ 禪意風景」全螢幕單句雙語沉浸模式（嚴選 36 幅雲海山嵐、京都古剎、靜謐湖光高畫質風景，支援 App 雲端下載與永久離線 Cache，僅留一句中英雙語同步逐字高亮）",
-  "published_at": "2026-11-02 12:27:11"
+  "changelog": "v1.1.16 — 升級「🏞️ 禪意風景」100% 透明無底色文字嵌景引擎（離屏 64x64 Canvas 底圖亮度與冷暖互補色即時反差演算 ＋ 智慧留白尋位 / 光學差值鏤空 / 電影雙層光暈四大嵌景技法）",
+  "published_at": "2026-11-02 12:48:07"
 }
