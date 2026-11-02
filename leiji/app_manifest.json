@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 18,
-  "version_name": "v18",
-  "display_version": "v1.1.18",
+  "version": 19,
+  "version_name": "v19",
+  "display_version": "v1.1.19",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=18",
-  "bundle_hash": "908001ca43d2e42fa617a5b778466023e5c4e706c98ff38281831fba1b6b0d6a",
-  "bundle_size": 2783539,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=19",
+  "bundle_hash": "599dd75a1b0ca16b31a30ca6f400ccdad037c609749d045dde0eb81399ca00aa",
+  "bundle_size": 2783463,
   "delta_media_count": 6,
-  "changelog": "v1.1.18 — 新增全格式電子書與字幕匯入引擎 (.epub/.pdf/.mobi/.docx/.fb2/.srt/.vtt/.lrc/.html/.rtf/.json/.csv/.txt) + 禪意風景下方控制列新增「✕ 退出禪景」按鈕",
-  "published_at": "2026-11-02 13:22:23"
+  "changelog": "v1.1.19 — 頂部導航列移除「磊集有聲書」五字標題，僅保留印章圖示與四顆快捷功能鍵",
+  "published_at": "2026-11-02 22:53:25"
 }
