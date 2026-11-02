@@ -5,9 +5,9 @@
   "display_version": "v0.1.13",
   "min_apk_version": 13,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=13",
-  "bundle_hash": "975647e9b45e8b7fbcab339fc0a2a20e1b9ed204741adf4a9db8724a76a1205e",
+  "bundle_hash": "5f2917ef2693ae74de5c45537762664c7765545218e2105fdaa3174d6c436776",
   "bundle_size": 642249,
   "delta_media_count": 0,
   "changelog": "v0.1.13 — 上方雙城時鐘支援左右獨立調整字體顏色、翻頁牌背景顏色與背景透明度 (0%~100%)",
-  "published_at": "2026-11-02 11:03:06"
+  "published_at": "2026-11-02 11:06:32"
 }
