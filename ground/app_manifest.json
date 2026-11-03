@@ -1,13 +1,13 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 13,
-  "version_name": "v13",
-  "display_version": "v1.2.13",
+  "version": 14,
+  "version_name": "v14",
+  "display_version": "v1.2.14",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=13",
-  "bundle_hash": "f5212eb9bca9b7b4c626e7ddceb1708464f9f6345e3a322431fb9a6d09f96146",
-  "bundle_size": 36045048,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=14",
+  "bundle_hash": "600e879a55282425e7c908efaee1b228ca621c45c24e666fd8f36d8273d488ba",
+  "bundle_size": 36064208,
   "delta_media_count": 90,
-  "changelog": "v13: 迎回鎮館神龜度咕(智能開啟龜)雙龜鎮守・實裝有人工作時設施與設備自動升級系統與即時進度條",
-  "published_at": "2026-11-03 01:33:02"
+  "changelog": "v14: 卡牌對戰大招僅覆蓋下方卡牌區・天導108星兩軍陣前交鋒對話・設施工作即時對話與不同職業於不同設施升級專屬屬性",
+  "published_at": "2026-11-03 17:23:22"
 }
