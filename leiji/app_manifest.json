@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 20,
-  "version_name": "v20",
-  "display_version": "v1.1.20",
+  "version": 21,
+  "version_name": "v21",
+  "display_version": "v1.1.21",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=20",
-  "bundle_hash": "e3869a1fd300291ce0afbf186207f2fca577e835987a4d0d665609c390764cb4",
-  "bundle_size": 2851015,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=21",
+  "bundle_hash": "896c651136ab7600d0dab00a77082f4f1edf75554f3fec385ab9115f4c18a1fb",
+  "bundle_size": 3275008,
   "delta_media_count": 7,
-  "changelog": "v1.1.20 — 新增「📐 GANN理論」專區：W. D. Gann《Before You Lose, Learn (虧損前先學習)》全書 13 章 (156 段) 中英對照完整拆解",
-  "published_at": "2026-11-03 08:50:16"
+  "changelog": "v1.1.21 — 全書庫掛載「🎬 原片連結」直達按鈕 ✕ 20 部十萬級高觀看熱門長片（最高 39.2 萬觀看）整篇完整逐字稿中英雙語擷取",
+  "published_at": "2026-11-03 22:07:24"
 }
