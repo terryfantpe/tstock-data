@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 19,
-  "version_name": "v19",
-  "display_version": "v1.1.19",
+  "version": 20,
+  "version_name": "v20",
+  "display_version": "v1.1.20",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=19",
-  "bundle_hash": "599dd75a1b0ca16b31a30ca6f400ccdad037c609749d045dde0eb81399ca00aa",
-  "bundle_size": 2783463,
-  "delta_media_count": 6,
-  "changelog": "v1.1.19 — 頂部導航列移除「磊集有聲書」五字標題，僅保留印章圖示與四顆快捷功能鍵",
-  "published_at": "2026-11-02 22:53:25"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=20",
+  "bundle_hash": "e3869a1fd300291ce0afbf186207f2fca577e835987a4d0d665609c390764cb4",
+  "bundle_size": 2851015,
+  "delta_media_count": 7,
+  "changelog": "v1.1.20 — 新增「📐 GANN理論」專區：W. D. Gann《Before You Lose, Learn (虧損前先學習)》全書 13 章 (156 段) 中英對照完整拆解",
+  "published_at": "2026-11-03 08:50:16"
 }
