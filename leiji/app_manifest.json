@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 22,
-  "version_name": "v22",
-  "display_version": "v1.1.22",
+  "version": 23,
+  "version_name": "v23",
+  "display_version": "v1.1.23",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=22",
-  "bundle_hash": "8bfaab8a1d355bf9d7092e8c351451982790d32cece7fd4b2273c235458446ab",
-  "bundle_size": 5152289,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=23",
+  "bundle_hash": "937a80136ee7ccddd3dbf581cd90fc05a7d951c0dae79629a4bb893579b5af3c",
+  "bundle_size": 5159673,
   "delta_media_count": 7,
-  "changelog": "v1.1.22 — 🧭 新哲學 (@Naval哲學思辨) Top 150 熱門高觀看長片（最高 36.9 萬觀看）100% 整篇完整逐字稿中英雙語擷取（共 12,624 段）",
-  "published_at": "2026-11-04 10:09:01"
+  "changelog": "v1.1.23 — 極簡淨化列表標題（移除外層觀看數與全本擷取標籤並將原片連結收納至閱讀頁內）✕ 11款多彩主題樣式頂部一鍵切換 ✕ 禪景擴充24幅各國絕景與12部10秒內動態自然短片",
+  "published_at": "2026-11-04 10:57:19"
 }
