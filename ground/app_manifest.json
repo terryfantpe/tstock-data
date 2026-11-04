@@ -1,13 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 16,
-  "version_name": "v16",
-  "display_version": "v1.2.16",
-  "min_apk_version": 15,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=16",
-  "bundle_hash": "d5c17c1384964a1597041a5f901a7d4f9fea7f918e987acfb717af23c1a02a43",
-  "bundle_size": 4441578,
+  "version": 17,
+  "version_name": "v17",
+  "display_version": "v1.2.17",
+  "min_apk_version": 1,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=17",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=17",
+  "bundle_hash": "a25b6b7ecd24a0627bafd7dcad990c5826c7e757f799e46be36f69e98cf4f800",
+  "bundle_size": 4441894,
   "delta_media_count": 5,
-  "changelog": "v15: 天導108星全席位108人完整覺醒補齊 (新增 ssr_83~ssr_95 共13位傳奇SSR英雄與專屬立繪/宿命羈絆/陣前對話)",
-  "published_at": "2026-11-04 10:17:42"
+  "changelog": "v17: 修復戰力數值膨脹與上限鎖定、卡牌純淨化僅顯示名字、移除裝備系統、地堡設施去紫框滿版化、頂部HUD雙排零重疊、戰寵去背疊圖與雙通道OTA熱更新修正",
+  "published_at": "2026-11-04 11:19:22"
 }
