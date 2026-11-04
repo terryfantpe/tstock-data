@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 24,
-  "version_name": "v24",
-  "display_version": "v1.1.24",
+  "version": 25,
+  "version_name": "v25",
+  "display_version": "v1.1.25",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=24",
-  "bundle_hash": "50e021a10bb11d7ad7b65f0143c60e86cdfdac021e9e7afa130fbb8fdf557119",
-  "bundle_size": 3079046,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=25",
+  "bundle_hash": "299678b7d002d14f2556902457d41dd5f79ad1c59d6a32f8e3fb77aebcbc72be",
+  "bundle_size": 3080356,
   "delta_media_count": 7,
-  "changelog": "v1.1.24 — 全面校對並修復新哲學、玄學世界與思維小集雙語語料錯別字與英譯品質 ✕ 極簡列表標題與11款多彩主題 ✕ 禪景各國絕景與10秒短片",
-  "published_at": "2026-11-04 13:09:35"
+  "changelog": "v1.1.25 — 新增預設樣版「📖 類電子書模式 + 3400K/2800K 護眼過濾藍光」與頂部一鍵濾藍光切換 ✕ 全語料庫100%零錯字校對版",
+  "published_at": "2026-11-04 13:52:39"
 }
