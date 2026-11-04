@@ -1,16 +1,16 @@
 {
   "app_id": "com.terry.ziwei",
-  "version": 23,
-  "version_name": "v23",
-  "display_version": "v0.1.23",
-  "min_apk_version": 23,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=23",
-  "bundle_hash": "8e2fde0e7f9416d991b8bde6f530c132f410f75cf66cdfe8b8ef6243c946b0b2",
-  "bundle_size": 735120,
+  "version": 24,
+  "version_name": "v24",
+  "display_version": "v0.1.24",
+  "min_apk_version": 24,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=24",
+  "bundle_hash": "3887d8efe37bd98c3a08be5359b7b307848d0327d7e82d10c9331f1cc49bcf8d",
+  "bundle_size": 737606,
   "delta_media_count": 0,
   "changelog": "v0.1.23 (#23): 新增 BINGO BINGO 當日選球 C/D/E 三大零重疊 6 星演算法專頁 (#page-bingo) 與 5 分鐘自動連線台彩更新引擎，並同步擴充桌面與 Android 原生小工具第 7 頁「🎱 賓果 C/D/E」聯播",
-  "published_at": "2026-11-04 13:09:13",
-  "apk_url": "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=23",
-  "apk_hash": "317841ed6ebdec7cd576515080098cc38135a8b3ed4cb0d858d13f9a8ca47a88",
-  "apk_size": 19250066
+  "published_at": "2026-11-04 14:13:15",
+  "apk_url": "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=24",
+  "apk_hash": "c099cb8559125e7ed67781128d394216f36d270ce8e4ddadfe009ff94b07e460",
+  "apk_size": 19272726
 }
