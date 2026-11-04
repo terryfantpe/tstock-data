@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 17,
-  "version_name": "v17",
-  "display_version": "v1.2.17",
+  "version": 18,
+  "version_name": "v18",
+  "display_version": "v1.2.18",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=17",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=17",
-  "bundle_hash": "a25b6b7ecd24a0627bafd7dcad990c5826c7e757f799e46be36f69e98cf4f800",
-  "bundle_size": 4441894,
-  "delta_media_count": 5,
-  "changelog": "v17: 修復戰力數值膨脹與上限鎖定、卡牌純淨化僅顯示名字、移除裝備系統、地堡設施去紫框滿版化、頂部HUD雙排零重疊、戰寵去背疊圖與雙通道OTA熱更新修正",
-  "published_at": "2026-11-04 11:19:22"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=18",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=18",
+  "bundle_hash": "39f226ae0184eab3566f72e5c11e8695c7128f92b1a5a548758833ff7b2e353a",
+  "bundle_size": 17156162,
+  "delta_media_count": 131,
+  "changelog": "v18: 補齊全角色OTA圖檔修復問號破圖、解除15星與100級壓抑上限、補全ssr_71~95獨立左右戰鬥姿勢与寫實圖",
+  "published_at": "2026-11-04 21:55:47"
 }
