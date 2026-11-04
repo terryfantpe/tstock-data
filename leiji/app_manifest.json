@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 25,
-  "version_name": "v25",
-  "display_version": "v1.1.25",
+  "version": 26,
+  "version_name": "v26",
+  "display_version": "v1.1.26",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=25",
-  "bundle_hash": "299678b7d002d14f2556902457d41dd5f79ad1c59d6a32f8e3fb77aebcbc72be",
-  "bundle_size": 3080356,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=26",
+  "bundle_hash": "66b09d2c204c7b3111c8ff950ef081637c4cb51095c98751686c7602c4b20b58",
+  "bundle_size": 3080001,
   "delta_media_count": 7,
-  "changelog": "v1.1.25 — 新增預設樣版「📖 類電子書模式 + 3400K/2800K 護眼過濾藍光」與頂部一鍵濾藍光切換 ✕ 全語料庫100%零錯字校對版",
-  "published_at": "2026-11-04 13:52:39"
+  "changelog": "v1.1.26 — 精簡頂部導覽列為「磊讀 · 🛡️ 護眼 · ☁️ 更新」並移除第二排調色列",
+  "published_at": "2026-11-04 22:00:29"
 }
