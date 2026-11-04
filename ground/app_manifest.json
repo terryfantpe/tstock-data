@@ -1,13 +1,13 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 15,
-  "version_name": "v15",
-  "display_version": "v1.2.15",
-  "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=15",
-  "bundle_hash": "d191a1bf89b1069a18b02475f02eee7b4c25ba5f6094ed859516ada359c6c2a7",
-  "bundle_size": 25761613,
-  "delta_media_count": 142,
+  "version": 16,
+  "version_name": "v16",
+  "display_version": "v1.2.16",
+  "min_apk_version": 15,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=16",
+  "bundle_hash": "d5c17c1384964a1597041a5f901a7d4f9fea7f918e987acfb717af23c1a02a43",
+  "bundle_size": 4441578,
+  "delta_media_count": 5,
   "changelog": "v15: 天導108星全席位108人完整覺醒補齊 (新增 ssr_83~ssr_95 共13位傳奇SSR英雄與專屬立繪/宿命羈絆/陣前對話)",
-  "published_at": "2026-11-03 17:58:43"
+  "published_at": "2026-11-04 10:17:42"
 }
