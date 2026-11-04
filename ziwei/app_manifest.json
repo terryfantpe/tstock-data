@@ -5,11 +5,11 @@
   "display_version": "v0.1.25",
   "min_apk_version": 25,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=25",
-  "bundle_hash": "c558d594e5d6944fb6e1142f39d324ccea5f39633cff4ffaf64ab28557cee449",
+  "bundle_hash": "503aa0bfa4f76aa4d5fbca3214eb5edb81ff104c430b9fbbef288aa67a564666",
   "bundle_size": 747262,
   "delta_media_count": 0,
   "changelog": "v0.1.24 (#24): 新增「👑 C ∪ D ∪ E 聯集精選最佳 6 碼 (cde_best6)」三引擎無遮罩共振濃縮演算法（7日1239期單注過關率 54.16%、今日達 73.33%），並完整實作至 #page-bingo 皇冠旗艦卡與桌面/Android 小工具第 7 頁 4 列看板",
-  "published_at": "2026-11-05 00:25:04",
+  "published_at": "2026-11-05 00:25:30",
   "apk_url": "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=25",
   "apk_hash": "faa92d111eee056801e53a2fca84307bcd8a46c62ca16565599accc3fab3f2b8",
   "apk_size": 19312841
