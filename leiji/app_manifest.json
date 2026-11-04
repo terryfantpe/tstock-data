@@ -1,13 +1,13 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 23,
-  "version_name": "v23",
-  "display_version": "v1.1.23",
+  "version": 24,
+  "version_name": "v24",
+  "display_version": "v1.1.24",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=23",
-  "bundle_hash": "937a80136ee7ccddd3dbf581cd90fc05a7d951c0dae79629a4bb893579b5af3c",
-  "bundle_size": 5159673,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=24",
+  "bundle_hash": "50e021a10bb11d7ad7b65f0143c60e86cdfdac021e9e7afa130fbb8fdf557119",
+  "bundle_size": 3079046,
   "delta_media_count": 7,
-  "changelog": "v1.1.23 — 極簡淨化列表標題（移除外層觀看數與全本擷取標籤並將原片連結收納至閱讀頁內）✕ 11款多彩主題樣式頂部一鍵切換 ✕ 禪景擴充24幅各國絕景與12部10秒內動態自然短片",
-  "published_at": "2026-11-04 10:57:19"
+  "changelog": "v1.1.24 — 全面校對並修復新哲學、玄學世界與思維小集雙語語料錯別字與英譯品質 ✕ 極簡列表標題與11款多彩主題 ✕ 禪景各國絕景與10秒短片",
+  "published_at": "2026-11-04 13:09:35"
 }
