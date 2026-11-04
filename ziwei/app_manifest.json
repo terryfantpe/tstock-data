@@ -1,16 +1,16 @@
 {
   "app_id": "com.terry.ziwei",
-  "version": 22,
-  "version_name": "v22",
-  "display_version": "v0.1.22",
-  "min_apk_version": 22,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=22",
-  "bundle_hash": "4a13f7e4005da8084cecae9c411456445c2e7223b14506b0fe562b0280da6ad4",
-  "bundle_size": 716347,
+  "version": 23,
+  "version_name": "v23",
+  "display_version": "v0.1.23",
+  "min_apk_version": 23,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=23",
+  "bundle_hash": "009afbee219399283e1c82646ab5f2c4505662bf86800c24f32096f4ffbeba1f",
+  "bundle_size": 735120,
   "delta_media_count": 0,
   "changelog": "v0.1.22 (#22): 根除小工具設定 error 與 undefined、黃帝內經時鐘 1:1 正圓防變形、子平八字六維正負加減分(+N/-N)與細項宜忌",
-  "published_at": "2026-11-03 00:14:41",
-  "apk_url": "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=22",
-  "apk_hash": "897cdc634ad33a06093299172c6bdaff0af2ab5a72037cb464e30ca3538a3993",
-  "apk_size": 19194994
+  "published_at": "2026-11-04 13:08:49",
+  "apk_url": "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=23",
+  "apk_hash": "317841ed6ebdec7cd576515080098cc38135a8b3ed4cb0d858d13f9a8ca47a88",
+  "apk_size": 19250066
 }
