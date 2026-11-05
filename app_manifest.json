@@ -1,16 +1,16 @@
 {
-  "version": 369,
-  "version_name": "v369",
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=369",
+  "version": 370,
+  "version_name": "v370",
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=370",
   "min_app_version": 1,
-  "bundle_hash": "f07cb4242d00684596361259bcb03411a6cd02e6101a3b7a094674a1e904088d",
+  "bundle_hash": "77c5a35b75a299a6c22b9778e93403df9bdef03323b57f58e25f1674662addb9",
   "ai_db_url": "https://github.com/terryfantpe/tstock-data/releases/download/db-20261031-0902/TSTOCK_AI.DB",
   "ai_db_mtime": "2026-10-31 09:02:22",
   "ai_db_size": 95899648,
   "ai_db_tag": "db-20261031-0902",
-  "app_version": "1.0.369",
-  "bundle_size": 7094668,
-  "file_count": 126,
-  "published_at": "2026-11-04 23:59:54",
-  "changelog": "OTA v369 完整熱更新：V14.21 & V15.15 四大支柱真飆股實裝 (實盤結算勝率 100.00% · Top-5 真飆股 6756威鋒電子/3265台星科/6277宏正/6108競國/4566時碩工業) ＋ 全模式 ota_data 雲端熱更 ＋ App 內建雲端熱更新中心"
+  "app_version": "1.0.370",
+  "bundle_size": 6908705,
+  "file_count": 116,
+  "published_at": "2026-11-05 08:09:58",
+  "changelog": "OTA v370 完整熱更新：V14.21 & V15.15 四大支柱真飆股實裝 (實盤結算勝率 100.00% · Top-5 真飆股 6756威鋒電子/3265台星科/6277宏正/6108競國/4566時碩工業) ＋ 全模式 ota_data 雲端熱更 ＋ App 內建雲端熱更新中心"
 }
