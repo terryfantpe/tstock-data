@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 18,
-  "version_name": "v18",
-  "display_version": "v1.2.18",
+  "version": 19,
+  "version_name": "v19",
+  "display_version": "v1.2.19",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=18",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=18",
-  "bundle_hash": "39f226ae0184eab3566f72e5c11e8695c7128f92b1a5a548758833ff7b2e353a",
-  "bundle_size": 17156162,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=19",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=19",
+  "bundle_hash": "b7891e428e8558e694179acd544fdb8711b5e7198ec0a023e69a80c487816006",
+  "bundle_size": 17157986,
   "delta_media_count": 131,
-  "changelog": "v18: 補齊全角色OTA圖檔修復問號破圖、解除15星與100級壓抑上限、補全ssr_71~95獨立左右戰鬥姿勢与寫實圖",
-  "published_at": "2026-11-04 21:55:47"
+  "changelog": "v19: 經濟重平衡(產量/成本/倉庫/工作加成/抽卡)、戰力軟上限、數字格式化、MAX特訓、移除裝備入口、Toast與升級回饋",
+  "published_at": "2026-11-07 00:55:57"
 }
