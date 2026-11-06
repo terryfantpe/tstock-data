@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 19,
-  "version_name": "v19",
-  "display_version": "v1.2.19",
+  "version": 20,
+  "version_name": "v20",
+  "display_version": "v1.2.20",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=19",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=19",
-  "bundle_hash": "b7891e428e8558e694179acd544fdb8711b5e7198ec0a023e69a80c487816006",
-  "bundle_size": 17157986,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=20",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=20",
+  "bundle_hash": "c1908c4ed06d8ff804a49010d0e0601113f4363b7b201ea4519c671aede7858a",
+  "bundle_size": 17171231,
   "delta_media_count": 131,
-  "changelog": "v19: 經濟重平衡(產量/成本/倉庫/工作加成/抽卡)、戰力軟上限、數字格式化、MAX特訓、移除裝備入口、Toast與升級回饋",
-  "published_at": "2026-11-07 00:55:57"
+  "changelog": "v20: 長征 Roguelite 戰棋框架上線(路線圖/整備選隊/HP延續/戰功)、敵人強度不再隨玩家戰力浮動",
+  "published_at": "2026-11-07 01:33:52"
 }
