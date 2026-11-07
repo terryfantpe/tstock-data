@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 21,
-  "version_name": "v21",
-  "display_version": "v1.2.21",
+  "version": 22,
+  "version_name": "v22",
+  "display_version": "v1.2.22",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=21",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=21",
-  "bundle_hash": "f84b89f271a3e085419b4df3bf64e9f71260e557abe0eba17ebc319eac08977d",
-  "bundle_size": 17203328,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=22",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=22",
+  "bundle_hash": "4e78e8b3ea6caf57f35f5d93e048d36ce9e0cf9c5c9abcc574abbe0feb5f4a64",
+  "bundle_size": 17221139,
   "delta_media_count": 131,
-  "changelog": "v21: G2+G3 長征Roguelite完整實作(職業剋制三角/被動技/朝向側背擊/對決心理戰/WebAudio音效/30種遺物三選一/12種事件/黑市/營地救治/Boss二階段機制)",
-  "published_at": "2026-11-07 07:19:35"
+  "changelog": "v22: G4+G5 戰功軍械處永久強化樹、離線收益結算彈窗、每日戰勤與7日簽到、巡邏票與108星石碑里程碑獎勵",
+  "published_at": "2026-11-07 23:48:41"
 }
