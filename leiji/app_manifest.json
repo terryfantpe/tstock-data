@@ -1,14 +1,14 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 29,
-  "version_name": "v29",
-  "display_version": "v1.1.29",
+  "version": 30,
+  "version_name": "v30",
+  "display_version": "v1.1.30",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=29",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=29",
-  "bundle_hash": "cb65cc6827e3ddf4c57b6e2d0171e2a14088a7da2aca360cf0b9d6eae0d0b4c3",
-  "bundle_size": 12730562,
-  "delta_media_count": 143,
-  "changelog": "v1.1.29 — 新增 ++look 六大股市實戰名著 30 章 (共100章 / 1,432段雙語)，並為江恩、艾略特與 ++look 全書系完整保留 141 幅原書真跡圖譜與 K 線圖解！",
-  "published_at": "2026-11-07 08:58:01"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=30",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=30",
+  "bundle_hash": "d00944d655ba10e0f18225fc4f7ef64753bc509311e057c63ed66ec8550897cb",
+  "bundle_size": 14322029,
+  "delta_media_count": 148,
+  "changelog": "v1.1.30 — Swarm 全書庫連結與點擊法醫修復：補齊 348 冊藏書 IG 貼文連結、股市分析 100 章圖譜直連、移除嵌入式選書 220 本截斷限制、修復 Android/Windows 外部連結跳轉與全 7 大語料庫 OTA 同步！",
+  "published_at": "2026-11-07 23:49:12"
 }
