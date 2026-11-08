@@ -1,14 +1,14 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 30,
-  "version_name": "v30",
-  "display_version": "v1.1.30",
+  "version": 31,
+  "version_name": "v31",
+  "display_version": "v1.1.31",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=30",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=30",
-  "bundle_hash": "d00944d655ba10e0f18225fc4f7ef64753bc509311e057c63ed66ec8550897cb",
-  "bundle_size": 14322029,
-  "delta_media_count": 148,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=31",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=31",
+  "bundle_hash": "f22767cea53e33d57986b6780b0c81f511dfc57fde5b1cb1f54f873dd5622de4",
+  "bundle_size": 18018279,
+  "delta_media_count": 205,
   "changelog": "v1.1.30 — Swarm 全書庫連結與點擊法醫修復：補齊 348 冊藏書 IG 貼文連結、股市分析 100 章圖譜直連、移除嵌入式選書 220 本截斷限制、修復 Android/Windows 外部連結跳轉與全 7 大語料庫 OTA 同步！",
-  "published_at": "2026-11-07 23:49:12"
+  "published_at": "2026-11-08 19:18:04"
 }
