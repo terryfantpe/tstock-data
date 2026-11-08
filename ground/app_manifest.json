@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 22,
-  "version_name": "v22",
-  "display_version": "v1.2.22",
+  "version": 23,
+  "version_name": "v23",
+  "display_version": "v1.2.23",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=22",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=22",
-  "bundle_hash": "4e78e8b3ea6caf57f35f5d93e048d36ce9e0cf9c5c9abcc574abbe0feb5f4a64",
-  "bundle_size": 17221139,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=23",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=23",
+  "bundle_hash": "2cbada6b944c99dc63556d2f440318de5b2f7fa37919d8dd6f033cb1e630b5b2",
+  "bundle_size": 17220570,
   "delta_media_count": 131,
-  "changelog": "v22: G4+G5 戰功軍械處永久強化樹、離線收益結算彈窗、每日戰勤與7日簽到、巡邏票與108星石碑里程碑獎勵",
-  "published_at": "2026-11-07 23:48:41"
+  "changelog": "v23: 全面修正與中文化介面殘留英文詞彙、圖鑑百科、離線時長與長征提示",
+  "published_at": "2026-11-08 22:53:09"
 }
