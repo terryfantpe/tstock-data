@@ -1,34 +1,34 @@
 {
   "version": 2,
-  "generated_at": "2026-11-10 00:50:15",
+  "generated_at": "2026-11-10 00:50:45",
   "db_source": "TSTOCK.db",
-  "latest_date": "2026-11-06",
+  "latest_date": "2026-11-09",
   "pages_url": "https://terryfantpe.github.io/tstock-data",
   "files": [
     {
-      "date": "2026-11-06",
-      "file": "market_2026-11-06.json",
-      "size": 1324164,
+      "date": "2026-11-09",
+      "file": "market_2026-11-09.json",
+      "size": 1321680,
       "stats": {
-        "price_count": 1972,
-        "inst_count": 1893,
+        "price_count": 1982,
+        "inst_count": 1883,
         "margin_count": 2214,
-        "lending_count": 2064,
+        "lending_count": 2065,
         "lending_diff_count": 2214,
-        "day_trade_count": 1704
+        "day_trade_count": 1669
       },
       "task_log": [
         {
           "market": "OTC",
           "task": "day_trade",
           "status": "OK",
-          "count": 798
+          "count": 751
         },
         {
           "market": "OTC",
           "task": "inst",
           "status": "OK",
-          "count": 802
+          "count": 791
         },
         {
           "market": "OTC",
@@ -46,25 +46,25 @@
           "market": "OTC",
           "task": "price",
           "status": "OK",
-          "count": 875
+          "count": 883
         },
         {
           "market": "TSE",
           "task": "day_trade",
           "status": "OK",
-          "count": 1218
+          "count": 1208
         },
         {
           "market": "TSE",
           "task": "inst",
           "status": "OK",
-          "count": 1091
+          "count": 1092
         },
         {
           "market": "TSE",
           "task": "lending",
           "status": "OK",
-          "count": 1235
+          "count": 1236
         },
         {
           "market": "TSE",
@@ -76,7 +76,7 @@
           "market": "TSE",
           "task": "price",
           "status": "OK",
-          "count": 1097
+          "count": 1099
         }
       ]
     },
