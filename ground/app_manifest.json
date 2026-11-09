@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 23,
-  "version_name": "v23",
-  "display_version": "v1.2.23",
+  "version": 24,
+  "version_name": "v24",
+  "display_version": "v1.2.24",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=23",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=23",
-  "bundle_hash": "2cbada6b944c99dc63556d2f440318de5b2f7fa37919d8dd6f033cb1e630b5b2",
-  "bundle_size": 17220570,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=24",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=24",
+  "bundle_hash": "b46d7fb3bd3b72ec93a6a7ed0ccac4c99f5b4ffbd876283908acae8baec9fbcd",
+  "bundle_size": 17238317,
   "delta_media_count": 131,
-  "changelog": "v23: 全面修正與中文化介面殘留英文詞彙、圖鑑百科、離線時長與長征提示",
-  "published_at": "2026-11-08 22:53:09"
+  "changelog": "v24: 全專案 5-Agent Swarm 深度法醫審計修正 ＋ 新增【方案 B：橫向卷軸小隊自動推線＆單手斷招轟炸】戰鬥模式",
+  "published_at": "2026-11-10 01:52:20"
 }
