@@ -1,14 +1,14 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 32,
-  "version_name": "v32",
-  "display_version": "v1.1.32",
+  "version": 33,
+  "version_name": "v33",
+  "display_version": "v1.1.33",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=32",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=32",
-  "bundle_hash": "89f501e69a26ae61c00fead04d7ffb39731e948fc0160386d803c2e76e4be3e7",
-  "bundle_size": 18104273,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=33",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=33",
+  "bundle_hash": "c2aa737db7cc55e6f676088bf2f523e6e9b6743dd7e622eb6596292f2bf3ae4e",
+  "bundle_size": 18111323,
   "delta_media_count": 205,
-  "changelog": "v1.1.30 — Swarm 全書庫連結與點擊法醫修復：補齊 348 冊藏書 IG 貼文連結、股市分析 100 章圖譜直連、移除嵌入式選書 220 本截斷限制、修復 Android/Windows 外部連結跳轉與全 7 大語料庫 OTA 同步！",
-  "published_at": "2026-11-08 23:21:36"
+  "changelog": "v1.1.33: 全站1,899章中英精準斷句與Copilot真人抑揚頓挫雙段音高弧線語音引擎升級",
+  "published_at": "2026-11-10 08:12:20"
 }
