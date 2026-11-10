@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 24,
-  "version_name": "v24",
-  "display_version": "v1.2.24",
+  "version": 25,
+  "version_name": "v25",
+  "display_version": "v1.2.25",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=24",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=24",
-  "bundle_hash": "b46d7fb3bd3b72ec93a6a7ed0ccac4c99f5b4ffbd876283908acae8baec9fbcd",
-  "bundle_size": 17238317,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=25",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=25",
+  "bundle_hash": "18926eeac1543ea96bd2cf62d4fc1e4f4b2175d5de4237e736c7d887b38f6cb4",
+  "bundle_size": 17239216,
   "delta_media_count": 131,
-  "changelog": "v24: 全專案 5-Agent Swarm 深度法醫審計修正 ＋ 新增【方案 B：橫向卷軸小隊自動推線＆單手斷招轟炸】戰鬥模式",
-  "published_at": "2026-11-10 01:52:20"
+  "changelog": "v1.2.25：完成橫向卷軸引擎與全系統 7 項深度 Issue 法醫審計修復（戰寵/科技/地堡/功勳加成對齊、車隊城防砲塔修正、不死鳥翎羽實戰復活、彈藥校驗與雙語鍵值同步）",
+  "published_at": "2026-11-11 00:19:25"
 }
