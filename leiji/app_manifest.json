@@ -1,14 +1,14 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 33,
-  "version_name": "v33",
-  "display_version": "v1.1.33",
+  "version": 34,
+  "version_name": "v34",
+  "display_version": "v1.1.34",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=33",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=33",
-  "bundle_hash": "c2aa737db7cc55e6f676088bf2f523e6e9b6743dd7e622eb6596292f2bf3ae4e",
-  "bundle_size": 18111323,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=34",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=34",
+  "bundle_hash": "5a76c1c81dc6c06e477deeab0a6067f8c39ca57d4fa02359f45e4a257fd3b43a",
+  "bundle_size": 18114854,
   "delta_media_count": 205,
-  "changelog": "v1.1.33: 全站1,899章中英精準斷句與Copilot真人抑揚頓挫雙段音高弧線語音引擎升級",
-  "published_at": "2026-11-10 08:12:20"
+  "changelog": "v1.1.34: 擴充至33組真人對話與隱藏版說書聲優置頂，並將8組傳統AI朗讀音移至最後備用",
+  "published_at": "2026-11-11 09:40:39"
 }
