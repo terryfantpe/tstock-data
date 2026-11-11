@@ -1,14 +1,14 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 35,
-  "version_name": "v35",
-  "display_version": "v1.1.35",
+  "version": 36,
+  "version_name": "v36",
+  "display_version": "v1.1.36",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=35",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=35",
-  "bundle_hash": "213c4f5dcfc62060bb074cc9f3a685886744b7092a086661476ee233f3b006a8",
-  "bundle_size": 18117730,
-  "delta_media_count": 205,
-  "changelog": "v1.1.35: 對標市面旗艦軟件完成介面極簡化重構、修復試聽覆寫佇列Bug、常駐段落進度條、跨7庫全局搜尋與聲優分類篩選",
-  "published_at": "2026-11-11 10:19:14"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=36",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=36",
+  "bundle_hash": "bfe858818322bafe0c6b45d820665b358e8796635a55a8597cbc00d5241d9395",
+  "bundle_size": 18844710,
+  "delta_media_count": 213,
+  "changelog": "v1.1.36: 新增內維爾(Neville Goddard)顯化體系8大精選雙語圖卡全集(圖文並茂)至玄學世界書庫",
+  "published_at": "2026-11-11 11:51:42"
 }
