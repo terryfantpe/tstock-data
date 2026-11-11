@@ -1,14 +1,14 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 34,
-  "version_name": "v34",
-  "display_version": "v1.1.34",
+  "version": 35,
+  "version_name": "v35",
+  "display_version": "v1.1.35",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=34",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=34",
-  "bundle_hash": "5a76c1c81dc6c06e477deeab0a6067f8c39ca57d4fa02359f45e4a257fd3b43a",
-  "bundle_size": 18114854,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=35",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=35",
+  "bundle_hash": "213c4f5dcfc62060bb074cc9f3a685886744b7092a086661476ee233f3b006a8",
+  "bundle_size": 18117730,
   "delta_media_count": 205,
-  "changelog": "v1.1.34: 擴充至33組真人對話與隱藏版說書聲優置頂，並將8組傳統AI朗讀音移至最後備用",
-  "published_at": "2026-11-11 09:40:39"
+  "changelog": "v1.1.35: 對標市面旗艦軟件完成介面極簡化重構、修復試聽覆寫佇列Bug、常駐段落進度條、跨7庫全局搜尋與聲優分類篩選",
+  "published_at": "2026-11-11 10:19:14"
 }
