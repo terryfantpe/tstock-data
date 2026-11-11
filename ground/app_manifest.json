@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 25,
-  "version_name": "v25",
-  "display_version": "v1.2.25",
+  "version": 26,
+  "version_name": "v26",
+  "display_version": "v1.2.26",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=25",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=25",
-  "bundle_hash": "18926eeac1543ea96bd2cf62d4fc1e4f4b2175d5de4237e736c7d887b38f6cb4",
-  "bundle_size": 17239216,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=26",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=26",
+  "bundle_hash": "53d351649c7b23a171052bf97c7abc1bd11054967a6dd518270f55ba07cb1841",
+  "bundle_size": 17244380,
   "delta_media_count": 131,
   "changelog": "v1.2.25：完成橫向卷軸引擎與全系統 7 項深度 Issue 法醫審計修復（戰寵/科技/地堡/功勳加成對齊、車隊城防砲塔修正、不死鳥翎羽實戰復活、彈藥校驗與雙語鍵值同步）",
-  "published_at": "2026-11-11 00:19:25"
+  "published_at": "2026-11-11 09:29:19"
 }
