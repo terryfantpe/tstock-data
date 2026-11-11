@@ -3,14 +3,14 @@
   "version_name": "v378",
   "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=378",
   "min_app_version": 1,
-  "bundle_hash": "981fdfc38412b5d753a67a6193927153824dedfa642c7bc6279a9a7d0175a1a3",
+  "bundle_hash": "42a3a0af864459f0fefb14c2fc36410e04e919d8a95b31d587e47ae13e6a5507",
   "ai_db_url": "https://github.com/terryfantpe/tstock-data/releases/download/db-20261111-0940/TSTOCK_AI.DB",
   "ai_db_mtime": "2026-11-11 09:40:29",
   "ai_db_size": 115924992,
   "ai_db_tag": "db-20261111-0940",
   "app_version": "1.0.378",
-  "bundle_size": 7486519,
-  "file_count": 104,
-  "published_at": "2026-11-11 09:43:53",
+  "bundle_size": 9752483,
+  "file_count": 323,
+  "published_at": "2026-11-11 10:24:35",
   "changelog": "OTA v378 完整熱更新：V14.21 & V15.15 四大支柱真飆股實裝 (實盤結算勝率 100.00% · Top-5 真飆股 6756威鋒電子/3265台星科/6277宏正/6108競國/4566時碩工業) ＋ 全模式 ota_data 雲端熱更 ＋ App 內建雲端熱更新中心"
 }
