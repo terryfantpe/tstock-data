@@ -1,0 +1,18 @@
+{
+  "app_id": "com.terry.grabbrowser",
+  "version": 101,
+  "version_name": "v101",
+  "display_version": "v1.0.101",
+  "min_apk_version": 100,
+  "latest_apk_version": 101,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/browser/app_bundle.zip?v=101",
+  "bundle_hash": "1afb77a09146baad36de46bb309a8e17a9862dc956bd68a83eaf1e444318e87a",
+  "bundle_size": 971,
+  "bundle_file_count": 3,
+  "changelog": "v1.0.101 (#101): 導入與 LIFE 專案同級 P2R-OTA 雲端差分線上熱更新與 Tier-3 完整 APK 自我升級中心（支援雲端動態更新 AdBlock 廣告黑名單、媒體嗅探規則與起始頁資源、SHA-256 完整性驗證、一鍵回滾出廠預設核心與自動權限續裝）",
+  "published_at": "2026-11-11 10:08:37",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/browser/GrabBrowser.apk?v=101",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/browser/GrabBrowser.apk?v=101",
+  "apk_hash": "77cb2eef1ecbb91561295e2d379025d1dc86cb4bb874f9b3cf0b6d3ef99a3841",
+  "apk_size": 6020649
+}
