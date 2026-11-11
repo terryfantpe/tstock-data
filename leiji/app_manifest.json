@@ -1,14 +1,14 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 36,
-  "version_name": "v36",
-  "display_version": "v1.1.36",
+  "version": 37,
+  "version_name": "v37",
+  "display_version": "v1.1.37",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=36",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=36",
-  "bundle_hash": "bfe858818322bafe0c6b45d820665b358e8796635a55a8597cbc00d5241d9395",
-  "bundle_size": 18844710,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=37",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=37",
+  "bundle_hash": "b21e40b74c6984bbfba26dd41f6aac76ce311313daca0e4991f96b6489572c5b",
+  "bundle_size": 18989376,
   "delta_media_count": 213,
-  "changelog": "v1.1.36: 新增內維爾(Neville Goddard)顯化體系8大精選雙語圖卡全集(圖文並茂)至玄學世界書庫",
-  "published_at": "2026-11-11 11:51:42"
+  "changelog": "v1.1.37: 新增「✨ 顯化法則與內維爾核心」專屬分類（Neville Goddard 核心摘要圖卡 9 篇 ＋ 20 篇國際權威顯化名著雙語全集）",
+  "published_at": "2026-11-11 12:26:23"
 }
