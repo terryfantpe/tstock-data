@@ -1,14 +1,14 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 37,
-  "version_name": "v37",
-  "display_version": "v1.1.37",
+  "version": 38,
+  "version_name": "v38",
+  "display_version": "v1.1.38",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=37",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=37",
-  "bundle_hash": "b21e40b74c6984bbfba26dd41f6aac76ce311313daca0e4991f96b6489572c5b",
-  "bundle_size": 18989376,
-  "delta_media_count": 213,
-  "changelog": "v1.1.37: 新增「✨ 顯化法則與內維爾核心」專屬分類（Neville Goddard 核心摘要圖卡 9 篇 ＋ 20 篇國際權威顯化名著雙語全集）",
-  "published_at": "2026-11-11 12:26:23"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=38",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=38",
+  "bundle_hash": "0a33ec41eb66bfd379dddbbdee713ad2796ad105daa4e3517960df9c4d199e8f",
+  "bundle_size": 37874747,
+  "delta_media_count": 333,
+  "changelog": "v1.1.38: 新增「📱 股市部落客」專屬分類（收錄 IG @haimajay 與人氣股市部落客 30 篇精選雙語圖文說明全集）",
+  "published_at": "2026-11-12 01:44:03"
 }
