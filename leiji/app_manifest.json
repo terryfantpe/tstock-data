@@ -1,14 +1,14 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 38,
-  "version_name": "v38",
-  "display_version": "v1.1.38",
+  "version": 39,
+  "version_name": "v39",
+  "display_version": "v1.1.39",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=38",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=38",
-  "bundle_hash": "0a33ec41eb66bfd379dddbbdee713ad2796ad105daa4e3517960df9c4d199e8f",
-  "bundle_size": 37874747,
-  "delta_media_count": 333,
-  "changelog": "v1.1.38: 新增「📱 股市部落客」專屬分類（收錄 IG @haimajay 與人氣股市部落客 30 篇精選雙語圖文說明全集）",
-  "published_at": "2026-11-12 01:44:03"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=39",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=39",
+  "bundle_hash": "59803674477e95fc1d30f15e396521fe595649995a07abdcdd644a9ea76c08b3",
+  "bundle_size": 23594668,
+  "delta_media_count": 534,
+  "changelog": "v1.1.39: 新增🌻Joyful (@_joyfulenglish_ 全集) 專屬頻道、擴充📱股市部落客 @haimajay 最新不重複50篇圖文說明(共80篇)與全頻道增量更新",
+  "published_at": "2026-11-12 12:53:09"
 }
