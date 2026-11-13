@@ -1,0 +1,51 @@
+{
+  "hot_rules_version": 1,
+  "updated_at": "2026-11-14 07:47:56",
+  "changelog": "v1 — 新增熱門 AI / 財經 / 交通分類關鍵字與生活脈動精選情報",
+  "extra_classifier_tokens": {
+    "finance": [
+      "tstock",
+      "p2r",
+      "pocketsec",
+      "國泰證券",
+      "台股盤中"
+    ],
+    "learning": [
+      "perplexity",
+      "claude",
+      "notebooklm",
+      "arc browser"
+    ],
+    "transport": [
+      "tpass",
+      "bus+",
+      "台灣等公車"
+    ],
+    "food": [
+      "inline",
+      "opentable",
+      "藏壽司",
+      "壽司郎"
+    ]
+  },
+  "extra_pulse_cards": [
+    {
+      "id": "hot_pulse_v1_1",
+      "kind": "KNOWLEDGE",
+      "tag": "🔥 雲端新知",
+      "title": "LauncherT 雙層更新機制：零背景電量消耗",
+      "subtitle": "規則與活動卡片可透過輕量熱更新即時擴充，無需重裝整包 APK",
+      "meta": "雲端熱更新 v1 · 2026-11-14",
+      "action_label": "查看技術架構",
+      "action_uri": "https://zh.wikipedia.org/wiki/%E7%A9%BA%E4%B8%AD%E7%B7%A8%E7%A8%8B",
+      "highlight_score": 88,
+      "venue": "雲端熱更情報",
+      "schedule_time": "即時生效",
+      "price_info": "免費推播",
+      "program_category": "系統新知",
+      "detail_text": "【核心重點】Tier 1 輕量熱更新僅下載數 KB 的 JSON 規則與精選卡片，套用後即時更新 App 分類與生活脈動。\n【安全機制】支援一鍵還原出廠內建規則。",
+      "secondary_uri": ""
+    }
+  ],
+  "hot_rules_sha256": "eff6f145be82d1847ef063aef1d73abc9a72d89e24c7ec01ac84cb0df388bb0d"
+}
