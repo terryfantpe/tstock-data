@@ -1,0 +1,17 @@
+{
+  "app_id": "com.first.launchert",
+  "version": 1,
+  "version_code": 1001,
+  "version_name": "1.0.1",
+  "display_version": "v1.0.1 (build 1001)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/launchert/LauncherT.apk?v=1",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/launchert/LauncherT.apk?v=1",
+  "apk_hash": "701a85e4410dd680194aa8cb8cfc92b461d72375d0ca8a167c66f138447db112",
+  "apk_size_bytes": 1196261,
+  "apk_size": 1196261,
+  "hot_rules_version": 1,
+  "hot_rules_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/launchert/hot_rules.json?v=1",
+  "hot_rules_sha256": "ca04b101e176afe1e1c95a761ddfe702463ee7c1d9514fe78f2c5ef854173ed0",
+  "changelog": "v1.0.1 正式版啟動：客廳空間看板、左手扇形需求鎖定投射、8×7 網格、Widget 與 LIFE 同級線上更新",
+  "published_at": "2026-11-14 07:47:56"
+}
