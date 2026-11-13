@@ -1,14 +1,14 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 40,
-  "version_name": "v40",
-  "display_version": "v1.1.40",
+  "version": 41,
+  "version_name": "v41",
+  "display_version": "v1.1.41",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=40",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=40",
-  "bundle_hash": "3a869f45c9dba7c230d03f85216cc1dee360908ef871957cf07580e0682f0fb4",
-  "bundle_size": 24009060,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=41",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=41",
+  "bundle_hash": "aa6a0b472323fcdc7f120ac67941beb4472273d38a668b7a670529eaaf87f566",
+  "bundle_size": 24027949,
   "delta_media_count": 534,
-  "changelog": "v1.1.40: 全館2,279篇智慧學習中樞升級（今日跨領域5篇配課、最近展卷足跡、八大頻道掌握度看板、全館2.6萬句級檢索Ctrl+K、未讀/完讀狀態篩選、單字遮蔽自測閃卡與8大視圖分批極速渲染）",
-  "published_at": "2026-11-13 00:50:42"
+  "changelog": "v1.1.41 (Cloud OTA #41) 🐻 小熊手繪插畫 (@xiaobear_english 40幅) ✕ 🖼️ 世界名畫 (24幅) ✕ 🏞️ 絕美山河 (72景) ✕ 🌌 星河靈性 · 全館 2,279 篇雜誌級雙語金句畫廊與章節插圖沉浸系統",
+  "published_at": "2026-11-13 19:22:37"
 }
