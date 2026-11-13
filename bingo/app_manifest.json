@@ -1,15 +1,15 @@
 {
-  "version": 44,
-  "version_name": "4.4.0",
+  "version": 45,
+  "version_name": "4.5.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "ea48da29f130c3fea6ca8685ef9e6718bf047a6e6e55998555f5df698d378cad",
-  "bundle_size": 442144,
+  "bundle_hash": "52d549000100f3916ce470e90c4fdf4116ca7f63bc89270236dde769b02e14bf",
+  "bundle_size": 461846,
   "bundled_files": 3,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "e4906b6c877ee038c3eff2910f89186c87a979224e3de419f20c2fc57d0eea4a",
-  "apk_size": 18039520,
-  "published_at": "2026-11-13T19:22:42+08:00",
-  "release_notes": "V4.4 五維正交引擎(PRNG×刻柱×星象×64卦×洛書) × 台彩UTC+8全天多頁同步 × 多鏡像P2R-OTA防快取延遲"
+  "apk_hash": "1ee6ff6d4a8e25b49823d8d96bdd88044d9aadc661da9ee61929606735c8346a",
+  "apk_size": 18078680,
+  "published_at": "2026-11-14T00:35:26+08:00",
+  "release_notes": "V4.5 法醫歸納審計高勝率版：37,943期12維度1:1規則庫＋2星黃金雙膽(44.85%保本+)＋2星4碼連碰(~70%有獎/27.73%淨賺)＋雙層狙擊門檻＋威力彩二區45.45%聰明包牌"
 }
