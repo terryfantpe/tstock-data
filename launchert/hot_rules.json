@@ -1,6 +1,6 @@
 {
   "hot_rules_version": 1,
-  "updated_at": "2026-11-14 20:15:29",
+  "updated_at": "2026-11-14 21:04:26",
   "changelog": "v1 — 新增熱門 AI / 財經 / 交通分類關鍵字與生活脈動精選情報",
   "extra_classifier_tokens": {
     "finance": [
@@ -31,21 +31,21 @@
   "extra_pulse_cards": [
     {
       "id": "hot_pulse_v1_1",
-      "kind": "KNOWLEDGE",
-      "tag": "🔥 雲端新知",
-      "title": "LauncherT 雙層更新機制：零背景電量消耗",
-      "subtitle": "規則與活動卡片可透過輕量熱更新即時擴充，無需重裝整包 APK",
-      "meta": "雲端熱更新 v1 · 2026-11-14",
-      "action_label": "查看技術架構",
-      "action_uri": "https://zh.wikipedia.org/wiki/%E7%A9%BA%E4%B8%AD%E7%B7%A8%E7%A8%8B",
-      "highlight_score": 88,
-      "venue": "雲端熱更情報",
-      "schedule_time": "即時生效",
-      "price_info": "免費推播",
-      "program_category": "系統新知",
-      "detail_text": "【核心重點】Tier 1 輕量熱更新僅下載數 KB 的 JSON 規則與精選卡片，套用後即時更新 App 分類與生活脈動。\n【安全機制】支援一鍵還原出廠內建規則。",
+      "kind": "EVENT",
+      "tag": "🖼️ 展覽精選",
+      "title": "本季台灣五大必看特展＆美術館夜間延長開放整理",
+      "subtitle": "北美館週六夜間開館、內惟藝術中心開至 21:00，下班後也能優雅看展",
+      "meta": "生活策展精選 · 2026-11-14",
+      "action_label": "搜尋當期大展",
+      "action_uri": "https://www.google.com/search?q=%E5%8F%B0%E7%81%A3+%E7%95%B6%E6%9C%9F%E7%89%B9%E5%B1%95+%E7%BE%8E%E8%A1%93%E9%A4%A8",
+      "highlight_score": 89,
+      "venue": "全台主要美術館・華山 / 奇美 / 駁二",
+      "schedule_time": "週五・週六多館延長開放",
+      "price_info": "免費至 $450",
+      "program_category": "展覽",
+      "detail_text": "【策展亮點】精選台北北美館（週六夜免費至 20:30）、富邦美術館、台中科博館、台南奇美博物館與高雄內惟藝術中心（平日及週末至 21:00）。\n【逛展貼士】建議週五下班或週六晚間入場，避開人潮更有品質。",
       "secondary_uri": ""
     }
   ],
-  "hot_rules_sha256": "defd76687ce916bf543d7127dbb7db71709e48125e306e2a34fc0f198c7c0e7a"
+  "hot_rules_sha256": "f6ee5f790785c10f625d361aace237f0665c0df9c4930a8dcd0894b863ed67e5"
 }
