@@ -1,15 +1,15 @@
 {
-  "version": 47,
-  "version_name": "4.7.0",
+  "version": 48,
+  "version_name": "4.8.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "0fd1887c19c70e1c3a5c127ddf0d3fe078849ac337bffe57967f257782823fb7",
-  "bundle_size": 978714,
+  "bundle_hash": "03fdfc67827421ce9f32be082944d4b676dbb892f38be63ae5e6f4b6874c1adc",
+  "bundle_size": 1002041,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "5600185a799da0182ff2fc73e3a60c6227ea0c90406bac695ebe311e40b319ce",
-  "apk_size": 19574419,
-  "published_at": "2026-11-14T12:53:03+08:00",
-  "release_notes": "V4.7 全平台五行天機專屬精品圖標(Desktop/Android自適應/PWA) ⊕ BINGO 5星6碼連碰(最高RTP 60.32%)＋6星10碼5注Steiner縮水陣(41.84%有獎)＋雙層狙擊門檻"
+  "apk_hash": "56a83b95c18986887dd7c2b20603b8273b5b1015c20a9bf411d642237fc7f3e4",
+  "apk_size": 19615999,
+  "published_at": "2026-11-14T16:36:02+08:00",
+  "release_notes": "V4.8 遵守日/例外日雙態分離 × PRNG 5條LCG仿射鎖(wt=0.75) × 人為干涉H1~H4即時探針 × 雜訊歸零剪枝 × BINGO 5星/6星高ROI狙擊(6星Steiner 42.47% · 6星單注ROI +99.05% / 重錘+349.79%)"
 }
