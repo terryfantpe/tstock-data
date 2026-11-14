@@ -1,15 +1,15 @@
 {
-  "version": 46,
-  "version_name": "4.6.0",
+  "version": 47,
+  "version_name": "4.7.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "c7b59dd3ee6978f27fe0db07982353964a05e14d3741ab991c1431277abce058",
-  "bundle_size": 459195,
-  "bundled_files": 3,
+  "bundle_hash": "0fd1887c19c70e1c3a5c127ddf0d3fe078849ac337bffe57967f257782823fb7",
+  "bundle_size": 978714,
+  "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "8eb2226cd4a916c3cd9e5569ea130a4d3eb73d3a6e5048f6b53377b6db2b07a4",
-  "apk_size": 18073584,
-  "published_at": "2026-11-14T07:52:26+08:00",
-  "release_notes": "V4.6 BINGO全面升級5星/6星高勝率版：徹底移除4星以下，主推5星6碼連碰(最高RTP 60.32%·6中3全額保本)＋6星10碼5注Steiner縮水陣(41.84%有獎)＋5星8碼4注輪盤＋雙層狙擊門檻"
+  "apk_hash": "5600185a799da0182ff2fc73e3a60c6227ea0c90406bac695ebe311e40b319ce",
+  "apk_size": 19574419,
+  "published_at": "2026-11-14T12:53:03+08:00",
+  "release_notes": "V4.7 全平台五行天機專屬精品圖標(Desktop/Android自適應/PWA) ⊕ BINGO 5星6碼連碰(最高RTP 60.32%)＋6星10碼5注Steiner縮水陣(41.84%有獎)＋雙層狙擊門檻"
 }
