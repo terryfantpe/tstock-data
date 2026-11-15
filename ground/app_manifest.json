@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 29,
-  "version_name": "v29",
-  "display_version": "v1.2.29",
+  "version": 30,
+  "version_name": "v30",
+  "display_version": "v1.2.30",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=29",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=29",
-  "bundle_hash": "584b4ac1e68b4748e4b29fff42cfb6e286ae77875293750c002c307763b60b57",
-  "bundle_size": 17285076,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=30",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=30",
+  "bundle_hash": "37f9768314b258009fd7cc0374ac5e52c7608bccb61165db1d842fb32b1b4739",
+  "bundle_size": 17321398,
   "delta_media_count": 131,
-  "changelog": "v1.2.25：完成橫向卷軸引擎與全系統 7 項深度 Issue 法醫審計修復（戰寵/科技/地堡/功勳加成對齊、車隊城防砲塔修正、不死鳥翎羽實戰復活、彈藥校驗與雙語鍵值同步）",
-  "published_at": "2026-11-12 21:12:03"
+  "changelog": "v1.2.30：根除 balance.room_max 等原始 i18n 鍵值顯示，全域掛載 i18n 初始化並補齊 100% 繁中保底",
+  "published_at": "2026-11-15 22:56:16"
 }
