@@ -4,12 +4,12 @@
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "936008c0330f63afa0d6cfb9e0dacfecdb1d22c13044f01a413afc034bb87c24",
-  "bundle_size": 1025862,
+  "bundle_hash": "8b5ec5a60eb54c3907d274a1397e8c4c97c8acd2edf8fd8eae294d50d83e9588",
+  "bundle_size": 1025913,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "912c9cdc7d300177d7b18d79acf6a1add4faad49ebd91ab3c7e86052cb4a5661",
-  "apk_size": 19667503,
-  "published_at": "2026-11-15T01:57:22+08:00",
+  "apk_hash": "dc28e4ac93d58341886a2680e7e275f14fe172a2091a39c74b4444b0509030fc",
+  "apk_size": 19667515,
+  "published_at": "2026-11-15T14:25:42+08:00",
   "release_notes": "V4.9 一秒看懂極簡選號版 × 大樂透/威力彩/539近10期中獎總表 × BINGO近100期(42.00%有獎·狙擊44.44%)逐期總覽 × 嚴格5星/6星高ROI狙擊 × Steiner聰明包牌"
 }
