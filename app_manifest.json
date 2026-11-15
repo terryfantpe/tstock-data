@@ -1,16 +1,16 @@
 {
-  "version": 384,
-  "version_name": "v384",
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=384",
+  "version": 385,
+  "version_name": "v385",
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=385",
   "min_app_version": 1,
-  "bundle_hash": "56664cf81ffb9f76f07fe14cfed5352f02c805b44dfc371eafe670f0c0dc803f",
+  "bundle_hash": "ec02d680825f5c25c8ea28844c2b7ead8f395b0d5ec99f61ad9165f7084ff032",
   "ai_db_url": "https://github.com/terryfantpe/tstock-data/releases/download/db-20261111-0940/TSTOCK_AI.DB",
   "ai_db_mtime": "2026-11-11 09:40:29",
   "ai_db_size": 115924992,
   "ai_db_tag": "db-20261111-0940",
-  "app_version": "1.0.384",
-  "bundle_size": 8984660,
-  "file_count": 218,
-  "published_at": "2026-11-15 16:05:37",
-  "changelog": "OTA v384 完整熱更新：23:00 盤後戰情複盤三層不敗備援架構 ＋ WebView/DB 單份零覆寫秒開優化 ＋ V14/V15/V16 全模式 ota_data 同步"
+  "app_version": "1.0.385",
+  "bundle_size": 9058613,
+  "file_count": 221,
+  "published_at": "2026-11-15 18:22:30",
+  "changelog": "OTA v385 完整熱更新：23:00 盤後戰情複盤三層不敗備援架構 ＋ WebView/DB 單份零覆寫秒開優化 ＋ V14/V15/V16 全模式 ota_data 同步"
 }
