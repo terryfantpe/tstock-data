@@ -1,15 +1,15 @@
 {
-  "version": 50,
-  "version_name": "5.0.0",
+  "version": 51,
+  "version_name": "5.1.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "02de77d27990b940a2faf1d704ad6fe997be71f8a8098402c4bf573083002d8d",
-  "bundle_size": 1054855,
+  "bundle_hash": "ef0fcf615ed19f6c1f60c0569cec5709b059c60bb4cd2fb7ecf132b1ce542283",
+  "bundle_size": 1057482,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "d36e912c6275132a0faf811abd77401ac61d9f692d27c8366a7bd937d40d00f0",
-  "apk_size": 19724023,
-  "published_at": "2026-11-15T16:45:08+08:00",
-  "release_notes": "V5.0 遞迴最佳中獎率號碼集合 × 三層因果子模遞迴與2-Opt交換 × 大樂透0%➔20%·威力彩20%➔30%·539 10%➔40%(黃金100%)·BINGO 42%➔46%(狙擊58.33%·黃金70%) × 嚴格5星/6星Steiner包牌"
+  "apk_hash": "46ca63df650353dfeb496ee40533cce5f10bdd21f790e27abef62cb50a819554",
+  "apk_size": 19729343,
+  "published_at": "2026-11-15T17:49:06+08:00",
+  "release_notes": "V5.1 深度3-Opt遞迴極大化版 × 自適應區間配額與五核重開鄰號轉移 × 大樂透/威力彩高勝率再躍升 × 今彩539大幅提高中球數(9碼6注+10碼8注強攻池) × 嚴格5星/6星Steiner包牌"
 }
