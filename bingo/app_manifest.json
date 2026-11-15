@@ -1,15 +1,15 @@
 {
-  "version": 53,
-  "version_name": "5.3.0",
+  "version": 54,
+  "version_name": "5.4.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "0b050909959e6f11081731e2564adfe0c09c2020cb1465401d30302ad337f034",
-  "bundle_size": 1017611,
+  "bundle_hash": "68d848bf56a719e5f9319d1a8e2718b2ba05685de549746e3082ab8efa6cb180",
+  "bundle_size": 1038318,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "04aad21c8dd3f3ffc76612f8addaceb616cb70b1d5fed2789288665e83a313d5",
-  "apk_size": 19648747,
-  "published_at": "2026-11-15T23:01:24+08:00",
-  "release_notes": "V5.3 BINGO 強關聯參數模型高勝率版 (T1跨期轉移 × 同期共現Clique × 4-Bit連莊態 × Gap危險率 × 因果多專家選模) × 四大彩種獨立Tab × 38,498期五行消融實證"
+  "apk_hash": "990997338895c7fe11a562936df02c8ddf5b7ed0117553f3d2893acbde56391a",
+  "apk_size": 19690511,
+  "published_at": "2026-11-16T00:03:26+08:00",
+  "release_notes": "V5.4 全四彩 12 大強關聯參數模型高勝率版 (大樂透×今彩539×威力彩×BINGO 5·6星 T1/T2跨期轉移 × 鏡像互補50-b/40-b/39-b × 同期共現Clique × 雙模態100%黃金母集) × 38,498期五行消融實證"
 }
