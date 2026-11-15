@@ -1,15 +1,15 @@
 {
-  "version": 52,
-  "version_name": "5.2.0",
+  "version": 53,
+  "version_name": "5.3.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "9871820fc51e92379bd4a239cfa7b34e474f391d125ba649936946d43e288841",
-  "bundle_size": 1007358,
+  "bundle_hash": "0b050909959e6f11081731e2564adfe0c09c2020cb1465401d30302ad337f034",
+  "bundle_size": 1017611,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "a12dc3c0e540e7ae79b0c3fbe7242b2a3f5d0cf86604f82cb01189386d213b18",
-  "apk_size": 19627447,
-  "published_at": "2026-11-15T20:28:14+08:00",
-  "release_notes": "V5.2 四大彩種獨立Tab版 (大樂透·今彩539·威力彩·BINGO 5·6星，徹底移除無用Tab) × 38,498期「五行跟出牌有沒有關係」卡方/消融實證 × 100%純數學3-Opt遞迴選號引擎"
+  "apk_hash": "04aad21c8dd3f3ffc76612f8addaceb616cb70b1d5fed2789288665e83a313d5",
+  "apk_size": 19648747,
+  "published_at": "2026-11-15T23:01:24+08:00",
+  "release_notes": "V5.3 BINGO 強關聯參數模型高勝率版 (T1跨期轉移 × 同期共現Clique × 4-Bit連莊態 × Gap危險率 × 因果多專家選模) × 四大彩種獨立Tab × 38,498期五行消融實證"
 }
