@@ -1,15 +1,15 @@
 {
-  "version": 54,
-  "version_name": "5.4.0",
+  "version": 55,
+  "version_name": "5.5.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "68d848bf56a719e5f9319d1a8e2718b2ba05685de549746e3082ab8efa6cb180",
-  "bundle_size": 1038318,
+  "bundle_hash": "5700688bed5c8e4cbaa061834f155eaf599c4a6b3817e0a97a1daccd7ede8ff7",
+  "bundle_size": 1056704,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "990997338895c7fe11a562936df02c8ddf5b7ed0117553f3d2893acbde56391a",
-  "apk_size": 19690511,
-  "published_at": "2026-11-16T00:03:26+08:00",
-  "release_notes": "V5.4 全四彩 12 大強關聯參數模型高勝率版 (大樂透×今彩539×威力彩×BINGO 5·6星 T1/T2跨期轉移 × 鏡像互補50-b/40-b/39-b × 同期共現Clique × 雙模態100%黃金母集) × 38,498期五行消融實證"
+  "apk_hash": "68bf7b54ad2aa84c96b60f271e8171187b6e72ffd617bf536c5af35ecfef4b6a",
+  "apk_size": 19725867,
+  "published_at": "2026-11-16T08:24:19+08:00",
+  "release_notes": "V5.5 終極增強版 (威力彩80%·今彩539 70%·大樂透60%·BINGO 71%/狙擊76.6%·雙模態100%) × O7/Z2籤筒物理×20期軌跡條×自選號2-Opt換球器×1~2膽縮水包牌×即時動態重算"
 }
