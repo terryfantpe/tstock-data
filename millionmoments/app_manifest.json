@@ -1,0 +1,14 @@
+{
+  "app_id": "com.millionmoments.album",
+  "version": 4,
+  "version_code": 1004,
+  "version_name": "1.0.4",
+  "display_version": "v1.0.4 (build 1004)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=4",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=4",
+  "apk_hash": "7af75e68e9854a72b3cb657ad777f008cd73f4492f533bc8f24400cebcd27f34",
+  "apk_size_bytes": 14818899,
+  "apk_size": 14818899,
+  "changelog": "v1.0.4: 修復更新對話框重複下載與新增系統安裝器備援，並正式上架雲端 OTA 清單",
+  "published_at": "2026-11-16 14:07:14"
+}
