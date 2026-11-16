@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 17,
-  "version_code": 1017,
-  "version_name": "1.0.17",
-  "display_version": "v1.0.17 (build 1017)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=17",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@2acb67995950d16c5dce13c9dbe0c221c82c117b/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=17",
-  "apk_hash": "9e12347f9ee0e49a014b7b0fc0e892a239af7891f92c5e6953a3a7c8da18cfd2",
-  "apk_size_bytes": 14900879,
-  "apk_size": 14900879,
-  "changelog": "v1.0.17: 升級 jsDelivr 固定 Commit CDN＋多鏡像測速競擇＋低速熔斷＋206 斷點續傳加速 OTA 下載；強化 3D 書頁翻折特效；記憶各相簿閱讀頁碼不再跳回第一頁；單擊放大相片再點一次即回原頁；修正人臉聯集包圍盒定位確保人臉完整放入框內",
-  "published_at": "2026-11-17 07:08:25"
+  "version": 18,
+  "version_code": 1018,
+  "version_name": "1.0.18",
+  "display_version": "v1.0.18 (build 1018)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=18",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@e9916f8caccd820f9296de48c235ec94c681388a/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=18",
+  "apk_hash": "cc47b35a8f00f2a720184f9d84a7856cb6a898059011326c41d7ee7e9be9393b",
+  "apk_size_bytes": 15728705,
+  "apk_size": 15728705,
+  "changelog": "v1.0.18: 脫離 LazyLayout 改以自訂 Explicit Z-Ordered BookFlipper 100% 穩定還原「前頁從書脊原地掀翻起、露出底層靜止下一頁」實體翻頁動畫＋紙背遮罩；全面升級木格調/木紋調/大理石/磨石子/藍天/花朵高質感實拍與美術紙紋資源",
+  "published_at": "2026-11-17 07:31:26"
 }
