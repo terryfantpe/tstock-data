@@ -1,14 +1,14 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 12,
-  "version_code": 1012,
-  "version_name": "1.0.12",
-  "display_version": "v1.0.12 (build 1012)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=12",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=12",
-  "apk_hash": "63755f07372494bc86d1723daf0318d13ffdac5b48e6506c48a4da564fa2f86e",
+  "version": 13,
+  "version_code": 1013,
+  "version_name": "1.0.13",
+  "display_version": "v1.0.13 (build 1013)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=13",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=13",
+  "apk_hash": "d1851b2dc3da57c85a2bf079d069d5781340cc40cf404ea1899562a458ed25a8",
   "apk_size_bytes": 14884495,
   "apk_size": 14884495,
-  "changelog": "v1.0.12: 單頁僅顯示單一日期、升級 Sony 3D 擬真翻頁特效與摺痕光影、新增木格調/木紋調/大理石/磨石子/藍天/花朵主題與書架質感、移除初始空相冊、加入本機零回傳隱私保證",
-  "published_at": "2026-11-16 22:38:30"
+  "changelog": "v1.0.13: 徹底修復翻頁亂跳問題，改採零重組 3D 擬真翻頁光影與穩定圖層物理",
+  "published_at": "2026-11-16 23:06:18"
 }
