@@ -1,14 +1,14 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 6,
-  "version_code": 1006,
-  "version_name": "1.0.6",
-  "display_version": "v1.0.6 (build 1006)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=6",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=6",
-  "apk_hash": "b719fba3f5aea421e11ade539c4e503a5ed3d71ebb382349aac6833f098d8fb1",
-  "apk_size_bytes": 14835303,
-  "apk_size": 14835303,
-  "changelog": "v1.0.6: 強化小數點開頭(.xxx)與.nomedia隱藏目錄讀取：支援副儲存區路徑解析、進入層直接相片計數與空相簿內一鍵開啟所有檔案存取權",
-  "published_at": "2026-11-16 14:20:31"
+  "version": 7,
+  "version_code": 1007,
+  "version_name": "1.0.7",
+  "display_version": "v1.0.7 (build 1007)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=7",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=7",
+  "apk_hash": "3a4e705abaddfa5c95076880f0d3a7073a38c1fa78f324da7bf4622217d2775f",
+  "apk_size_bytes": 14835299,
+  "apk_size": 14835299,
+  "changelog": "v1.0.7: 正式更名為「珍貴時光」（桌面圖示、書架標題、雜誌頁尾與匯出浮水印全面更新）",
+  "published_at": "2026-11-16 14:23:18"
 }
