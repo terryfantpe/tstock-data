@@ -1,14 +1,14 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 8,
-  "version_code": 1008,
-  "version_name": "1.0.8",
-  "display_version": "v1.0.8 (build 1008)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=8",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=8",
-  "apk_hash": "acbbdb0fedcfe5eff7e914fa3b7c12438e654ec65e14dc009dc652a7b67b1de1",
-  "apk_size_bytes": 14835299,
-  "apk_size": 14835299,
-  "changelog": "v1.0.8: 對標 Sony 經典設計全面升級格調：硬殼精裝書衣與堆疊紙邊、美術館白框相紙、3D 翻頁景深、垂掛燕尾布質書籤、Kinfolk/Leica/京都五大精品雜誌 Style",
-  "published_at": "2026-11-16 18:36:38"
+  "version": 9,
+  "version_code": 1009,
+  "version_name": "1.0.9",
+  "display_version": "v1.0.9 (build 1009)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=9",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=9",
+  "apk_hash": "fab400ce1da423e757ee01fa133f30e6a7bbc8e5416e9b75747c48603ca7dd3c",
+  "apk_size_bytes": 14868083,
+  "apk_size": 14868083,
+  "changelog": "v1.0.9: Swarm 全面補強：投影片自動播放、年月章節跳轉、多選批次貼標、獨立書名與封面定製、Android 8-15 隱藏目錄與效能優化、全庫自動對焦、OTA 原子發佈",
+  "published_at": "2026-11-16 18:47:48"
 }
