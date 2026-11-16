@@ -1,15 +1,15 @@
 {
-  "version": 55,
-  "version_name": "5.5.0",
+  "version": 56,
+  "version_name": "5.6.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "5700688bed5c8e4cbaa061834f155eaf599c4a6b3817e0a97a1daccd7ede8ff7",
-  "bundle_size": 1056704,
+  "bundle_hash": "94b35297cd2aa3db3e58f06192abe7d48897a272ddaeca5742328f8d19a87324",
+  "bundle_size": 1071426,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "68bf7b54ad2aa84c96b60f271e8171187b6e72ffd617bf536c5af35ecfef4b6a",
-  "apk_size": 19725867,
-  "published_at": "2026-11-16T08:24:19+08:00",
-  "release_notes": "V5.5 終極增強版 (威力彩80%·今彩539 70%·大樂透60%·BINGO 71%/狙擊76.6%·雙模態100%) × O7/Z2籤筒物理×20期軌跡條×自選號2-Opt換球器×1~2膽縮水包牌×即時動態重算"
+  "apk_hash": "25fa0e7818cf48199dd3c35871854e8d80f9d80c0bc6cfd0f2b1bf60dfc43810",
+  "apk_size": 19756443,
+  "published_at": "2026-11-16T15:12:31+08:00",
+  "release_notes": "V5.6 Option A 無縮水10碼主力終極版 (保留大樂透雙模NT$1.01億·539雙模NT$818.4萬/實領NT$1,550·威力彩80%/1.80球·BINGO 5核71% · 因果前綴零分裂對齊 · 選配Pool-8省本切換)"
 }
