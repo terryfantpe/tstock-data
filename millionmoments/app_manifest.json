@@ -1,14 +1,14 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 11,
-  "version_code": 1011,
-  "version_name": "1.0.11",
-  "display_version": "v1.0.11 (build 1011)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=11",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=11",
-  "apk_hash": "2a4d7001c0d68a621cf193130fe7cbdd8646c084b8ff54fc40324b2018714743",
+  "version": 12,
+  "version_code": 1012,
+  "version_name": "1.0.12",
+  "display_version": "v1.0.12 (build 1012)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=12",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=12",
+  "apk_hash": "63755f07372494bc86d1723daf0318d13ffdac5b48e6506c48a4da564fa2f86e",
   "apk_size_bytes": 14884495,
   "apk_size": 14884495,
-  "changelog": "v1.0.11: 嚴格對標 Sony million moments 實機截圖重構高質感排版：取消頂部報表欄、網格內嵌襯線日期故事格、極細白縫直切相片、明亮藝廊白書架與純白書衣封面",
-  "published_at": "2026-11-16 21:44:24"
+  "changelog": "v1.0.12: 單頁僅顯示單一日期、升級 Sony 3D 擬真翻頁特效與摺痕光影、新增木格調/木紋調/大理石/磨石子/藍天/花朵主題與書架質感、移除初始空相冊、加入本機零回傳隱私保證",
+  "published_at": "2026-11-16 22:38:30"
 }
