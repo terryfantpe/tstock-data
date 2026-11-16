@@ -1,14 +1,14 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 14,
-  "version_code": 1014,
-  "version_name": "1.0.14",
-  "display_version": "v1.0.14 (build 1014)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=14",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=14",
-  "apk_hash": "b91f71743208c5bdd1e4addc5454afe2df652c0726a2d55742dc7199d1557172",
-  "apk_size_bytes": 14884491,
-  "apk_size": 14884491,
-  "changelog": "v1.0.14: 全面改採對稱無碰撞 3D 書頁樞紐翻頁特效（移除所有 translationX 搶層與單側跳變）並加上 Pager 穩定鍵值，徹底解決往左翻頁跳動",
-  "published_at": "2026-11-16 23:12:29"
+  "version": 15,
+  "version_code": 1015,
+  "version_name": "1.0.15",
+  "display_version": "v1.0.15 (build 1015)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=15",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=15",
+  "apk_hash": "9d3e25d91df926787f6264f4920f3e6ee34708b4f32dbd2f8cf467b035101739",
+  "apk_size_bytes": 14884495,
+  "apk_size": 14884495,
+  "changelog": "v1.0.15: 根除翻頁後多跳一頁又彈回問題（採用無過衝單調 Tween FlingBehavior 並隔離背景人臉對焦重組，完整保留 3D 書軸翻頁特效）",
+  "published_at": "2026-11-16 23:36:40"
 }
