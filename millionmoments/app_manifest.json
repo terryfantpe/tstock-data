@@ -1,14 +1,14 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 10,
-  "version_code": 1010,
-  "version_name": "1.0.10",
-  "display_version": "v1.0.10 (build 1010)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=10",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=10",
-  "apk_hash": "20f14dac6d60581ae78f5496810289b72707493c69e885888d08e394ead57785",
-  "apk_size_bytes": 14868111,
-  "apk_size": 14868111,
-  "changelog": "v1.0.10: 新增 AES-256-GCM 加密隱藏相片快取（停用明文硬碟快取、私密目錄含 .nomedia、KeyStore 金鑰保護與一鍵清除快取）",
-  "published_at": "2026-11-16 20:47:54"
+  "version": 11,
+  "version_code": 1011,
+  "version_name": "1.0.11",
+  "display_version": "v1.0.11 (build 1011)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=11",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=11",
+  "apk_hash": "2a4d7001c0d68a621cf193130fe7cbdd8646c084b8ff54fc40324b2018714743",
+  "apk_size_bytes": 14884495,
+  "apk_size": 14884495,
+  "changelog": "v1.0.11: 嚴格對標 Sony million moments 實機截圖重構高質感排版：取消頂部報表欄、網格內嵌襯線日期故事格、極細白縫直切相片、明亮藝廊白書架與純白書衣封面",
+  "published_at": "2026-11-16 21:44:24"
 }
