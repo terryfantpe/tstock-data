@@ -2837,7 +2837,7 @@
   ],
   "focus_summary": "2026-11-13 重點股 10 檔：2886兆豐金、3005神基、4904遠傳、6121新普、6756威鋒電子 等",
   "from_cache": true,
-  "generated_at": "2026-11-15 22:44:24",
+  "generated_at": "2026-11-16 00:14:04",
   "has_report": true,
   "history": [
     {
@@ -5849,5 +5849,5 @@
       }
     ]
   },
-  "trigger_source": "seed"
+  "trigger_source": "manual_ui"
 }
