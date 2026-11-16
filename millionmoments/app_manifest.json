@@ -1,14 +1,14 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 4,
-  "version_code": 1004,
-  "version_name": "1.0.4",
-  "display_version": "v1.0.4 (build 1004)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=4",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=4",
-  "apk_hash": "7af75e68e9854a72b3cb657ad777f008cd73f4492f533bc8f24400cebcd27f34",
-  "apk_size_bytes": 14818899,
-  "apk_size": 14818899,
-  "changelog": "v1.0.4: 修復更新對話框重複下載與新增系統安裝器備援，並正式上架雲端 OTA 清單",
-  "published_at": "2026-11-16 14:07:14"
+  "version": 5,
+  "version_code": 1005,
+  "version_name": "1.0.5",
+  "display_version": "v1.0.5 (build 1005)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=5",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=5",
+  "apk_hash": "52055fb3e86f2af9a38ceb4288afa831746a1bf1410fc64b4b48512668dada35",
+  "apk_size_bytes": 14818919,
+  "apk_size": 14818919,
+  "changelog": "v1.0.5: 修復加入隱藏目錄(.nomedia/自訂隱藏)無照片問題，支援Android 11+所有檔案存取權限引導與ON_RESUME自動重整",
+  "published_at": "2026-11-16 14:11:40"
 }
