@@ -1,14 +1,14 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 7,
-  "version_code": 1007,
-  "version_name": "1.0.7",
-  "display_version": "v1.0.7 (build 1007)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=7",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=7",
-  "apk_hash": "3a4e705abaddfa5c95076880f0d3a7073a38c1fa78f324da7bf4622217d2775f",
+  "version": 8,
+  "version_code": 1008,
+  "version_name": "1.0.8",
+  "display_version": "v1.0.8 (build 1008)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=8",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=8",
+  "apk_hash": "acbbdb0fedcfe5eff7e914fa3b7c12438e654ec65e14dc009dc652a7b67b1de1",
   "apk_size_bytes": 14835299,
   "apk_size": 14835299,
-  "changelog": "v1.0.7: 正式更名為「珍貴時光」（桌面圖示、書架標題、雜誌頁尾與匯出浮水印全面更新）",
-  "published_at": "2026-11-16 14:23:18"
+  "changelog": "v1.0.8: 對標 Sony 經典設計全面升級格調：硬殼精裝書衣與堆疊紙邊、美術館白框相紙、3D 翻頁景深、垂掛燕尾布質書籤、Kinfolk/Leica/京都五大精品雜誌 Style",
+  "published_at": "2026-11-16 18:36:38"
 }
