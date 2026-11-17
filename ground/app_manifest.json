@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 30,
-  "version_name": "v30",
-  "display_version": "v1.2.30",
+  "version": 31,
+  "version_name": "v31",
+  "display_version": "v1.2.31",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=30",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=30",
-  "bundle_hash": "37f9768314b258009fd7cc0374ac5e52c7608bccb61165db1d842fb32b1b4739",
-  "bundle_size": 17321398,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=31",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=31",
+  "bundle_hash": "da9be760d5a82d843c88e8c0fd618f9b55f104a1ec93df4cd6d3bb7348580beb",
+  "bundle_size": 17356003,
   "delta_media_count": 131,
-  "changelog": "v1.2.30：根除 balance.room_max 等原始 i18n 鍵值顯示，全域掛載 i18n 初始化並補齊 100% 繁中保底",
-  "published_at": "2026-11-15 22:56:16"
+  "changelog": "v1.2.31：新增 Google 地圖實景搶物資（大台北名餐廳與地標）及橫向捲軸 × 卡牌巡邏突襲戰場",
+  "published_at": "2026-11-17 11:42:42"
 }
