@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 19,
-  "version_code": 1019,
-  "version_name": "1.0.19",
-  "display_version": "v1.0.19 (build 1019)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=19",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@dc00cdc57ccd21623fe3b670977ff3c2d56805e7/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=19",
-  "apk_hash": "c18a7728aa4d8a2ee139773e2d847d80173de903ff927f8715fbef9a921e2d56",
-  "apk_size_bytes": 15745089,
-  "apk_size": 15745089,
-  "changelog": "v1.0.19: 調慢並潤飾實體翻頁動畫節奏（600-660ms 紙葉拱起與動態投影）更像真實翻書；相片檢視頁右上角新增隱藏／排除小圖示（含一鍵復原與設定頁恢復，絕不刪除手機原檔）",
-  "published_at": "2026-11-17 08:10:43"
+  "version": 20,
+  "version_code": 1020,
+  "version_name": "1.0.20",
+  "display_version": "v1.0.20 (build 1020)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=20",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@36bc6ae1a05ea8c00d7dcb9170293ad5772678de/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=20",
+  "apk_hash": "6127767ef796c9e00cfc59ccb812cf512d2bcc6ff0789f14f5d3eedef45d4bc0",
+  "apk_size_bytes": 15745197,
+  "apk_size": 15745197,
+  "changelog": "v1.0.20: 支援精選靈感短句與暖心詩意配字；新增相片 Highlight 高光標記小圖示、高光精選集，並於翻頁停駐時為高光相片綻放對角絲滑光澤掃掠特效",
+  "published_at": "2026-11-17 08:32:27"
 }
