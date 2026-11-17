@@ -1,14 +1,14 @@
 {
   "app_id": "com.terry.xiaobear.audiobook",
-  "version": 42,
-  "version_name": "v42",
-  "display_version": "v1.1.42",
+  "version": 43,
+  "version_name": "v43",
+  "display_version": "v1.1.43",
   "min_apk_version": 2,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=42",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=42",
-  "bundle_hash": "94e08d8e1ff2264ab262f0191cb097776c3d3e00d3edccd0a6de0ff34dc54ca9",
-  "bundle_size": 24046645,
-  "delta_media_count": 534,
-  "changelog": "v1.1.42 (Cloud OTA #42) 🌍 禪意讀書・環球世界遊覽沉浸式沙龍介面升級 ✕ 36 幅 16:9 本地高畫質世界絕景與名畫圖庫 (wt_01~wt_36.webp) ✕ 100% 零死鏈保證",
-  "published_at": "2026-11-15 01:50:24"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/leiji/app_bundle.zip?v=43",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/leiji/app_bundle.zip?v=43",
+  "bundle_hash": "1748d7492f1161390a17db2c4a2ae83864733d4fe68d3710378539bf35ecd16d",
+  "bundle_size": 27114809,
+  "delta_media_count": 590,
+  "changelog": "v1.1.43 (Cloud OTA #43) 🖼️ 修復書卡/橫幅/禪意圖文遮擋文字排版 ✕ 全面替換為 20 幅世界博物館名畫與 36 幅世界著名風景 (全面移除小熊源圖) ✕ 還原 85 部 Naval 與 10 部悅悅心視界全片完整逐字稿",
+  "published_at": "2026-11-17 09:10:34"
 }
