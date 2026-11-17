@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 20,
-  "version_code": 1020,
-  "version_name": "1.0.20",
-  "display_version": "v1.0.20 (build 1020)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=20",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@36bc6ae1a05ea8c00d7dcb9170293ad5772678de/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=20",
-  "apk_hash": "6127767ef796c9e00cfc59ccb812cf512d2bcc6ff0789f14f5d3eedef45d4bc0",
-  "apk_size_bytes": 15745197,
-  "apk_size": 15745197,
-  "changelog": "v1.0.20: 支援精選靈感短句與暖心詩意配字；新增相片 Highlight 高光標記小圖示、高光精選集，並於翻頁停駐時為高光相片綻放對角絲滑光澤掃掠特效",
-  "published_at": "2026-11-17 08:32:27"
+  "version": 21,
+  "version_code": 1021,
+  "version_name": "1.0.21",
+  "display_version": "v1.0.21 (build 1021)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=21",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@3b06d0018e49ede477b28ff5df30743edefc6bf3/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=21",
+  "apk_hash": "8e16fcb48749ea0fbbc858e2919e0d564975a71da1d0bde93b1b52950620417d",
+  "apk_size_bytes": 15761581,
+  "apk_size": 15761581,
+  "changelog": "v1.0.21: 致敬經典極簡全幅雜誌閱覽畫布！全面移除頂部功能條讓雜誌版面頂天呈現，並於左下角胡桃木書架緣打造金屬滾花觸控『旋鈕設定鈕』收納所有閱覽工具",
+  "published_at": "2026-11-17 08:58:08"
 }
