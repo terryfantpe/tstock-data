@@ -1,15 +1,15 @@
 {
-  "version": 63,
-  "version_name": "6.3.0",
+  "version": 64,
+  "version_name": "6.4.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "d88352ab3563f9c326977e2182299ccf529a65732c139e42a544d4056e3305dc",
-  "bundle_size": 957821,
+  "bundle_hash": "1688dbcfad3aadc26464ced550bc2d731b8e5763408d04b99c6e8f5291702063",
+  "bundle_size": 959579,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "1db95c7932272318eb6f9781b478c8249728cdcff9c2a828338911c826244329",
-  "apk_size": 19598795,
-  "published_at": "2026-11-17T11:31:11+08:00",
-  "release_notes": "V6.3 精簡實戰版：直看各彩種選號、BINGO 6星3期固定、Hopping 對上了嗎、近15期中獎實帳（已收合進階分析）"
+  "apk_hash": "01190108d857b349f3d38abbc296ca709bdd2c87f1159c30f31f71bca7e48b1d",
+  "apk_size": 19605139,
+  "published_at": "2026-11-18T04:43:53+08:00",
+  "release_notes": "V6.4 嚴格減注版：修復 affinity 矩陣不對稱與門檻前瞻取樣、改用 4跳鏈≥6 ＆ conf≥6.32 嚴格減注門檻（誠實揭露無正EV保證）"
 }
