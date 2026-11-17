@@ -1,15 +1,15 @@
 {
-  "version": 62,
-  "version_name": "6.2.0",
+  "version": 63,
+  "version_name": "6.3.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "97335dcc8f32585fef1e79b2383475b856630f0760ea30fb18124bb5c75e36bc",
-  "bundle_size": 957906,
+  "bundle_hash": "d88352ab3563f9c326977e2182299ccf529a65732c139e42a544d4056e3305dc",
+  "bundle_size": 957821,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "981453ef1c4ed7a9af5e90b0fc2e42b37016e4ff76701488982f67ff50acae37",
-  "apk_size": 19598171,
-  "published_at": "2026-11-17T09:00:27+08:00",
-  "release_notes": "V6.2 演算法全面放開 S4 × 同構歸納排組 (P01~P40/E01~E20/L01~L12) × BINGO 6星3期固定（嚴禁包牌 · Top15% OOS ROI +85.32% · Top10% +177.67% · 近10輪 +43.33%）"
+  "apk_hash": "1db95c7932272318eb6f9781b478c8249728cdcff9c2a828338911c826244329",
+  "apk_size": 19598795,
+  "published_at": "2026-11-17T11:31:11+08:00",
+  "release_notes": "V6.3 精簡實戰版：直看各彩種選號、BINGO 6星3期固定、Hopping 對上了嗎、近15期中獎實帳（已收合進階分析）"
 }
