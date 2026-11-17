@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 22,
-  "version_code": 1022,
-  "version_name": "1.0.22",
-  "display_version": "v1.0.22 (build 1022)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=22",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@d7a840305f92771168f371a751a43d1cf05e3ed2/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=22",
-  "apk_hash": "f6ab4be67934af6c0f243546e1327c8f95853e67e7c75142fe2160b09beeeb99",
+  "version": 23,
+  "version_code": 1023,
+  "version_name": "1.0.23",
+  "display_version": "v1.0.23 (build 1023)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=23",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@a89bf2f4aa4b3e9df61ff00967eb64a18993b4ed/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=23",
+  "apk_hash": "78ea00fd2028a1f81ea08955eca49e98c2c5f16e042b824f97e3a455d119ff6c",
   "apk_size_bytes": 15745201,
   "apk_size": 15745201,
-  "changelog": "v1.0.22: 軟體正式更名為『品 珍貴時光』；移除瀏覽頁面底部浮水印、全面移除標籤功能簡化閱覽介面，並擴充至 243 句不重複暖心詩意短句",
-  "published_at": "2026-11-17 11:11:43"
+  "changelog": "v1.0.23: 移除全體混合總冊、重塑 Sony / Kinfolk 藝廊精裝書封面設計，並新增可攜式排除設定檔 (Documents/PinPreciousMoments/exclusion_rules.json) 供匯出／匯入與重新加入目錄時自動套用",
+  "published_at": "2026-11-17 13:52:19"
 }
