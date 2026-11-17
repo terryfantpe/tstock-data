@@ -1,18 +1,35 @@
 {
   "app_id": "com.terry.ziwei",
-  "version": 45,
-  "version_name": "v45",
-  "display_version": "v0.1.45",
+  "version": 46,
+  "version_name": "v46",
+  "display_version": "v0.1.46",
   "min_apk_version": 15,
-  "latest_apk_version": 45,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=45",
-  "bundle_hash": "a6e2bb649e72a22e2ea3e93e73b2a83131e63bbcee39f962570a0fa415c16cec",
-  "bundle_size": 951971,
+  "latest_apk_version": 46,
+  "bundle_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@d12690fc65cb5b63dcc9fc011c0a4d7f3c5eec7d/ziwei/app_bundle.zip",
+  "bundle_hash": "03d695201942cde815dab3d8af63f4919e97dde316d6a7400269b2d1b05b318a",
+  "bundle_size": 952026,
   "delta_media_count": 0,
-  "changelog": "v0.1.45 五星賓果 V10.7：六星全面升級為五星5碼，四注20碼100%零重疊正交勝率達82.12%，8注40碼半盤全餐達97.41%(22時98.65%)，更新獎金,500///手機小工具同步",
-  "published_at": "2026-11-16 21:23:27",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ziwei/ZIWEI.apk?v=45",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=45",
-  "apk_hash": "8d4bc8ab26e3c6ee9922daa8e950bf421914399d1ec20d7eefecceabe5f6dedc",
-  "apk_size": 20068847
+  "changelog": "v0.1.46 Cloud OTA ＆ APK 極速下載重構：不可變 Commit SHA jsDelivr CDN ＋ 發布預熱 ＋ Range 併發測速競擇 ＋ 256KB 大緩衝 ＋ 6秒低速熔斷切換 ＋ HTTP 206 斷點續傳",
+  "published_at": "2026-11-17 08:23:15",
+  "apk_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@8e4a6d3350dc8877fe63c58b776770c81ed81849/ziwei/ZIWEI.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=46",
+  "apk_hash": "232f1bf620d95b05172b424470da6945b43710db8adad8447634048f9696d7e4",
+  "apk_size": 20085899,
+  "bundle_commit_sha": "d12690fc65cb5b63dcc9fc011c0a4d7f3c5eec7d",
+  "bundle_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@d12690fc65cb5b63dcc9fc011c0a4d7f3c5eec7d/ziwei/app_bundle.zip",
+  "bundle_raw_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/d12690fc65cb5b63dcc9fc011c0a4d7f3c5eec7d/ziwei/app_bundle.zip",
+  "bundle_mirrors": [
+    "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@d12690fc65cb5b63dcc9fc011c0a4d7f3c5eec7d/ziwei/app_bundle.zip",
+    "https://raw.githubusercontent.com/terryfantpe/tstock-data/d12690fc65cb5b63dcc9fc011c0a4d7f3c5eec7d/ziwei/app_bundle.zip",
+    "https://terryfantpe.github.io/tstock-data/ziwei/app_bundle.zip?v=46"
+  ],
+  "apk_commit_sha": "8e4a6d3350dc8877fe63c58b776770c81ed81849",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@8e4a6d3350dc8877fe63c58b776770c81ed81849/ziwei/ZIWEI.apk",
+  "apk_raw_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/8e4a6d3350dc8877fe63c58b776770c81ed81849/ziwei/ZIWEI.apk",
+  "apk_mirrors": [
+    "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@8e4a6d3350dc8877fe63c58b776770c81ed81849/ziwei/ZIWEI.apk",
+    "https://raw.githubusercontent.com/terryfantpe/tstock-data/8e4a6d3350dc8877fe63c58b776770c81ed81849/ziwei/ZIWEI.apk",
+    "https://terryfantpe.github.io/tstock-data/ziwei/ZIWEI.apk?v=46",
+    "https://github.com/terryfantpe/tstock-data/raw/main/ziwei/ZIWEI.apk?v=46"
+  ]
 }
