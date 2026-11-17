@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 23,
-  "version_code": 1023,
-  "version_name": "1.0.23",
-  "display_version": "v1.0.23 (build 1023)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=23",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@a89bf2f4aa4b3e9df61ff00967eb64a18993b4ed/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=23",
-  "apk_hash": "78ea00fd2028a1f81ea08955eca49e98c2c5f16e042b824f97e3a455d119ff6c",
-  "apk_size_bytes": 15745201,
-  "apk_size": 15745201,
-  "changelog": "v1.0.23: 移除全體混合總冊、重塑 Sony / Kinfolk 藝廊精裝書封面設計，並新增可攜式排除設定檔 (Documents/PinPreciousMoments/exclusion_rules.json) 供匯出／匯入與重新加入目錄時自動套用",
-  "published_at": "2026-11-17 13:52:19"
+  "version": 24,
+  "version_code": 1024,
+  "version_name": "1.0.24",
+  "display_version": "v1.0.24 (build 1024)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=24",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@6640477f3e0ccd25509efe2e1a957428f448c287/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=24",
+  "apk_hash": "a1f5fc66b0ccfe5c13de294c9ea32cd44d6247916b92e005f1d9853fd1d036a2",
+  "apk_size_bytes": 15761581,
+  "apk_size": 15761581,
+  "changelog": "v1.0.24: 將浪漫詩意字句預設字體調大至舒適 1.2x，並新增可調字體倍率 (0.9x–1.6x 滑桿與快速檔位)，可於設定頁及閱讀器左下角旋鈕選單即時縮放與同步匯出",
+  "published_at": "2026-11-18 00:10:04"
 }
