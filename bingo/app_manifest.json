@@ -1,15 +1,15 @@
 {
-  "version": 65,
-  "version_name": "6.5.0",
+  "version": 66,
+  "version_name": "6.6.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "1c8659c79621e1aa17e61a88bb58ca31fc0c57165aa76f6b14604a1c759ea076",
-  "bundle_size": 959085,
+  "bundle_hash": "47bca53c365e8c2a6a199cb1cef242100efcafdca65171834591f20714b181aa",
+  "bundle_size": 960530,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "3774da343a49ea7dbb69930468708ed281476a50d3b8c9da00d1479c298be840",
-  "apk_size": 19601683,
-  "published_at": "2026-11-18T09:39:54+08:00",
-  "release_notes": "V6.5 高機率排序版：大樂透 / 今彩539 / 威力彩統一依高機率由高到低排序（前6碼=單注、前10碼=包牌池）＋ 同步 2026-11-17 #115000106"
+  "apk_hash": "bdf47449ef84175bdc7295673137ba42f0c3f6dfd4ab9dcb24bdd0a27e71258d",
+  "apk_size": 19605379,
+  "published_at": "2026-11-18T14:10:26+08:00",
+  "release_notes": "V6.6 五行×籤筒物理強化・介面極簡降負載・大樂透/539/威力彩每日最多更新2次"
 }
