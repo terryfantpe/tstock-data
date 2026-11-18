@@ -3,14 +3,14 @@
   "version_name": "v386",
   "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=386",
   "min_app_version": 1,
-  "bundle_hash": "87cbb10ee910eb75dd7f8c7be4cf43a45d7ed6c737f423dbf7d239a11ab49eeb",
+  "bundle_hash": "8caf53b6da205400245b4ccb5138556f23f2cb1847dd70ca5368e88ba5e65d22",
   "ai_db_url": "https://github.com/terryfantpe/tstock-data/releases/download/db-20261111-0940/TSTOCK_AI.DB",
   "ai_db_mtime": "2026-11-11 09:40:29",
   "ai_db_size": 115924992,
   "ai_db_tag": "db-20261111-0940",
   "app_version": "1.0.386",
-  "bundle_size": 9402207,
-  "file_count": 234,
-  "published_at": "2026-11-15 23:04:39",
-  "changelog": "OTA v386 熱更新：23:00 盤後複盤雲端同步 ＋ 全戰區雷達 ota_data (V13~V16) 即時快照 ＋ 雙端 UX/穩定性全面修復"
+  "bundle_size": 8827845,
+  "file_count": 226,
+  "published_at": "2026-11-18 09:52:52",
+  "changelog": "OTA v386 完整熱更新：23:00 盤後戰情複盤三層不敗備援架構 ＋ WebView/DB 單份零覆寫秒開優化 ＋ V14/V15/V16 全模式 ota_data 同步"
 }
