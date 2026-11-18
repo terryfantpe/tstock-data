@@ -1,10 +1,91 @@
 {
   "version": 2,
-  "generated_at": "2026-11-18 09:52:57",
+  "generated_at": "2026-11-18 21:35:33",
   "db_source": "TSTOCK.db",
-  "latest_date": "2026-11-17",
+  "latest_date": "2026-11-18",
   "pages_url": "https://terryfantpe.github.io/tstock-data",
   "files": [
+    {
+      "date": "2026-11-18",
+      "file": "market_2026-11-18.json",
+      "size": 1320772,
+      "stats": {
+        "price_count": 1969,
+        "inst_count": 1872,
+        "margin_count": 2224,
+        "lending_count": 2073,
+        "lending_diff_count": 2224,
+        "day_trade_count": 1663
+      },
+      "task_log": [
+        {
+          "market": "ALL",
+          "task": "g01_verify",
+          "status": "OK",
+          "count": 1969
+        },
+        {
+          "market": "OTC",
+          "task": "day_trade",
+          "status": "OK",
+          "count": 749
+        },
+        {
+          "market": "OTC",
+          "task": "inst",
+          "status": "OK",
+          "count": 782
+        },
+        {
+          "market": "OTC",
+          "task": "lending",
+          "status": "OK",
+          "count": 835
+        },
+        {
+          "market": "OTC",
+          "task": "margin",
+          "status": "OK",
+          "count": 806
+        },
+        {
+          "market": "OTC",
+          "task": "price",
+          "status": "OK",
+          "count": 871
+        },
+        {
+          "market": "TSE",
+          "task": "day_trade",
+          "status": "OK",
+          "count": 1195
+        },
+        {
+          "market": "TSE",
+          "task": "inst",
+          "status": "OK",
+          "count": 1090
+        },
+        {
+          "market": "TSE",
+          "task": "lending",
+          "status": "OK",
+          "count": 1238
+        },
+        {
+          "market": "TSE",
+          "task": "margin",
+          "status": "OK",
+          "count": 1071
+        },
+        {
+          "market": "TSE",
+          "task": "price",
+          "status": "OK",
+          "count": 1098
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "file": "market_2026-11-17.json",
