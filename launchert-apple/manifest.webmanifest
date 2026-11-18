@@ -1,0 +1,26 @@
+{
+  "name": "LauncherT 子夜天文台",
+  "short_name": "LauncherT",
+  "description": "LauncherT iOS Standalone PWA — 子夜天文台極簡啟動器、八字曆法、生活脈動、VIP 載具條碼與五行桌布",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090E0C",
+  "theme_color": "#090E0C",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "./assets/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

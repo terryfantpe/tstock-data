@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "wallpaperId": "mw_01",
+  "category": "mushui",
+  "title": "水生木旺 · 翠林飛瀑碧潭仙境",
+  "wxTag": "木水",
+  "recommendedElements": ["木", "水"],
+  "imageUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1080&h=2400&q=86",
+  "thumbUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=480&h=320&q=78",
+  "fallbackImageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1080&h=2400&q=86",
+  "updatedAt": "2026-11-18T00:00:00+08:00",
+  "shortcutHint": "iOS 捷徑使用 Get Contents of URL -> Get Dictionary Value (imageUrl) -> Get Contents of URL -> Set Wallpaper Photo"
+}
