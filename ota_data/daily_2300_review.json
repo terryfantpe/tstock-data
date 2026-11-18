@@ -839,7 +839,8 @@
         "vol_ratio5": 4.48
       },
       "hit_on_t_by": [
-        "V8"
+        "V8",
+        "V12"
       ],
       "locked": true,
       "matched_rules": [],
@@ -1137,7 +1138,9 @@
         "vol_ratio20": 1.19,
         "vol_ratio5": 0.93
       },
-      "hit_on_t_by": [],
+      "hit_on_t_by": [
+        "V11"
+      ],
       "locked": false,
       "matched_rules": [],
       "miss_reason": "",
@@ -1282,8 +1285,8 @@
     }
   ],
   "focus_summary": "2026-11-17 重點股 10 檔：3293鈊象、2886兆豐金、5536聖暉*、6756威鋒電子、1477聚陽 等",
-  "from_cache": false,
-  "generated_at": "2026-11-17 23:00:25",
+  "from_cache": true,
+  "generated_at": "2026-11-18 09:37:36",
   "has_report": true,
   "history": [
     {
@@ -3122,5 +3125,5 @@
       }
     ]
   },
-  "trigger_source": "scheduler_2300"
+  "trigger_source": "seed"
 }
