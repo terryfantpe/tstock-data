@@ -1,7 +1,7 @@
 {
   "name": "LauncherT 子夜天文台",
   "short_name": "LauncherT",
-  "description": "LauncherT iOS Standalone PWA — 子夜天文台極簡啟動器、八字曆法、生活脈動、VIP 載具條碼與五行桌布",
+  "description": "LauncherT 子夜天文台 iOS — 院線電影時刻、最新藝文展覽市集活動、生活氣象與載具 VIP 條碼日曆",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

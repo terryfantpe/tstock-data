@@ -1,12 +1,13 @@
 /* LauncherT Apple Standalone PWA Service Worker */
-const CACHE_HTML = 'launchert-html-v1';
-const CACHE_ASSETS = 'launchert-assets-v1';
+const CACHE_HTML = 'launchert-html-v2';
+const CACHE_ASSETS = 'launchert-assets-v2';
 const ALLOWED_CACHES = new Set([CACHE_HTML, CACHE_ASSETS]);
 
 const PRECACHE_ASSETS = [
   './',
   './index.html',
   './manifest.webmanifest',
+  './pulse_feed.json',
   './wuxing_wallpaper_today.json',
   './assets/icon-180.png',
   './assets/icon-512.png',
