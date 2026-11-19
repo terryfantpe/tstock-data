@@ -1,6 +1,6 @@
 /* LauncherT Apple Standalone PWA Service Worker */
-const CACHE_HTML = 'launchert-html-v4';
-const CACHE_ASSETS = 'launchert-assets-v4';
+const CACHE_HTML = 'launchert-html-v5';
+const CACHE_ASSETS = 'launchert-assets-v5';
 const ALLOWED_CACHES = new Set([CACHE_HTML, CACHE_ASSETS]);
 
 const PRECACHE_ASSETS = [
