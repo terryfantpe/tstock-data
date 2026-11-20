@@ -1,15 +1,15 @@
 {
-  "version": 70,
-  "version_name": "7.0.0",
+  "version": 71,
+  "version_name": "7.1.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "c06a4795cafd586c36c19a6e8baf702d7e772d0e2896a2cce6b5a96334a636ce",
-  "bundle_size": 798730,
+  "bundle_hash": "a97845886e7fb110a7b1a75303e9341595c3c09ef9bdfa68a04c599161849b0b",
+  "bundle_size": 806280,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "88cc3fd8166c9fd26b814b158126144b78af883178ca02d048a4994d842dfb34",
-  "apk_size": 19293567,
-  "published_at": "2026-11-20T19:22:16+08:00",
-  "release_notes": "V7.0 零假贏專家優勢版：全面封殺假贏真虧包牌(假贏率0.00%)・大樂透M2-H1Clean8+G1×G2雙閘門・威力彩底池$0空手省$76,000+・539 Top15%單注狙擊・BINGO五方共識Top2% K=2上限$50+官方加碼期獵殺"
+  "apk_hash": "0194908c033df1103c00a6480c2ed15b95ea4f8147ae26aeb3090c09cee83625",
+  "apk_size": 19309931,
+  "published_at": "2026-11-20T21:52:53+08:00",
+  "release_notes": "V7.1 大樂透6碼全中集合最佳化版：J6-SetOpt×J6-Struct8 全748期2,992/2,992注100.00%頭獎合規(剔除73.48%/76.11%畸形廢票・假贏率0.00%)・威力彩底池$0空手・539 Top15%單注狙擊・BINGO五方共識K=2"
 }
