@@ -1,15 +1,15 @@
 {
-  "version": 66,
-  "version_name": "6.6.0",
+  "version": 67,
+  "version_name": "6.7.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "47bca53c365e8c2a6a199cb1cef242100efcafdca65171834591f20714b181aa",
-  "bundle_size": 960530,
+  "bundle_hash": "44e63c7e8a4c980d6d1cad630bd0a50bcf8c226d7a2e727e3c3f85f739fe8778",
+  "bundle_size": 788265,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "bdf47449ef84175bdc7295673137ba42f0c3f6dfd4ab9dcb24bdd0a27e71258d",
-  "apk_size": 19605379,
-  "published_at": "2026-11-18T14:10:26+08:00",
-  "release_notes": "V6.6 五行×籤筒物理強化・介面極簡降負載・大樂透/539/威力彩每日最多更新2次"
+  "apk_hash": "a9c291233d731d4ef2d0b121117377bd3369bc6462e8feadbe3601b1b7cd69db",
+  "apk_size": 19271023,
+  "published_at": "2026-11-20T10:53:18+08:00",
+  "release_notes": "V6.7 極簡三卡制：大樂透8碼鎖碼(4注$200)・今彩539/威力彩8碼鎖碼・BINGO 5星順延0~2期Hopping燈號"
 }
