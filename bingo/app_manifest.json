@@ -1,15 +1,15 @@
 {
-  "version": 67,
-  "version_name": "6.7.0",
+  "version": 68,
+  "version_name": "6.8.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "44e63c7e8a4c980d6d1cad630bd0a50bcf8c226d7a2e727e3c3f85f739fe8778",
-  "bundle_size": 788265,
+  "bundle_hash": "36a74d4b4b0ee5916754fe2412459d268572fbe65cbde82440e95f12134296e9",
+  "bundle_size": 790550,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "a9c291233d731d4ef2d0b121117377bd3369bc6462e8feadbe3601b1b7cd69db",
-  "apk_size": 19271023,
-  "published_at": "2026-11-20T10:53:18+08:00",
-  "release_notes": "V6.7 極簡三卡制：大樂透8碼鎖碼(4注$200)・今彩539/威力彩8碼鎖碼・BINGO 5星順延0~2期Hopping燈號"
+  "apk_hash": "f4898be02208a76e4560fb782d6bac08c9bcf369674b27828cd181d699e504ed",
+  "apk_size": 19276451,
+  "published_at": "2026-11-20T16:35:20+08:00",
+  "release_notes": "V6.8 全彩種有效演算法突破：今彩539 M2_539_Clean×Opt4零漏雙連(37.75%)・威力彩3+1=$400×2+2雙二區分流・反眾人1.82x與+EV門檻・BINGO Top15%嚴選燈"
 }
