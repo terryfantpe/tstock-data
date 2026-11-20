@@ -1,15 +1,15 @@
 {
-  "version": 69,
-  "version_name": "6.9.0",
+  "version": 70,
+  "version_name": "7.0.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "bdbabe5c94bb20b59d450435bd685ca0048e40e5338a1af77899f276867deece",
-  "bundle_size": 795159,
+  "bundle_hash": "c06a4795cafd586c36c19a6e8baf702d7e772d0e2896a2cce6b5a96334a636ce",
+  "bundle_size": 798730,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "04bcb36c2e1775a6a0813c280e56d4094c8e3ba81278bb8029b48554f67d7e88",
-  "apk_size": 19285627,
-  "published_at": "2026-11-20T17:13:54+08:00",
-  "release_notes": "V6.9 動態滾動對齊×近期>=70%實戰帳單：BINGO W=18錦標賽×9星雙注($50)/5星5注($125)・539順延70.00%・威力彩拉丁8注二區全包85.00%・大樂透W120鎖中85.00%"
+  "apk_hash": "88cc3fd8166c9fd26b814b158126144b78af883178ca02d048a4994d842dfb34",
+  "apk_size": 19293567,
+  "published_at": "2026-11-20T19:22:16+08:00",
+  "release_notes": "V7.0 零假贏專家優勢版：全面封殺假贏真虧包牌(假贏率0.00%)・大樂透M2-H1Clean8+G1×G2雙閘門・威力彩底池$0空手省$76,000+・539 Top15%單注狙擊・BINGO五方共識Top2% K=2上限$50+官方加碼期獵殺"
 }
