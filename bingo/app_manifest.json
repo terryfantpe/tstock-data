@@ -1,15 +1,15 @@
 {
-  "version": 68,
-  "version_name": "6.8.0",
+  "version": 69,
+  "version_name": "6.9.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "36a74d4b4b0ee5916754fe2412459d268572fbe65cbde82440e95f12134296e9",
-  "bundle_size": 790550,
+  "bundle_hash": "bdbabe5c94bb20b59d450435bd685ca0048e40e5338a1af77899f276867deece",
+  "bundle_size": 795159,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "f4898be02208a76e4560fb782d6bac08c9bcf369674b27828cd181d699e504ed",
-  "apk_size": 19276451,
-  "published_at": "2026-11-20T16:35:20+08:00",
-  "release_notes": "V6.8 全彩種有效演算法突破：今彩539 M2_539_Clean×Opt4零漏雙連(37.75%)・威力彩3+1=$400×2+2雙二區分流・反眾人1.82x與+EV門檻・BINGO Top15%嚴選燈"
+  "apk_hash": "04bcb36c2e1775a6a0813c280e56d4094c8e3ba81278bb8029b48554f67d7e88",
+  "apk_size": 19285627,
+  "published_at": "2026-11-20T17:13:54+08:00",
+  "release_notes": "V6.9 動態滾動對齊×近期>=70%實戰帳單：BINGO W=18錦標賽×9星雙注($50)/5星5注($125)・539順延70.00%・威力彩拉丁8注二區全包85.00%・大樂透W120鎖中85.00%"
 }
