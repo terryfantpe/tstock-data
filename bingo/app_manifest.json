@@ -1,15 +1,15 @@
 {
-  "version": 71,
-  "version_name": "7.1.0",
+  "version": 72,
+  "version_name": "7.2.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "a97845886e7fb110a7b1a75303e9341595c3c09ef9bdfa68a04c599161849b0b",
-  "bundle_size": 806280,
+  "bundle_hash": "e3cd6b774c68a505ff34232ee8c9fdb55e2c75e9ed684441a852ea17c636c46b",
+  "bundle_size": 887981,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "0194908c033df1103c00a6480c2ed15b95ea4f8147ae26aeb3090c09cee83625",
-  "apk_size": 19309931,
-  "published_at": "2026-11-20T21:52:53+08:00",
-  "release_notes": "V7.1 大樂透6碼全中集合最佳化版：J6-SetOpt×J6-Struct8 全748期2,992/2,992注100.00%頭獎合規(剔除73.48%/76.11%畸形廢票・假贏率0.00%)・威力彩底池$0空手・539 Top15%單注狙擊・BINGO五方共識K=2"
+  "apk_hash": "927cfdf1a7c7d4c33515db015408bfdc8ec5566bdf93f05c9804f38baa16c9e8",
+  "apk_size": 19483639,
+  "published_at": "2026-11-21T19:26:07+08:00",
+  "release_notes": "V7.2 近2月主權重×歷史先驗副權重極限勝率突破版：大樂透M3_J6×CP-ES7 7注$350(近2月41.18%・同額V7.1之1.75x・H2 17.60%~18.93%)・BINGO R7_M2_w80(近2月回本+獲利20.13%・ROI+44.19%)・539 W52_w78(近52期19.23%)・威力彩底池$0空手・40,942期離線庫"
 }
