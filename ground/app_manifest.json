@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 31,
-  "version_name": "v31",
-  "display_version": "v1.2.31",
+  "version": 32,
+  "version_name": "v32",
+  "display_version": "v1.2.32",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=31",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=31",
-  "bundle_hash": "da9be760d5a82d843c88e8c0fd618f9b55f104a1ec93df4cd6d3bb7348580beb",
-  "bundle_size": 17356003,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=32",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=32",
+  "bundle_hash": "e31260d32c44493fbf9a4616c2fc4074c7d69a163fba516df0d631e715007de5",
+  "bundle_size": 17401366,
   "delta_media_count": 131,
-  "changelog": "v1.2.31：新增 Google 地圖實景搶物資（大台北名餐廳與地標）及橫向捲軸 × 卡牌巡邏突襲戰場",
-  "published_at": "2026-11-17 11:42:42"
+  "changelog": "v1.2.32：實裝地面五人安全屋(6大房型/9座擴建/開伙守屋)與實景搶物資5人選角出征系統，修復多處入口與版面配置",
+  "published_at": "2026-11-21 16:04:50"
 }
