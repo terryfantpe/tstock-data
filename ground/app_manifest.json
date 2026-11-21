@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 34,
-  "version_name": "v34",
-  "display_version": "v1.2.34",
+  "version": 35,
+  "version_name": "v35",
+  "display_version": "v1.2.35",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=34",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=34",
-  "bundle_hash": "348a3644c50f69d1eca928935b750a6a0f37574845edd8f742bf08a15c1fb83c",
-  "bundle_size": 17428685,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=35",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=35",
+  "bundle_hash": "a2dc0b20fd3bb832e48bb6c89089c9259a44681c2e8189b162f255a708abc1f8",
+  "bundle_size": 17419914,
   "delta_media_count": 131,
-  "changelog": "v1.2.34：昕媛預設寵物度咕&米咕安全屋與避難所走動、戰寵單一角色專屬綁定、全避難所人數上限與卡片遣散、<10人建築純SSR制與床位超額自選留下視窗",
-  "published_at": "2026-11-21 17:28:11"
+  "changelog": "v1.2.35：極簡擬真安全屋（對齊地下避難所清爽排版、零重疊零對話框雜訊、5張擬真剖面HD場景、角色與戰寵全屋2D自由走動）",
+  "published_at": "2026-11-21 18:47:11"
 }
