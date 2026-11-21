@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 32,
-  "version_name": "v32",
-  "display_version": "v1.2.32",
+  "version": 33,
+  "version_name": "v33",
+  "display_version": "v1.2.33",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=32",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=32",
-  "bundle_hash": "e31260d32c44493fbf9a4616c2fc4074c7d69a163fba516df0d631e715007de5",
-  "bundle_size": 17401366,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=33",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=33",
+  "bundle_hash": "2ec8a1a3f2cd4b7d26bdfcc06d7c55bf46e1cc1d11351369f58e0db70c031d6b",
+  "bundle_size": 17417941,
   "delta_media_count": 131,
-  "changelog": "v1.2.32：實裝地面五人安全屋(6大房型/9座擴建/開伙守屋)與實景搶物資5人選角出征系統，修復多處入口與版面配置",
-  "published_at": "2026-11-21 16:04:50"
+  "changelog": "v1.2.33：實裝地面起始安全屋(品磊&昕媛預設/上限6人每房2人/超額抽卡轉鑽石)、6大地下寶物解封(地下儲藏室/農場/電源)與安全屋實景全自動無限輪迴",
+  "published_at": "2026-11-21 17:08:46"
 }
