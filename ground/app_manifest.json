@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 33,
-  "version_name": "v33",
-  "display_version": "v1.2.33",
+  "version": 34,
+  "version_name": "v34",
+  "display_version": "v1.2.34",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=33",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=33",
-  "bundle_hash": "2ec8a1a3f2cd4b7d26bdfcc06d7c55bf46e1cc1d11351369f58e0db70c031d6b",
-  "bundle_size": 17417941,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=34",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=34",
+  "bundle_hash": "348a3644c50f69d1eca928935b750a6a0f37574845edd8f742bf08a15c1fb83c",
+  "bundle_size": 17428685,
   "delta_media_count": 131,
-  "changelog": "v1.2.33：實裝地面起始安全屋(品磊&昕媛預設/上限6人每房2人/超額抽卡轉鑽石)、6大地下寶物解封(地下儲藏室/農場/電源)與安全屋實景全自動無限輪迴",
-  "published_at": "2026-11-21 17:08:46"
+  "changelog": "v1.2.34：昕媛預設寵物度咕&米咕安全屋與避難所走動、戰寵單一角色專屬綁定、全避難所人數上限與卡片遣散、<10人建築純SSR制與床位超額自選留下視窗",
+  "published_at": "2026-11-21 17:28:11"
 }
