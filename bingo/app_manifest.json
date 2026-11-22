@@ -1,15 +1,15 @@
 {
-  "version": 72,
-  "version_name": "7.2.0",
+  "version": 73,
+  "version_name": "7.3.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "e3cd6b774c68a505ff34232ee8c9fdb55e2c75e9ed684441a852ea17c636c46b",
-  "bundle_size": 887981,
+  "bundle_hash": "139d66a69582c1388bae9aa455a94a2f9d9e80260f265c1386682d484c73299d",
+  "bundle_size": 925030,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "927cfdf1a7c7d4c33515db015408bfdc8ec5566bdf93f05c9804f38baa16c9e8",
-  "apk_size": 19483639,
-  "published_at": "2026-11-21T19:26:07+08:00",
-  "release_notes": "V7.2 近2月主權重×歷史先驗副權重極限勝率突破版：大樂透M3_J6×CP-ES7 7注$350(近2月41.18%・同額V7.1之1.75x・H2 17.60%~18.93%)・BINGO R7_M2_w80(近2月回本+獲利20.13%・ROI+44.19%)・539 W52_w78(近52期19.23%)・威力彩底池$0空手・40,942期離線庫"
+  "apk_hash": "22a42205be5ec84fd8be8d8ab2bcd34690acb4e8fe26b5cb3b0a00f97929fa8d",
+  "apk_size": 19560727,
+  "published_at": "2026-11-22T17:12:06+08:00",
+  "release_notes": "V7.3 法定滾存+EV雷達×反眾人防分帳體檢版：修補跨日對帳混算、選單undefined、威力彩StatRTP(33.84%/30.72%)與重置失明(2/9=22.22%)、539 IID 11.40%、BINGO五態猜單雙與100%假贏攔截 · 41,138期離線庫"
 }
