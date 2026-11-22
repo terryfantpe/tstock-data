@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 38,
-  "version_name": "v38",
-  "display_version": "v1.2.38",
+  "version": 39,
+  "version_name": "v39",
+  "display_version": "v1.2.39",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=38",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=38",
-  "bundle_hash": "6e4d8820b85c5cad5e2a19b16ba60f82c6597a10396f03be0b8953d70ae4151b",
-  "bundle_size": 24591617,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=39",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=39",
+  "bundle_hash": "4fdafa02eba1e677c1fc72f30d8af0898af1bae7eac0118ddefb2d71d76d3032",
+  "bundle_size": 24591630,
   "delta_media_count": 157,
-  "changelog": "v1.2.38：六大安全屋整組24張專屬擬真場景（切換房型同步更換外觀全景＋2F工坊＋1F玄關＋1F廚房整組圖片）",
-  "published_at": "2026-11-22 16:44:30"
+  "changelog": "v1.2.39：安全屋上方直接排列2F工坊＋1F玄關與廚房三間房，下方依序接安全屋外觀庭院、出戰按鈕與地下室",
+  "published_at": "2026-11-22 22:50:44"
 }
