@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 37,
-  "version_name": "v37",
-  "display_version": "v1.2.37",
+  "version": 38,
+  "version_name": "v38",
+  "display_version": "v1.2.38",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=37",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=37",
-  "bundle_hash": "dd2c1a00ae9dd875eeb6eb6a339399e04b6e610956ece7e8615ae1ad3a465b82",
-  "bundle_size": 17422053,
-  "delta_media_count": 131,
-  "changelog": "v1.2.37：地上安全屋最上方完整1024x448全景建築外觀（零裁切屋頂、地下樓層頂部同步顯示地上安全屋）",
-  "published_at": "2026-11-22 16:07:54"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=38",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=38",
+  "bundle_hash": "6e4d8820b85c5cad5e2a19b16ba60f82c6597a10396f03be0b8953d70ae4151b",
+  "bundle_size": 24591617,
+  "delta_media_count": 157,
+  "changelog": "v1.2.38：六大安全屋整組24張專屬擬真場景（切換房型同步更換外觀全景＋2F工坊＋1F玄關＋1F廚房整組圖片）",
+  "published_at": "2026-11-22 16:44:30"
 }
