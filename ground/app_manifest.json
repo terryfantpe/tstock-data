@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 36,
-  "version_name": "v36",
-  "display_version": "v1.2.36",
+  "version": 37,
+  "version_name": "v37",
+  "display_version": "v1.2.37",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=36",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=36",
-  "bundle_hash": "33e02f120e1f713f028d0044f6125a54cc5fadda02fa8945429b1a6d44357ce6",
-  "bundle_size": 17421101,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=37",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=37",
+  "bundle_hash": "dd2c1a00ae9dd875eeb6eb6a339399e04b6e610956ece7e8615ae1ad3a465b82",
+  "bundle_size": 17422053,
   "delta_media_count": 131,
-  "changelog": "v1.2.36：六大安全屋（農莊小屋、武裝超商、信義頂樓公寓、捷運地下暗堡、艋舺古廟武道館、淡水貨櫃要塞）專屬擬真場景圖與地下設施圖全實裝",
-  "published_at": "2026-11-22 15:00:05"
+  "changelog": "v1.2.37：地上安全屋最上方完整1024x448全景建築外觀（零裁切屋頂、地下樓層頂部同步顯示地上安全屋）",
+  "published_at": "2026-11-22 16:07:54"
 }
