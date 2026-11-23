@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 40,
-  "version_name": "v40",
-  "display_version": "v1.2.40",
+  "version": 41,
+  "version_name": "v41",
+  "display_version": "v1.2.41",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=40",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=40",
-  "bundle_hash": "090bd3783d1f688c7ad9cb16be98bbbca03aa45972287323f3467c28d13cc4a2",
-  "bundle_size": 24943353,
-  "delta_media_count": 163,
-  "changelog": "v1.2.40：Google Flow 主角（品磊、昕媛）行走與打鬥 8 幀動畫＋全角色職業共用刀光與彈幕打鬥動畫實裝",
-  "published_at": "2026-11-23 14:45:03"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=41",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=41",
+  "bundle_hash": "8d3d08a2df4fa608a02689038eb0dfb50a7a0b00ff2fc96043318d97573ccf90",
+  "bundle_size": 28731384,
+  "delta_media_count": 176,
+  "changelog": "v1.2.41：安全屋外觀與內裝五階升級換圖＋一鍵升級小屋＋B1地下避難所完整同規＋單一來源經濟同步＋全角色三系打鬥與零偏移全身動畫審計重構",
+  "published_at": "2026-11-23 18:31:35"
 }
