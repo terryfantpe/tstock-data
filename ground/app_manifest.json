@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 39,
-  "version_name": "v39",
-  "display_version": "v1.2.39",
+  "version": 40,
+  "version_name": "v40",
+  "display_version": "v1.2.40",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=39",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=39",
-  "bundle_hash": "4fdafa02eba1e677c1fc72f30d8af0898af1bae7eac0118ddefb2d71d76d3032",
-  "bundle_size": 24591630,
-  "delta_media_count": 157,
-  "changelog": "v1.2.39：安全屋上方直接排列2F工坊＋1F玄關與廚房三間房，下方依序接安全屋外觀庭院、出戰按鈕與地下室",
-  "published_at": "2026-11-22 22:50:44"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=40",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=40",
+  "bundle_hash": "090bd3783d1f688c7ad9cb16be98bbbca03aa45972287323f3467c28d13cc4a2",
+  "bundle_size": 24943353,
+  "delta_media_count": 163,
+  "changelog": "v1.2.40：Google Flow 主角（品磊、昕媛）行走與打鬥 8 幀動畫＋全角色職業共用刀光與彈幕打鬥動畫實裝",
+  "published_at": "2026-11-23 14:45:03"
 }
