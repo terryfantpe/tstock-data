@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 42,
-  "version_name": "v42",
-  "display_version": "v1.2.42",
+  "version": 43,
+  "version_name": "v43",
+  "display_version": "v1.2.43",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=42",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=42",
-  "bundle_hash": "8999a31bab1f34a3ab2ced8b36639e595189abe5e2c714533325ea3ad85ad4e3",
-  "bundle_size": 28735719,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=43",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=43",
+  "bundle_hash": "6edd8a51255b91f447e148320e1e658e738091099fc057944e8d65695ccea7f6",
+  "bundle_size": 28740597,
   "delta_media_count": 176,
-  "changelog": "v1.2.42：六大安全屋房型差異化容納人數（4~9人＋1~4寵＋各房獨立床位）與專屬特化／禁建設施＆B1地下室地形加成實裝",
-  "published_at": "2026-11-24 08:52:35"
+  "changelog": "v1.2.43：安全屋生態實裝 — 適度頻率空中飛行類(巨鴉/血蝠/毒蜂/無人機)與地面(餓狼/喪屍/野豬/劫匪)外部襲擊、房屋破損度視覺與一鍵/工坊自動修復、及安全屋駐守工作自動升級房間與主屋",
+  "published_at": "2026-11-24 10:04:42"
 }
