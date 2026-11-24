@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 44,
-  "version_name": "v44",
-  "display_version": "v1.2.44",
+  "version": 45,
+  "version_name": "v45",
+  "display_version": "v1.2.45",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=44",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=44",
-  "bundle_hash": "e83a499f61e2a7680432d9aa1676209ef6f08bda13a1ad3bda909224610fa2c1",
-  "bundle_size": 28745541,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=45",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=45",
+  "bundle_hash": "cfb4b8311b40b0a4ca286ecaac4f3ffa264e8604ee8a4ec4d7c0868fc9989e73",
+  "bundle_size": 19370283,
   "delta_media_count": 176,
-  "changelog": "v1.2.44：留卡抉擇全面改版為零重疊一列兩格極簡小圖條列、安全屋受襲加入震動／血光／衝擊波與反擊爆閃特效、並新增6大安全屋自動武器（機械臂、自瞄機槍、特斯拉電弧塔、噴火屋簷、光子雷射、無人機巢）",
-  "published_at": "2026-11-24 11:50:06"
+  "changelog": "v1.2.45：全遊戲970張圖片高畫質極速瘦身優化(-82.86%節省618MB)、六大安全屋不同初始層數(1~3層)與可擴充至3~5層(擴建即加蓋並+2人數上限)、新增末日亂玩玩具箱(試射演練/屋頂開趴/盲盒空投/點天空放煙火連擊)",
+  "published_at": "2026-11-25 01:45:58"
 }
