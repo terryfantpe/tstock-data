@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 24,
-  "version_code": 1024,
-  "version_name": "1.0.24",
-  "display_version": "v1.0.24 (build 1024)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=24",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@6640477f3e0ccd25509efe2e1a957428f448c287/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=24",
-  "apk_hash": "a1f5fc66b0ccfe5c13de294c9ea32cd44d6247916b92e005f1d9853fd1d036a2",
-  "apk_size_bytes": 15761581,
-  "apk_size": 15761581,
-  "changelog": "v1.0.24: 將浪漫詩意字句預設字體調大至舒適 1.2x，並新增可調字體倍率 (0.9x–1.6x 滑桿與快速檔位)，可於設定頁及閱讀器左下角旋鈕選單即時縮放與同步匯出",
-  "published_at": "2026-11-18 00:10:04"
+  "version": 25,
+  "version_code": 1025,
+  "version_name": "1.0.25",
+  "display_version": "v1.0.25 (build 1025)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=25",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@60840a1c23aff76c6d62ac35425ebba2e3cb8c6f/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=25",
+  "apk_hash": "22fa2fd651126dd4bce19adad4a94f108c177ea55a68e73f5a4290d10000da4e",
+  "apk_size_bytes": 17186279,
+  "apk_size": 17186279,
+  "changelog": "v1.0.25: 新增 6 款典藏級藝術材質風格（和紙金箔／羅馬洞石／普魯士藍／嵐山苔綠／酒紅絲絨／香檳拉絲銅）與立體精裝書樣卡挑選器，書架牆面擴充至 13 款並修復 3D 翻頁邊距對齊",
+  "published_at": "2026-11-25 01:47:40"
 }
