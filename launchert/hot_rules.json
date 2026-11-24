@@ -1,11 +1,40 @@
 {
   "hot_rules_version": 1,
-  "updated_at": "2026-11-24 18:17:59",
+  "updated_at": "2026-11-24 19:34:33",
   "changelog": "v1 — 新增熱門 AI / 財經 / 交通分類關鍵字與生活脈動精選情報",
   "extra_classifier_tokens": {
-    "finance": [
+    "self_made": [
+      "com.terry.",
+      "com.first.",
+      "com.pinlei.",
+      "com.p2r.",
+      "com.millionmoments.",
+      "com.bunker.ground",
+      "com.shuihu.rpg",
       "tstock",
-      "p2r",
+      "ziwei",
+      "grabbrowser",
+      "omniplay",
+      "bingowuxing",
+      "leijiaudiobook"
+    ],
+    "work": [
+      "chromeremotedesktop",
+      "anydesk",
+      "teamviewer",
+      "rustdesk",
+      "microsoft.rdc",
+      "todesk",
+      "sunlogin",
+      "splashtop",
+      "deskin",
+      "anyviewer",
+      "realvnc",
+      "遠端桌面",
+      "遠程桌面",
+      "遠端控制"
+    ],
+    "finance": [
       "pocketsec",
       "國泰證券",
       "台股盤中"
@@ -47,5 +76,5 @@
       "secondary_uri": ""
     }
   ],
-  "hot_rules_sha256": "3f11151e037533ffcd0b94d6882882cf4cd98d890bb18b1a0ad3e868ba5eb381"
+  "hot_rules_sha256": "5a35bc652698383817c16c70dbd7badb157e683f2430b1a577ecda07fe34bd87"
 }
