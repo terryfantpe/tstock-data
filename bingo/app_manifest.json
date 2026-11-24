@@ -1,15 +1,15 @@
 {
-  "version": 74,
-  "version_name": "7.4.0",
+  "version": 75,
+  "version_name": "7.5.0",
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "103888efb8070c77f85a98400c6cf816bb66aea21796713a5a00155f142a73ce",
-  "bundle_size": 931043,
+  "bundle_hash": "34a5aa6fe7b34aa5884b03f4e054f2a1647593697f722563e1930c0d8a5702d9",
+  "bundle_size": 933288,
   "bundled_files": 8,
   "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "97ae6c12d88bdb0b85bcdecc3208f5f04f2f4c24cf6cd246a7c419415912d541",
-  "apk_size": 19569251,
-  "published_at": "2026-11-23T14:52:56+08:00",
+  "apk_hash": "50924c6dc45d3fde90e1e73eeb540bae641adee0f2b1e7a5f4bd270814f5b938",
+  "apk_size": 19576163,
+  "published_at": "2026-11-24T08:57:49+08:00",
   "release_notes": "V7.3 法定滾存+EV雷達×反眾人防分帳體檢版：修補跨日對帳混算、選單undefined、威力彩StatRTP(33.84%/30.72%)與重置失明(2/9=22.22%)、539 IID 11.40%、BINGO五態猜單雙與100%假贏攔截 · 41,138期離線庫"
 }
