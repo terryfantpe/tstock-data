@@ -1,6 +1,6 @@
 {
   "hot_rules_version": 1,
-  "updated_at": "2026-11-23 15:04:09",
+  "updated_at": "2026-11-24 12:23:26",
   "changelog": "v1 — 新增熱門 AI / 財經 / 交通分類關鍵字與生活脈動精選情報",
   "extra_classifier_tokens": {
     "finance": [
@@ -35,7 +35,7 @@
       "tag": "🖼️ 展覽精選",
       "title": "本季台灣五大必看特展＆美術館夜間延長開放整理",
       "subtitle": "北美館週六夜間開館、內惟藝術中心開至 21:00，下班後也能優雅看展",
-      "meta": "生活策展精選 · 2026-11-23",
+      "meta": "生活策展精選 · 2026-11-24",
       "action_label": "搜尋當期大展",
       "action_uri": "https://www.google.com/search?q=%E5%8F%B0%E7%81%A3+%E7%95%B6%E6%9C%9F%E7%89%B9%E5%B1%95+%E7%BE%8E%E8%A1%93%E9%A4%A8",
       "highlight_score": 89,
@@ -47,5 +47,5 @@
       "secondary_uri": ""
     }
   ],
-  "hot_rules_sha256": "eec13d70c3b19309476b899f69b956f4b86f5f556a00aaffcadfb01d3088fd86"
+  "hot_rules_sha256": "c7220bc716e822f471bb63cb129b950106c8084d01ea90b784715f8b5f27bd0c"
 }
