@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 43,
-  "version_name": "v43",
-  "display_version": "v1.2.43",
+  "version": 44,
+  "version_name": "v44",
+  "display_version": "v1.2.44",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=43",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=43",
-  "bundle_hash": "6edd8a51255b91f447e148320e1e658e738091099fc057944e8d65695ccea7f6",
-  "bundle_size": 28740597,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=44",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=44",
+  "bundle_hash": "e83a499f61e2a7680432d9aa1676209ef6f08bda13a1ad3bda909224610fa2c1",
+  "bundle_size": 28745541,
   "delta_media_count": 176,
-  "changelog": "v1.2.43：安全屋生態實裝 — 適度頻率空中飛行類(巨鴉/血蝠/毒蜂/無人機)與地面(餓狼/喪屍/野豬/劫匪)外部襲擊、房屋破損度視覺與一鍵/工坊自動修復、及安全屋駐守工作自動升級房間與主屋",
-  "published_at": "2026-11-24 10:04:42"
+  "changelog": "v1.2.44：留卡抉擇全面改版為零重疊一列兩格極簡小圖條列、安全屋受襲加入震動／血光／衝擊波與反擊爆閃特效、並新增6大安全屋自動武器（機械臂、自瞄機槍、特斯拉電弧塔、噴火屋簷、光子雷射、無人機巢）",
+  "published_at": "2026-11-24 11:50:06"
 }
