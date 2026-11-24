@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 41,
-  "version_name": "v41",
-  "display_version": "v1.2.41",
+  "version": 42,
+  "version_name": "v42",
+  "display_version": "v1.2.42",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=41",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=41",
-  "bundle_hash": "8d3d08a2df4fa608a02689038eb0dfb50a7a0b00ff2fc96043318d97573ccf90",
-  "bundle_size": 28731384,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=42",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=42",
+  "bundle_hash": "8999a31bab1f34a3ab2ced8b36639e595189abe5e2c714533325ea3ad85ad4e3",
+  "bundle_size": 28735719,
   "delta_media_count": 176,
-  "changelog": "v1.2.41：安全屋外觀與內裝五階升級換圖＋一鍵升級小屋＋B1地下避難所完整同規＋單一來源經濟同步＋全角色三系打鬥與零偏移全身動畫審計重構",
-  "published_at": "2026-11-23 18:31:35"
+  "changelog": "v1.2.42：六大安全屋房型差異化容納人數（4~9人＋1~4寵＋各房獨立床位）與專屬特化／禁建設施＆B1地下室地形加成實裝",
+  "published_at": "2026-11-24 08:52:35"
 }
