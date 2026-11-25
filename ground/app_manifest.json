@@ -6,9 +6,9 @@
   "min_apk_version": 1,
   "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=51",
   "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=51",
-  "bundle_hash": "616d89ab468da9d212f48dc83c23c3e67786021bd34e3010f01662f934be7058",
-  "bundle_size": 23530668,
-  "delta_media_count": 192,
+  "bundle_hash": "7b8fe04d02ae7f44e15df3f05502e45d29551587ba04b13a1e926378a8bc5a34",
+  "bundle_size": 25308104,
+  "delta_media_count": 198,
   "changelog": "v1.2.51：全面優化 6 大地底設施圖（960x540 寫實寬螢幕滿版 HD、零白底／黑邊與假 UI 字樣）並與地下避難所 100% 共用；徹底修復安全屋地下設施無法派工、卸任與升級的函式簽章錯誤，新增「👷 派工」一鍵直達按鈕與專屬地下工作人員配置視窗（含專長排序與自動清理舊壞槽位）。",
-  "published_at": "2026-11-25 23:59:17"
+  "published_at": "2026-11-26 00:03:29"
 }
