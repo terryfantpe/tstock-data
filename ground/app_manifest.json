@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 51,
-  "version_name": "v51",
-  "display_version": "v1.2.51",
+  "version": 52,
+  "version_name": "v52",
+  "display_version": "v1.2.52",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=51",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=51",
-  "bundle_hash": "7b8fe04d02ae7f44e15df3f05502e45d29551587ba04b13a1e926378a8bc5a34",
-  "bundle_size": 25308104,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=52",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=52",
+  "bundle_hash": "0c086143c0ea1ef3bc8aea9cad7350785e3a5b9005911023ba0f56e1dafe9b31",
+  "bundle_size": 25311457,
   "delta_media_count": 198,
-  "changelog": "v1.2.51：全面優化 6 大地底設施圖（960x540 寫實寬螢幕滿版 HD、零白底／黑邊與假 UI 字樣）並與地下避難所 100% 共用；徹底修復安全屋地下設施無法派工、卸任與升級的函式簽章錯誤，新增「👷 派工」一鍵直達按鈕與專屬地下工作人員配置視窗（含專長排序與自動清理舊壞槽位）。",
-  "published_at": "2026-11-26 00:03:29"
+  "changelog": "v1.2.52：新增要塞／安全屋門口偶發敵人偷襲與我方英雄自動防禦開火、撿取掉落物資系統（完全無彈窗干擾，直接在現場飄浮顯示『⚙️ 廢鐵 +xx』『🔫 彈藥 +xx』等明確物資字樣，同步移除安全屋反擊驅離彈窗）；同時全面解除所有選卡與編隊畫面（實景搶物資／長征編隊／戰鬥手牌／安全屋選角）的人名截斷與省略號，讓角色全名完整顯示！",
+  "published_at": "2026-11-26 01:04:25"
 }
