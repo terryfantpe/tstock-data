@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 27,
-  "version_code": 1027,
-  "version_name": "1.0.27",
-  "display_version": "v1.0.27 (build 1027)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=27",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@507567cc706015c6a1ad1c51f88cd517f24ed0ce/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=27",
-  "apk_hash": "855fb266618cf010ca515db8bb8a9c4bd5abc5f90cfe7d558ea1cb9090be2ffc",
-  "apk_size_bytes": 17219075,
-  "apk_size": 17219075,
-  "changelog": "v1.0.27: 全新『足跡地圖』頁面！支援於手機本機安全解析相片 EXIF GPS 並永久寫入 SQLite 快取，在互動地圖上以立可拍縮圖氣泡叢集標示拍攝地點，支援雙指縮放、相簿／高光篩選、時間軸足跡連線、淺色／深夜地圖切換、地點名稱反查與一鍵點擊放大檢視原圖。",
-  "published_at": "2026-11-25 11:03:00"
+  "version": 28,
+  "version_code": 1028,
+  "version_name": "1.0.28",
+  "display_version": "v1.0.28 (build 1028)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=28",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@996f8256ddf0247e69dfe00543fefc0e0fec8530/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=28",
+  "apk_hash": "f80936095b9ed7eeffb313a56c3bc76e19fd56b1d5d18290a9d1ae48ea40de82",
+  "apk_size_bytes": 17219079,
+  "apk_size": 17219079,
+  "changelog": "v1.0.28: 每本相簿皆可獨立設定『正序（由舊到新）』或『倒敘（由新到舊）』！支援於書架長按書本 Style 設定表或閱讀中點擊左下旋鈕一鍵切換，立即重排並永久記憶每本書的排序偏好。",
+  "published_at": "2026-11-26 00:03:58"
 }
