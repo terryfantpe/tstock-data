@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 46,
-  "version_name": "v46",
-  "display_version": "v1.2.46",
+  "version": 47,
+  "version_name": "v47",
+  "display_version": "v1.2.47",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=46",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=46",
-  "bundle_hash": "effc3b2045dfe982157fba59cc69ea1299a6a0fd88651443f60963a578d5ca22",
-  "bundle_size": 23328014,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=47",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=47",
+  "bundle_hash": "ca16686e07726f0a736e1f9b544ed28628e57a3dac713e52951ccc53e3680b08",
+  "bundle_size": 23329923,
   "delta_media_count": 192,
-  "changelog": "v1.2.46：安全屋陣容大擴編（6大→10大台北末日特色安全屋！）新增北投硫磺溫泉堡壘、士林霓虹夜市商場、陽明山裝甲雙層巴士、圓山天文圓頂太空艙，共16張全新客製實景外觀與三區內裝圖＋4張專屬戰術手牌",
-  "published_at": "2026-11-25 09:42:23"
+  "changelog": "v1.2.47：安全屋介面極簡瘦身（13+雜亂按鈕精簡為4大清爽角標：房名/玩樂/建造/升級）並於「🎪玩樂」玩具箱新增3大瘋狂好玩新功能：🎰廢土幸運拉霸、☄️點擊接流星許願雨、🍢前院炭火烤肉趴！",
+  "published_at": "2026-11-25 11:57:04"
 }
