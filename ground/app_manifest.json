@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 45,
-  "version_name": "v45",
-  "display_version": "v1.2.45",
+  "version": 46,
+  "version_name": "v46",
+  "display_version": "v1.2.46",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=45",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=45",
-  "bundle_hash": "cfb4b8311b40b0a4ca286ecaac4f3ffa264e8604ee8a4ec4d7c0868fc9989e73",
-  "bundle_size": 19370283,
-  "delta_media_count": 176,
-  "changelog": "v1.2.45：全遊戲970張圖片高畫質極速瘦身優化(-82.86%節省618MB)、六大安全屋不同初始層數(1~3層)與可擴充至3~5層(擴建即加蓋並+2人數上限)、新增末日亂玩玩具箱(試射演練/屋頂開趴/盲盒空投/點天空放煙火連擊)",
-  "published_at": "2026-11-25 01:45:58"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=46",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=46",
+  "bundle_hash": "effc3b2045dfe982157fba59cc69ea1299a6a0fd88651443f60963a578d5ca22",
+  "bundle_size": 23328014,
+  "delta_media_count": 192,
+  "changelog": "v1.2.46：安全屋陣容大擴編（6大→10大台北末日特色安全屋！）新增北投硫磺溫泉堡壘、士林霓虹夜市商場、陽明山裝甲雙層巴士、圓山天文圓頂太空艙，共16張全新客製實景外觀與三區內裝圖＋4張專屬戰術手牌",
+  "published_at": "2026-11-25 09:42:23"
 }
