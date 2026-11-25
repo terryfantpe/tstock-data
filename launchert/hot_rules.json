@@ -1,6 +1,6 @@
 {
   "hot_rules_version": 1,
-  "updated_at": "2026-11-25 10:50:05",
+  "updated_at": "2026-11-25 20:30:58",
   "changelog": "v1 — 新增熱門 AI / 財經 / 交通分類關鍵字與生活脈動精選情報",
   "extra_classifier_tokens": {
     "self_made": [
@@ -76,5 +76,5 @@
       "secondary_uri": ""
     }
   ],
-  "hot_rules_sha256": "01db41eae85cd752e53333d4f601291d7cde0be9f2137cda96461ad18b2f3cf5"
+  "hot_rules_sha256": "802b6e5c6933f7b67d90c8517e8e07c1826d62b7a73812f8e9c961fee1c4436e"
 }
