@@ -1,16 +1,16 @@
 {
-  "version": 387,
-  "version_name": "v387",
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=387",
+  "version": 388,
+  "version_name": "v388",
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/app_bundle.zip?v=388",
   "min_app_version": 1,
-  "bundle_hash": "226cce4bf2797251a7557c7895ef2b07e77240639b682705ccfbee5e618607c6",
+  "bundle_hash": "add40bbd92c84103ae2139693c010b6e23f91b525b6492f18985aa685e9cbf88",
   "ai_db_url": "https://github.com/terryfantpe/tstock-data/releases/download/db-20261111-0940/TSTOCK_AI.DB",
   "ai_db_mtime": "2026-11-11 09:40:29",
   "ai_db_size": 115924992,
   "ai_db_tag": "db-20261111-0940",
-  "app_version": "1.0.387",
-  "bundle_size": 9354118,
-  "file_count": 243,
-  "published_at": "2026-11-18 14:25:49",
-  "changelog": "OTA v387 完整熱更新：23:00 盤後戰情複盤三層不敗備援架構 ＋ WebView/DB 單份零覆寫秒開優化 ＋ V14/V15/V16 全模式 ota_data 同步"
+  "app_version": "1.0.388",
+  "bundle_size": 8052678,
+  "file_count": 192,
+  "published_at": "2026-11-25 10:48:49",
+  "changelog": "OTA v388 完整熱更新：11/23~11/24 資料補齊 ＋ V14/V15/V16 破底翻首選統一與防守續抱修正"
 }
