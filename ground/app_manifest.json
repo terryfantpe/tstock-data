@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 52,
-  "version_name": "v52",
-  "display_version": "v1.2.52",
+  "version": 53,
+  "version_name": "v53",
+  "display_version": "v1.2.53",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=52",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=52",
-  "bundle_hash": "0c086143c0ea1ef3bc8aea9cad7350785e3a5b9005911023ba0f56e1dafe9b31",
-  "bundle_size": 25311457,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=53",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=53",
+  "bundle_hash": "f46913151c42468683c9235dbc6678b389291d87934dda45c35b17a511e92471",
+  "bundle_size": 25315503,
   "delta_media_count": 198,
-  "changelog": "v1.2.52：新增要塞／安全屋門口偶發敵人偷襲與我方英雄自動防禦開火、撿取掉落物資系統（完全無彈窗干擾，直接在現場飄浮顯示『⚙️ 廢鐵 +xx』『🔫 彈藥 +xx』等明確物資字樣，同步移除安全屋反擊驅離彈窗）；同時全面解除所有選卡與編隊畫面（實景搶物資／長征編隊／戰鬥手牌／安全屋選角）的人名截斷與省略號，讓角色全名完整顯示！",
-  "published_at": "2026-11-26 01:04:25"
+  "changelog": "v1.2.53（好玩開工大禮包）：① 補齊 0-Byte 音效（撿寶叮噹/神龜撒嬌/挑釁大聲公/連鎖爆炸）；② 開放點擊撸米咕／度咕與全戰寵（撒嬌飄字掉物資零彈窗）；③ 庭院玩具箱新增「📢 挑釁大聲公」招怪放煙火搶雙倍寶；④ 新增 4 道黑暗實驗料理（地獄變態辣鍋/巨神龜飼料/霓虹盲盒便當/過期能量飲）；⑤ 戰場升級 6 種連鎖骨牌道具（油電雙爆/夜市油鍋/神秘扭蛋箱野豬衝鋒）與無盡每 3 波奇葩事件波！",
+  "published_at": "2026-11-26 02:33:02"
 }
