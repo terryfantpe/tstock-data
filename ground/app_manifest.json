@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 47,
-  "version_name": "v47",
-  "display_version": "v1.2.47",
+  "version": 48,
+  "version_name": "v48",
+  "display_version": "v1.2.48",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=47",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=47",
-  "bundle_hash": "ca16686e07726f0a736e1f9b544ed28628e57a3dac713e52951ccc53e3680b08",
-  "bundle_size": 23329923,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=48",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=48",
+  "bundle_hash": "a15e643ab2533cfd31524d250a671b665bfa748f95e80d5eadef238365a9ec71",
+  "bundle_size": 23528926,
   "delta_media_count": 192,
-  "changelog": "v1.2.47：安全屋介面極簡瘦身（13+雜亂按鈕精簡為4大清爽角標：房名/玩樂/建造/升級）並於「🎪玩樂」玩具箱新增3大瘋狂好玩新功能：🎰廢土幸運拉霸、☄️點擊接流星許願雨、🍢前院炭火烤肉趴！",
-  "published_at": "2026-11-25 11:57:04"
+  "changelog": "v1.2.48：全體角色與戰寵行走絲滑大升級 — 品磊/昕媛8幀行走圖軀幹中心鎖定(±0.4px零瞬移)、全100+角色實裝2.5D自然步伐擺動與落地壓縮步態、安全屋/地下室/全螢幕房間全面改寫為60fps恆速目標點移動引擎，徹底根除抽搐折返與卡頓！",
+  "published_at": "2026-11-25 12:14:54"
 }
