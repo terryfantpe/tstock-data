@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 28,
-  "version_code": 1028,
-  "version_name": "1.0.28",
-  "display_version": "v1.0.28 (build 1028)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=28",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@996f8256ddf0247e69dfe00543fefc0e0fec8530/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=28",
-  "apk_hash": "f80936095b9ed7eeffb313a56c3bc76e19fd56b1d5d18290a9d1ae48ea40de82",
-  "apk_size_bytes": 17219079,
-  "apk_size": 17219079,
-  "changelog": "v1.0.28: 每本相簿皆可獨立設定『正序（由舊到新）』或『倒敘（由新到舊）』！支援於書架長按書本 Style 設定表或閱讀中點擊左下旋鈕一鍵切換，立即重排並永久記憶每本書的排序偏好。",
-  "published_at": "2026-11-26 00:03:58"
+  "version": 29,
+  "version_code": 1029,
+  "version_name": "1.0.29",
+  "display_version": "v1.0.29 (build 1029)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=29",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@acf035408cd91258f05e5fca19b33f9bfcd3939e/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=29",
+  "apk_hash": "567e2f0265ebd687fcc30d119512a8c9ee26f2245eee8132767a50d93af5b76a",
+  "apk_size_bytes": 17219075,
+  "apk_size": 17219075,
+  "changelog": "v1.0.29: 移除書架頂部多餘的「全部 / 目錄」篩選列，版面更簡潔俐落，直接呈現所有典藏相簿。",
+  "published_at": "2026-11-26 00:39:00"
 }
