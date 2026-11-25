@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 53,
-  "version_name": "v53",
-  "display_version": "v1.2.53",
+  "version": 54,
+  "version_name": "v54",
+  "display_version": "v1.2.54",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=53",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=53",
-  "bundle_hash": "f46913151c42468683c9235dbc6678b389291d87934dda45c35b17a511e92471",
-  "bundle_size": 25315503,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=54",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=54",
+  "bundle_hash": "c4b3ca4d91f1d7951008fa593e5668eeede77acab4d6a0856aa821ae03fcb78d",
+  "bundle_size": 25315893,
   "delta_media_count": 198,
-  "changelog": "v1.2.53（好玩開工大禮包）：① 補齊 0-Byte 音效（撿寶叮噹/神龜撒嬌/挑釁大聲公/連鎖爆炸）；② 開放點擊撸米咕／度咕與全戰寵（撒嬌飄字掉物資零彈窗）；③ 庭院玩具箱新增「📢 挑釁大聲公」招怪放煙火搶雙倍寶；④ 新增 4 道黑暗實驗料理（地獄變態辣鍋/巨神龜飼料/霓虹盲盒便當/過期能量飲）；⑤ 戰場升級 6 種連鎖骨牌道具（油電雙爆/夜市油鍋/神秘扭蛋箱野豬衝鋒）與無盡每 3 波奇葩事件波！",
-  "published_at": "2026-11-26 02:33:02"
+  "changelog": "v1.2.54（屋頂也有敵人＋好玩大禮包）：新增安全屋 2F 頂樓房卡、1F 外景屋頂上方與要塞大門頂部「屋頂空降／攀牆敵人偷襲」（屋頂血翼客／攀牆機械蛛／飛簷幽影怪／高空觸手怪／倒立飛簷喪屍），屋頂守軍與防空自動武器自動開火擊退並無彈窗直接飄字「什麼物資 + xxx」；按「📢 挑釁大聲公」更會觸發門口＋屋頂上下夾擊煙火秀！",
+  "published_at": "2026-11-26 02:37:12"
 }
