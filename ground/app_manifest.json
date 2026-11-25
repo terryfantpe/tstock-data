@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 50,
-  "version_name": "v50",
-  "display_version": "v1.2.50",
+  "version": 51,
+  "version_name": "v51",
+  "display_version": "v1.2.51",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=50",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=50",
-  "bundle_hash": "6c50c965cd5c2f0216b24c677994337aceb9af6c23fcdc50c34a58b07ef414bd",
-  "bundle_size": 23529126,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=51",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=51",
+  "bundle_hash": "616d89ab468da9d212f48dc83c23c3e67786021bd34e3010f01662f934be7058",
+  "bundle_size": 23530668,
   "delta_media_count": 192,
-  "changelog": "v1.2.50：徹底修正全體角色與戰寵「用跳的」問題！將 gfNaturalWalk、gfPetWalk、heroPatrol、shPetBob、shStride 全面改為零離地貼地步態（translateY 歸零 0px、雙腳牢釘地面陰影＋微幅軀幹重心前傾與膝蓋微屈），並修復地堡戰寵陰影跟著跳動的問題。",
-  "published_at": "2026-11-25 20:52:30"
+  "changelog": "v1.2.51：全面優化 6 大地底設施圖（960x540 寫實寬螢幕滿版 HD、零白底／黑邊與假 UI 字樣）並與地下避難所 100% 共用；徹底修復安全屋地下設施無法派工、卸任與升級的函式簽章錯誤，新增「👷 派工」一鍵直達按鈕與專屬地下工作人員配置視窗（含專長排序與自動清理舊壞槽位）。",
+  "published_at": "2026-11-25 23:59:17"
 }
