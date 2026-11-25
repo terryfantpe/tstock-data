@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 26,
-  "version_code": 1026,
-  "version_name": "1.0.26",
-  "display_version": "v1.0.26 (build 1026)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=26",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@b5989f08c118a2a0ed2acb6b77d1796439c51b8a/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=26",
-  "apk_hash": "f56c11f0592567dc7c1cbe1820facdb3236f4cad1750fe32e11d09d10a2f956d",
-  "apk_size_bytes": 17186279,
-  "apk_size": 17186279,
-  "changelog": "v1.0.26: 雜誌版面分隔從 16 種大幅擴充至 34 種建築藝廊構圖（含畫廊浮框、寬幅影展、三聯畫、對角階梯、瑞士四宮格、底片分鏡與中心詩意橫幅），新增防連續重複演算法、橫幅雙欄排版與『藝廊單張 / 雙拼三拼』密度選項",
-  "published_at": "2026-11-25 10:08:46"
+  "version": 27,
+  "version_code": 1027,
+  "version_name": "1.0.27",
+  "display_version": "v1.0.27 (build 1027)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=27",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@507567cc706015c6a1ad1c51f88cd517f24ed0ce/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=27",
+  "apk_hash": "855fb266618cf010ca515db8bb8a9c4bd5abc5f90cfe7d558ea1cb9090be2ffc",
+  "apk_size_bytes": 17219075,
+  "apk_size": 17219075,
+  "changelog": "v1.0.27: 全新『足跡地圖』頁面！支援於手機本機安全解析相片 EXIF GPS 並永久寫入 SQLite 快取，在互動地圖上以立可拍縮圖氣泡叢集標示拍攝地點，支援雙指縮放、相簿／高光篩選、時間軸足跡連線、淺色／深夜地圖切換、地點名稱反查與一鍵點擊放大檢視原圖。",
+  "published_at": "2026-11-25 11:03:00"
 }
