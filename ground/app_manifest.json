@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 49,
-  "version_name": "v49",
-  "display_version": "v1.2.49",
+  "version": 50,
+  "version_name": "v50",
+  "display_version": "v1.2.50",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=49",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=49",
-  "bundle_hash": "15b79a130fb4618246cd689b9d59a7b883ff6815be762b4b59ab41538a1a9a64",
-  "bundle_size": 23528967,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=50",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=50",
+  "bundle_hash": "6c50c965cd5c2f0216b24c677994337aceb9af6c23fcdc50c34a58b07ef414bd",
+  "bundle_size": 23529126,
   "delta_media_count": 192,
-  "changelog": "v1.2.49：修復「選房型時10張房型卡擠壓疊在一起」之Flexbox收縮問題（新增獨立滾動外層＋flexShrink:0），並將1F下方四個戰鬥／搶物資按鈕徹底鎖定為單一橫排(1行4格)，絕不換成4行！",
-  "published_at": "2026-11-25 13:44:25"
+  "changelog": "v1.2.50：徹底修正全體角色與戰寵「用跳的」問題！將 gfNaturalWalk、gfPetWalk、heroPatrol、shPetBob、shStride 全面改為零離地貼地步態（translateY 歸零 0px、雙腳牢釘地面陰影＋微幅軀幹重心前傾與膝蓋微屈），並修復地堡戰寵陰影跟著跳動的問題。",
+  "published_at": "2026-11-25 20:52:30"
 }
