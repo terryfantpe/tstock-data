@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 48,
-  "version_name": "v48",
-  "display_version": "v1.2.48",
+  "version": 49,
+  "version_name": "v49",
+  "display_version": "v1.2.49",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=48",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=48",
-  "bundle_hash": "a15e643ab2533cfd31524d250a671b665bfa748f95e80d5eadef238365a9ec71",
-  "bundle_size": 23528926,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=49",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=49",
+  "bundle_hash": "15b79a130fb4618246cd689b9d59a7b883ff6815be762b4b59ab41538a1a9a64",
+  "bundle_size": 23528967,
   "delta_media_count": 192,
-  "changelog": "v1.2.48：全體角色與戰寵行走絲滑大升級 — 品磊/昕媛8幀行走圖軀幹中心鎖定(±0.4px零瞬移)、全100+角色實裝2.5D自然步伐擺動與落地壓縮步態、安全屋/地下室/全螢幕房間全面改寫為60fps恆速目標點移動引擎，徹底根除抽搐折返與卡頓！",
-  "published_at": "2026-11-25 12:14:54"
+  "changelog": "v1.2.49：修復「選房型時10張房型卡擠壓疊在一起」之Flexbox收縮問題（新增獨立滾動外層＋flexShrink:0），並將1F下方四個戰鬥／搶物資按鈕徹底鎖定為單一橫排(1行4格)，絕不換成4行！",
+  "published_at": "2026-11-25 13:44:25"
 }
