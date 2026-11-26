@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 30,
-  "version_code": 1030,
-  "version_name": "1.0.30",
-  "display_version": "v1.0.30 (build 1030)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=30",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@d0bff0d48fb3c5be3fc999cea7757531e03985fd/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=30",
-  "apk_hash": "7cd5ba4de87f5a069dfc9c06bd073e225d988b7a8b8944db6ba9ed56d51979e2",
+  "version": 31,
+  "version_code": 1031,
+  "version_name": "1.0.31",
+  "display_version": "v1.0.31 (build 1031)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=31",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@dca02a5af5160a4799ec4f11b775b44d1f923794/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=31",
+  "apk_hash": "c1e08c5e1b5f6fa31b993a6040ab5756ac21357acbf19b660440d7282041315f",
   "apk_size_bytes": 17219075,
   "apk_size": 17219075,
-  "changelog": "v1.0.30: 足跡地圖全面移植金邊戰略地圖同款「100% 免費免 API Key 多源圖磚引擎」！預設開啟繁體中文街道圖（Google 免 Key + OSM 備援），右側圖層按鈕可自由切換『繁中街道 / 衛星混合 / 高解衛星 (Esri) / 深夜暗黑』四款免費圖層，並強化 R8 保護即時重繪機制。",
-  "published_at": "2026-11-26 02:31:29"
+  "changelog": "v1.0.31: 全面重寫人像自動置中預載引擎！改為翻頁前即提早深度預分析（往後 4 頁＋往前 2 頁＋書架預暖各相簿前 8 張），每分析完 1 張立即寫入 SQLite 並生效、快速翻頁絕不丟失已完成運算，消除翻完頁才跳動對焦的視覺落差。",
+  "published_at": "2026-11-26 23:51:56"
 }
