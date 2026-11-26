@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 54,
-  "version_name": "v54",
-  "display_version": "v1.2.54",
+  "version": 55,
+  "version_name": "v55",
+  "display_version": "v1.2.55",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=54",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=54",
-  "bundle_hash": "c4b3ca4d91f1d7951008fa593e5668eeede77acab4d6a0856aa821ae03fcb78d",
-  "bundle_size": 25315893,
-  "delta_media_count": 198,
-  "changelog": "v1.2.54（屋頂也有敵人＋好玩大禮包）：新增安全屋 2F 頂樓房卡、1F 外景屋頂上方與要塞大門頂部「屋頂空降／攀牆敵人偷襲」（屋頂血翼客／攀牆機械蛛／飛簷幽影怪／高空觸手怪／倒立飛簷喪屍），屋頂守軍與防空自動武器自動開火擊退並無彈窗直接飄字「什麼物資 + xxx」；按「📢 挑釁大聲公」更會觸發門口＋屋頂上下夾擊煙火秀！",
-  "published_at": "2026-11-26 02:37:12"
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=55",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=55",
+  "bundle_hash": "2b5ab292ba9288749bbfd5d4cbcb48906b49d7cd1d2ebc78845ae397e60101e9",
+  "bundle_size": 26659102,
+  "delta_media_count": 204,
+  "changelog": "v1.2.55（秘寶開發隱藏屋＆隱藏密室）：新增 6 大傳說秘寶系統！可免費開發 3 座隱藏傳說安全屋【🏙️台北101雲端天際行宮 / 🐉圓山密道龍宮行館 / ⚓基隆港潛水艇方舟】與 3 間全房型共用隱藏密室【💰黃金密庫(產💎鑽石+戰利品+25%) / 🧪基因溫泉秘湯(工作升級×1.5+補血) / 🚀黑科技軍火密室(6大自動武器+60%)】，各附 +2 居住席位與寫實高清場景；門口/屋頂反偷襲、地標戰、無盡輪迴、玩具箱與摸米咕度咕皆會無彈窗掉落秘寶，並於 ⚙️建造→🗝️秘寶隱藏 提供保底探勘！",
+  "published_at": "2026-11-27 00:50:19"
 }
