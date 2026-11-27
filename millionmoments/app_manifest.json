@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 33,
-  "version_code": 1033,
-  "version_name": "1.0.33",
-  "display_version": "v1.0.33 (build 1033)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=33",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@aa5d706397b045dddb0f07c14cc5d42ef41e7121/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=33",
-  "apk_hash": "bf7642ac55445878ffcd268b46315077705b718ef008e0cc2d862a2c9d91f3c1",
+  "version": 34,
+  "version_code": 1034,
+  "version_name": "1.0.34",
+  "display_version": "v1.0.34 (build 1034)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=34",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@3893107038b5add0a4bc2bb3fd41e17d46bf5902/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=34",
+  "apk_hash": "a0f7a9a99ab5b795466a8d2b5af2583ac9f84d77791992773f25747d5fe85033",
   "apk_size_bytes": 17235459,
   "apk_size": 17235459,
-  "changelog": "v1.0.33: 優化介面細節與隱私保護體驗。",
-  "published_at": "2026-11-27 15:53:07"
+  "changelog": "v1.0.34: 優化相簿書架顯示、管理按鈕與整體介面流暢度。",
+  "published_at": "2026-11-27 15:56:39"
 }
