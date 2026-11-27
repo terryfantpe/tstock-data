@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 55,
-  "version_name": "v55",
-  "display_version": "v1.2.55",
+  "version": 56,
+  "version_name": "v56",
+  "display_version": "v1.2.56",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=55",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=55",
-  "bundle_hash": "2b5ab292ba9288749bbfd5d4cbcb48906b49d7cd1d2ebc78845ae397e60101e9",
-  "bundle_size": 26659102,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=56",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=56",
+  "bundle_hash": "9bba1bb0267d7aeae0d627bb6726ca39daccef3dd8bfa40dc15227486104ba7b",
+  "bundle_size": 26670826,
   "delta_media_count": 204,
-  "changelog": "v1.2.55（秘寶開發隱藏屋＆隱藏密室）：新增 6 大傳說秘寶系統！可免費開發 3 座隱藏傳說安全屋【🏙️台北101雲端天際行宮 / 🐉圓山密道龍宮行館 / ⚓基隆港潛水艇方舟】與 3 間全房型共用隱藏密室【💰黃金密庫(產💎鑽石+戰利品+25%) / 🧪基因溫泉秘湯(工作升級×1.5+補血) / 🚀黑科技軍火密室(6大自動武器+60%)】，各附 +2 居住席位與寫實高清場景；門口/屋頂反偷襲、地標戰、無盡輪迴、玩具箱與摸米咕度咕皆會無彈窗掉落秘寶，並於 ⚙️建造→🗝️秘寶隱藏 提供保底探勘！",
-  "published_at": "2026-11-27 00:50:19"
+  "changelog": "v1.2.56（YouTube 末日安全屋爆款 8 大劇本全上！）：1. 📹 防爆大門貓眼紅外線監控（6 大經典敲門劇本：道德綁架惡鄰居/綠茶前任/11.4°C偽裝喪屍外送員/砸門惡霸/落難工程師/夜市神廚，高壓電飛/窗前吃火鍋嘲諷/活板門/收編）；2. 🕳️ 門前 3 大惡搞機關陷阱帶（高壓電網電成骷髏/液壓彈射飛出螢幕/黏膠辣椒陣，與門口偷襲即時連動）；3. 🍜 窗外丟泡麵人性大亂鬥劇場；4. 🛒 末日前 20 秒搬空好市多大賣場掃貨小遊戲；5. ❄️ 窗外 4 大極端天災 vs 屋內 26°C 極致反差舒適模式；6. 📅 末日生存 100 天里程碑（Day 30/50/100 必得秘寶）；7. ⛏️ 後院地心鑽探（一層一層往下挖金庫/溫泉/秘寶）；8. 📡 2F 屋頂電台緊急新聞插播跑馬燈！",
+  "published_at": "2026-11-27 14:00:07"
 }
