@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 32,
-  "version_code": 1032,
-  "version_name": "1.0.32",
-  "display_version": "v1.0.32 (build 1032)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=32",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@aae0beec32641bc421f556106922ab9583de2ac1/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=32",
-  "apk_hash": "8723fc937d75d8d68254e1aa07703035bf6e6f342b14535f358edc8ff47afcdb",
+  "version": 33,
+  "version_code": 1033,
+  "version_name": "1.0.33",
+  "display_version": "v1.0.33 (build 1033)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=33",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@aa5d706397b045dddb0f07c14cc5d42ef41e7121/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=33",
+  "apk_hash": "bf7642ac55445878ffcd268b46315077705b718ef008e0cc2d862a2c9d91f3c1",
   "apk_size_bytes": 17235459,
   "apk_size": 17235459,
-  "changelog": "v1.0.32: 全新『無痕私密書庫』！連點書架標題「品 珍貴時光」三下才開啟專屬介面，完整顯示所有隱藏相簿與一般相簿，且唯有在此介面才能設定相簿隱藏／取消隱藏；隱藏後的相簿會從一般書架、足跡地圖與資料夾清單中徹底隱身，離開背景自動上鎖。",
-  "published_at": "2026-11-27 15:45:27"
+  "changelog": "v1.0.33: 優化介面細節與隱私保護體驗。",
+  "published_at": "2026-11-27 15:53:07"
 }
