@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 57,
-  "version_name": "v57",
-  "display_version": "v1.2.57",
+  "version": 58,
+  "version_name": "v58",
+  "display_version": "v1.2.58",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=57",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=57",
-  "bundle_hash": "a2a8f7f30bca8838a47237a1f3f0f439a61e6cb8ec78d7093d4cd81a559c9c19",
-  "bundle_size": 29502088,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=58",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=58",
+  "bundle_hash": "47df2f6239c6bee420bc4bbc167763adc4d0f8fbd6c93cb799ec84c7d03a3993",
+  "bundle_size": 29710179,
   "delta_media_count": 212,
-  "changelog": "v1.2.57（人數上限最佳化＋主要房間必有人最佳配房＋12名英雄直立行走圖重繪）：1. 全面最佳化安全屋與地下避難所人數上限（安全屋主屋每+2級與每解封1間B1設施皆自動+1人數上限；避難所保底=已解鎖房數×2+4且休息室每級+3人）；2. 重寫三階段「主要房間保底必有人」最佳配房演算法，先確保每個主要房間至少進駐1名專長/最強英雄絕不唱空城，並於1F左下角提供一鍵「⚡最佳配房」同步派駐地上＋B1；3. 重繪 12 名原本半跪/單腳飛踢/空中蜷縮英雄（ssr_43/44/46/50/71/75/76/80/85/86/92/93）為雙腳踏地直立帥氣行走圖，並校準品磊/昕媛8幀步態中心與對稱步態動畫，徹底根除走路瘸腿感！",
-  "published_at": "2026-11-27 15:43:26"
+  "changelog": "v1.2.58（法醫審計全面根除角色閃爍＋零閃爍 GPU 渲染引擎強化）：1. 修復品磊(anim_ssr_0_walk.png)與昕媛(anim_ssr_00_walk.png)8幀序列圖第1~7幀漏偏移空白導致「走路一閃一閃」致命 Bug，無損還原全部 8 幀並精準鎖定軀幹質心；2. 新增全域共用零閃爍 StableHeroImg 與雙層常駐 GPU FlowHeroSprite，徹底消除轉身 scaleX 0.14s 過場縮至 0px 閃滅、Bunker/Overview 40fps 重繪重置 404 src 迴圈、以及 FacilityView 轉身重置 fallbackStage 閃爍；3. 新增 verify_apk 永久 8 幀完整性防呆守衛，確保所有序列圖 100% 滿幀零空白！",
+  "published_at": "2026-11-28 04:32:33"
 }
