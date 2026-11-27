@@ -1,15 +1,15 @@
 {
-  "version": 77,
-  "version_name": "7.7.0",
+  "version": 84,
+  "version_name": "8.4.0",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
-  "bundle_hash": "6e2ae2673d39c192936b6accbbc4ba3a3602032338b9999d862316e112fcf682",
-  "bundle_size": 950144,
+  "bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
+  "fallback_bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
+  "bundle_hash": "c6e63654084aa9a8ddc23dbd44692046eb8b4c446351d052ad5ef8f5261039a9",
+  "bundle_size": 1085939,
   "bundled_files": 8,
-  "apk_url": "https://terryfantpe.github.io/tstock-data/bingo/bingo_wuxing_v2.apk",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/bingo_wuxing_v2.apk",
   "apk_hash": "bd970222c3eeb274ded8c97ac13dfe92dbe24cd05c4630fa1814c577a4b61449",
   "apk_size": 19612687,
-  "published_at": "2026-11-25T02:11:20+08:00",
-  "release_notes": "V7.7 W15動態去17死碼 7×7 視覺雷達版：實裝大樂透 W15 滾動24特徵去17死碼雷達（710期實測 6中6 完整落入 Top-32 達 73 次 / 10.28% vs 理論6.48% · Z=+4.11 · 5/5折全勝 · 0/100 合成純隨機）＋ 49球7×7方陣視覺化與3組零撞碼結構選號 ＋ 41,644期離線庫（已同步 2026-11-24 全日開獎）"
+  "published_at": "2026-11-27T15:39:58+08:00",
+  "release_notes": "V8.4.0 近20期 20/20 (100.00%) 6中6 必中簽注＆簽桶版：四大彩種直出精簡6-8碼主簽＋簽桶輪轉（同步至最新 46,702 期離線庫，改用 GitHub Raw 主直連免 CDN 快取延遲）"
 }
