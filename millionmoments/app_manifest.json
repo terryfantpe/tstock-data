@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 35,
-  "version_code": 1035,
-  "version_name": "1.0.35",
-  "display_version": "v1.0.35 (build 1035)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=35",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@4afe663cc0a2756fdd3882473613e3563781550e/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=35",
-  "apk_hash": "1ccac485c62f23e783d3212896392fced587c25bcef5f486d162692c9420abc6",
-  "apk_size_bytes": 17235463,
-  "apk_size": 17235463,
-  "changelog": "v1.0.35: 全面修復法醫審計 8 項穩定性與隱私邊界問題：資料庫欄位級原子寫入防併發覆寫、人臉預載批量刷新減輕滑動抖動、GPS 掃描支援即時取消不卡鎖、加強隱藏相簿隱私隔離、大圖快滑操作精準對應、足跡地圖不中斷重疊圖磚並支援跨換日線全覽縮放。",
-  "published_at": "2026-11-28 09:22:11"
+  "version": 36,
+  "version_code": 1036,
+  "version_name": "1.0.36",
+  "display_version": "v1.0.36 (build 1036)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=36",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@c361137aa70ce82654acfcaec9317b174118cab6/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=36",
+  "apk_hash": "0d8f06fd9b3f6f11f000a20513f137bdc0b936639320a20d414e32ff79a67b37",
+  "apk_size_bytes": 17235459,
+  "apk_size": 17235459,
+  "changelog": "v1.0.36: 全新擴充 7 款類翻頁模式（3D 書軸／實體紙角捲頁／立體相片卡堆疊／日式折本手風琴／3D 藝廊方盒／美術館視差滑移／靜謐溶鏡）與 8 款創意組頁風格（新增『同日大結合』同日相片自動成頁、『拍立得手札桌』立體白邊微傾拍立得、『35mm 底片接觸印相』真實底片齒孔與幀號、『電影寬銀幕分鏡』），閱讀中左下旋鈕即可一鍵切換體驗，並移除空白書架的隱藏目錄提示。",
+  "published_at": "2026-11-28 17:13:48"
 }
