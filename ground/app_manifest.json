@@ -1,14 +1,14 @@
 {
   "app_id": "com.bunker.ground",
-  "version": 58,
-  "version_name": "v58",
-  "display_version": "v1.2.58",
+  "version": 59,
+  "version_name": "v59",
+  "display_version": "v1.2.59",
   "min_apk_version": 1,
-  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=58",
-  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=58",
-  "bundle_hash": "47df2f6239c6bee420bc4bbc167763adc4d0f8fbd6c93cb799ec84c7d03a3993",
-  "bundle_size": 29710179,
+  "bundle_url": "https://terryfantpe.github.io/tstock-data/ground/app_bundle.zip?v=59",
+  "fallback_bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/ground/app_bundle.zip?v=59",
+  "bundle_hash": "b794adafc565f11c25637f19cf49bff0c15d6050c9ed07cfebcc83cafa31c777",
+  "bundle_size": 29714924,
   "delta_media_count": 212,
-  "changelog": "v1.2.58（法醫審計全面根除角色閃爍＋零閃爍 GPU 渲染引擎強化）：1. 修復品磊(anim_ssr_0_walk.png)與昕媛(anim_ssr_00_walk.png)8幀序列圖第1~7幀漏偏移空白導致「走路一閃一閃」致命 Bug，無損還原全部 8 幀並精準鎖定軀幹質心；2. 新增全域共用零閃爍 StableHeroImg 與雙層常駐 GPU FlowHeroSprite，徹底消除轉身 scaleX 0.14s 過場縮至 0px 閃滅、Bunker/Overview 40fps 重繪重置 404 src 迴圈、以及 FacilityView 轉身重置 fallbackStage 閃爍；3. 新增 verify_apk 永久 8 幀完整性防呆守衛，確保所有序列圖 100% 滿幀零空白！",
-  "published_at": "2026-11-28 04:32:33"
+  "changelog": "v1.2.59（全38隻寵物動態肢體引擎＋實感狙擊超載玩法＋極簡減字HUD）：1. 全新零閃爍 AnimatedPetActor 讓38隻戰寵依物種長腳邁步走（米咕/度咕萌龜步、犬貓獅熊狐狸四足小跑）、振翅高飛（鷹/鴿/隼/火鶴/聖光天馬/翡翠精靈雙層羽翼/蝶翼拍動騰空＋動態縮放地面陰影）、推進器懸浮（無人機/智腦/導航儀等離子噴射）與多足爬行／蛇行，全面套用至安全屋、地下地堡與設施內景；2. 強化實感核心玩法：門口與屋頂偷襲敵人支援直接點擊狙擊（🎯 1.5x 物資＋連擊倍數🔥×N）、新增⚡防線超載充能大招（15秒資源噴發＋波次加速＋萌寵狂奔）與極簡單行戰術目標條；3. 全面減字去噪：大幅精簡庭院上下膠囊、房間卡片、玩樂抽屜與戰鬥列文字，畫面乾淨俐落零重疊！",
+  "published_at": "2026-11-28 17:18:24"
 }
