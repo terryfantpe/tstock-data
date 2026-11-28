@@ -1,15 +1,15 @@
 {
-  "version": 85,
-  "version_name": "8.5.0",
+  "version": 86,
+  "version_name": "8.6.0",
   "min_apk_version": 1,
   "bundle_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/app_bundle.zip",
   "fallback_bundle_url": "https://terryfantpe.github.io/tstock-data/bingo/app_bundle.zip",
-  "bundle_hash": "15fe8eb6ac230a72aab94d1ba7eb038751129ee8c7b6267c54edbf0d97c4984c",
-  "bundle_size": 579617,
+  "bundle_hash": "f01893537d81d8706d42392409267a5cb4df4023cfadc2617b78b1009ec87c8f",
+  "bundle_size": 580133,
   "bundled_files": 8,
   "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/bingo/bingo_wuxing_v2.apk",
-  "apk_hash": "bd970222c3eeb274ded8c97ac13dfe92dbe24cd05c4630fa1814c577a4b61449",
-  "apk_size": 19612687,
-  "published_at": "2026-11-27T15:51:22+08:00",
-  "release_notes": "V8.5.0 極速瘦身12倍(224KB)＋近20期20/20(100%)6中6逐期對獎明細表＋即時6~8碼主簽＆簽桶"
+  "apk_hash": "c2ba9e8890c565398b50c2327e097efc7ff5c019bfc60d9b9d12ceb6199bdcbc",
+  "apk_size": 18832871,
+  "published_at": "2026-11-28T09:33:03+08:00",
+  "release_notes": "V8.6.0 全棧審計修復版：Android非同步零凍結橋接＋歷史期數精確累加＋搜尋展開保持＋同步鈕防鎖死＋BINGO完整20球標示（46,831期）"
 }
