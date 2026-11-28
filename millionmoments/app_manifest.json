@@ -1,15 +1,15 @@
 {
   "app_id": "com.millionmoments.album",
-  "version": 34,
-  "version_code": 1034,
-  "version_name": "1.0.34",
-  "display_version": "v1.0.34 (build 1034)",
-  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=34",
-  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@3893107038b5add0a4bc2bb3fd41e17d46bf5902/millionmoments/MillionMoments.apk",
-  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=34",
-  "apk_hash": "a0f7a9a99ab5b795466a8d2b5af2583ac9f84d77791992773f25747d5fe85033",
-  "apk_size_bytes": 17235459,
-  "apk_size": 17235459,
-  "changelog": "v1.0.34: 優化相簿書架顯示、管理按鈕與整體介面流暢度。",
-  "published_at": "2026-11-27 15:56:39"
+  "version": 35,
+  "version_code": 1035,
+  "version_name": "1.0.35",
+  "display_version": "v1.0.35 (build 1035)",
+  "apk_url": "https://raw.githubusercontent.com/terryfantpe/tstock-data/main/millionmoments/MillionMoments.apk?v=35",
+  "apk_cdn_url": "https://cdn.jsdelivr.net/gh/terryfantpe/tstock-data@4afe663cc0a2756fdd3882473613e3563781550e/millionmoments/MillionMoments.apk",
+  "apk_pages_url": "https://terryfantpe.github.io/tstock-data/millionmoments/MillionMoments.apk?v=35",
+  "apk_hash": "1ccac485c62f23e783d3212896392fced587c25bcef5f486d162692c9420abc6",
+  "apk_size_bytes": 17235463,
+  "apk_size": 17235463,
+  "changelog": "v1.0.35: 全面修復法醫審計 8 項穩定性與隱私邊界問題：資料庫欄位級原子寫入防併發覆寫、人臉預載批量刷新減輕滑動抖動、GPS 掃描支援即時取消不卡鎖、加強隱藏相簿隱私隔離、大圖快滑操作精準對應、足跡地圖不中斷重疊圖磚並支援跨換日線全覽縮放。",
+  "published_at": "2026-11-28 09:22:11"
 }
